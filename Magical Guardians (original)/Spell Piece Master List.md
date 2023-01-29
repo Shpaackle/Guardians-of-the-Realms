@@ -1,0 +1,1040 @@
+# Spell Piece Master List
+
+## A
+- Abomination
+- Absurd 
+- Acceptance 
+	- Trust
+- Acid
+- Acrid 
+	- Miasma
+- Adamant 
+- Admiration 
+	- Trust
+- Adoration 
+	- Trust
+- Affliction
+- Agony 
+- Agriculture
+- Air
+- Alchemy
+- Aloof 
+- Amazement 
+	- Surprise
+- Ambush
+- Ancestors 
+- Animal
+- Annoyance
+	- Anger
+- Anxiety 
+	- Anticipation
+- Apathy
+- Arcane
+- Arcing 
+	- Lightning
+- Arctic
+	- Cold
+- Aristocracy
+- Arrow
+- Arson
+- Art
+- Artifice
+- Ash
+- Aspect 
+- Assisting 
+- Astonishment 
+	- Surprise
+- Atrophy 
+- Attentiveness 
+	- Anticipation
+- Aura        
+- Authority
+- Avarice 
+- Averting
+	- Disgust 
+
+---
+## B
+- Banish
+- Beast
+- Beautiful 
+- Beauty
+- Bedlam 
+- Beginning 
+- Beguiling 
+- Bellow
+- Below
+- Bending     
+- Bestow
+- Bind
+- Binding  
+- Biting    
+- Bitter 
+	- Miasma
+- Blade       
+- ==Blazing== 
+	- Fire
+- Blessing 
+- Blinding
+- Bliss
+- Blizzard
+	- Cold
+- Blocking    
+- Blood
+- Blowing 
+	- Air
+- Blunt       
+- Bold 
+	- Trust
+- Bolt 
+	- Lightning
+- Bond       
+- Bonus
+- Boon
+- Boredom 
+	- Disgust
+- Boundaries 
+- Boundless    
+- Bounty
+- Brambles 
+- Branch
+- Brash
+- Bravery 
+- Breath 
+- Breeze 
+	- Air
+- Brew       
+- Bright 
+	- Lightning
+- Brine   
+	- Water 
+- Brittle
+	- Cold
+- Broken 
+- Bubbling    
+- Buried
+- ==Burning== 
+	- Fire
+
+---
+## C
+- Calm
+- Calming
+- Cannibalism
+- Captivation
+- Careful
+- Casting
+- Catastrophe
+- Cauldron
+- Caustic     
+- Cavern 
+- Caves
+- Chain
+- Change
+- Changing  
+- Channel     
+- Chaos
+- Charged 
+	- Lightning
+- Charging    
+- Charm
+- Charming    
+- Chasm
+- Chastise 
+- Cheerfulness 
+	- Joy
+- Chill
+	- Cold
+- Chilling
+- Chivalry
+- Cities
+- Clamor
+- Claw
+- Clawing 
+- Claws       
+- Cleaving
+- Climbing
+- Clinging
+- Cloaked 
+- Clockwork 
+- Cloud 
+	- Air
+- Cloying
+	- Miasma
+- Cog          
+- Cold
+- Comfort
+- Commerce
+- Community
+- Compassionate 
+- Competition
+- Confidence
+- Confident 
+	- Trust
+- Connected   
+- Consoling 
+- Constrict 
+- Construct
+- Construction
+- ==Consuming== 
+	- Fire
+- Contagion 
+- Controlling 
+- Conviction 
+	- Trust
+- Cooperation
+- Corrupted
+- Corrupting 
+- Corruption
+- Courage
+	- Anticipation
+- Covering    
+- Cowering 
+	- Fear
+- Cracking 
+	- Earth
+- Crackling 
+	- Lightning
+- Craft
+- Crave 
+- Crawling  
+- Creation
+- Creative 
+- Creeping 
+- Crown
+- ==Crumbling==
+	- Earth
+- Crystal
+- Curiosity 
+	- Surprise
+- Current 
+	- Water
+- Curse
+- Cursed 
+
+---
+## D
+- Dance
+- Dancing 
+- Dark
+- Darkness
+- Day
+- Daylight
+- Death
+- Deathless
+- Debris 
+- Decay
+- Decaying 
+	- Miasma
+- Decoy
+- Deception
+- Deep        
+- Defense
+- Deft        
+- Dejection 
+	- Sadness
+- Delayed 
+- Delight 
+	- Joy
+- Delirium
+- Demon
+- Despair
+	- Fear
+- Destruction
+- Detect
+- Device
+- Devil
+- Devouring 
+- Dim 
+- Dimension    
+- Disable
+- Disarray 
+	- Chaos
+- Discord 
+	- Chaos
+- Discovery
+- Disguise
+- Dislike 
+	- Disgust
+- Dismay 
+	- Surprise
+- Disordered 
+	- Chaos
+- Disrepair    
+- Disrupt
+- Dissolving 
+	- Miasma
+- Distant
+- Distortion
+- Distraction 
+	- Surprise
+- Distressing 
+	- Disgust
+- Divine
+- Dodging     
+- Doom 
+	- Surprise
+- Doubt 
+	- Fear
+- Dragon
+- Dread 
+	- Fear
+- Dreaming
+- Dreams
+- Drink       
+- Drowning 
+	- Water
+- Duels
+- Dulled 
+	- Sadness
+- Dust
+- Duty
+	- Trust
+
+---
+## E
+- Earth
+- Echo 
+- Eclipse 
+- Ecstasy 
+	- Joy
+- Education
+- Elation 
+	- Joy
+- Eldritch
+- Electric 
+	- Lightning
+- Electricity
+- Elegance
+- Elegant 
+- Elemental 
+- ==Ember== 
+	- Fire
+- Embodied     
+- Empowered
+- Ending 
+- Enduring
+- Energy       
+- Engulfing
+	- Anger
+- Entropy
+- Ephemeral
+- Eroding 
+- Erratic 
+	- Chaos
+- Espionage
+- Essence         
+- Eternal     
+- Evil
+- Excitement 
+	- Joy
+- Exorcism
+- Expanding
+- Expectancy 
+	- Anticipation
+- Exploit 
+- Exploration
+- Extra
+- Exultation 
+
+---
+## F
+- Fabricate
+- Fading 
+- Faithful 
+	- Trust
+- Falling
+- Family
+- Fang
+- Fanged      
+- Fate
+- Favor
+- Fear
+- Feast
+- Feather
+- Ferocity
+- Fertile 
+- Filmy
+- Fire
+- Fissure 
+- Fist
+- ==Flame== 
+	- Fire
+- Flask       
+- Fleeing 
+	- Fear
+- Fleeting 
+	- Air
+- Floating
+	- Air
+- Flotsam
+- Flow         
+- Flowing   
+	- Water  
+- Flying 
+	- Air
+- Foolish 
+- Forceful    
+- Foreboding 
+- Foresight 
+- Forge       
+- Forged 
+	- Metal
+- Forgiving
+- Fortifications
+- Fortune
+- Foundation 
+- Freedom
+- Freezing
+	- Cold
+- Frenzy 
+- Friend      
+- Friendliness 
+	- Joy
+- Friendship
+- Fright 
+	- Fear
+- Frost
+	- Cold
+- Fueling
+	- Anger
+- Function     
+- Funnel      
+- Fur
+- Fury
+	- Anger
+
+---
+## G
+- Gallant 
+- Gambling 
+- Garden 
+- Gas         
+- Gateway 
+- Gear         
+- Gems
+- Giant
+- Glacier
+	- Cold
+- Glamour 
+- Gloominess
+	- Sadness 
+- Glory
+- Glowing
+- Glyph
+- Gold 
+	- Metal
+- Goo         
+- Good
+- Grace
+- Graceful
+- Grasping
+- Greed
+- Grief 
+	- Sadness
+- Grinding 
+- Grip
+- Ground 
+	- Earth
+- Group       
+- Growing
+- Growth
+- Guiding
+- Guile
+- Guilt 
+	- Fear
+- Gust 
+	- Air
+
+---
+## H
+- Hardening
+- Harmony     
+- Hate
+	- Anger
+- Hatred
+- Haunting
+- Haven 
+- Havoc 
+	- Chaos
+- Haze 
+- Healing
+- Hearth
+- Heavy 
+	- Sadness
+- Helping
+- Heroic
+- Heroism
+- Hidden   
+- Holy
+- Home
+- Honor
+	- Trust
+- Hope 
+	- Anticipation
+- Horrid 
+- Hostility
+	- Anger
+- Hubris
+- Hug         
+- Humble 
+- Humility
+- Hunt
+
+---
+## I
+- Ice
+- Icicle
+	- Cold
+- Ignite
+- Imagination
+- Imbibe 
+- Immediate 
+- Immolation 
+- Impact      
+- Indulgence
+- Industry
+- Inevitable
+- Infection
+- Ingot 
+	- Metal
+- Innuendo
+- Insanity
+- Insect
+- Inspiring 
+- Interest 
+	- Anticipation
+- Interlocking 
+- Invention 
+- Iron 
+	- Metal
+- Irresistible 
+- Irritation
+	- Anger
+- Isolation
+
+---
+## J
+- Jarring
+	- Disgust 
+- Jaunt
+- Jaunty 
+- Jewel 
+- Joining     
+- Jubilation 
+- Judgment
+- Jumble 
+	- Chaos
+- Jumping
+- Justice
+
+---
+## K
+- Knot        
+- Knowledge
+
+---
+## L
+- Lament 
+	- Sadness
+- Language
+- Latent      
+- Laughing 
+- Law
+- Leadership
+- Leaf        
+- Legend
+- Legislation
+- Liberation
+	- Chaos
+- Life
+- Light
+- Lightning
+- Limb
+- Limbs 
+- Line        
+- Liquid      
+- Litany 
+- Loathing 
+	- Disgust
+- Locking
+- Long 
+- Loss
+- Love
+	- Trust
+- Loyal 
+- Loyalty
+- Lucid
+- Luck
+- Lush
+- Lust
+
+---
+## M
+- Machine      
+- Madness
+- Magic
+- Magnify
+- Maneuver    
+- Mantle 
+- Mark 
+- Marking
+- Martyr
+- Masked 
+- Masking 
+- Meaning     
+- Medicine
+- Meditation
+- Melody
+- Memory
+- Menacing
+- Mercy 
+- Metal       
+- Metallic 
+	- Metal
+- Mighty      
+- Mirage
+- Misery 
+	- Sadness
+- Mist        
+- Mistaken
+- Misty
+- Mixing     
+- Mocking
+- Monsoon
+- Monster 
+- Monument 
+- Moon
+- Mountain 
+	- Earth
+- Murder
+- Murky 
+- Music
+- Myriad 
+- Mystery
+
+---
+## N
+- Nail 
+- Nature
+- Nausea
+	- Disgust
+- Necromancer
+- Night
+- Nightmare
+- Nobility
+- Noise 
+- Nurture 
+
+---
+## O
+- Objection
+	- Disgust 
+- Obscuring 
+- Ocean 
+- Oceans
+- Omen 
+- Ominous 
+- Ooze
+- Optimism 
+	- Joy
+- Orb 
+- Outrage 
+	- Surprise
+- Overwhelming 
+
+---
+## P
+- Pain
+- Panic 
+	- Fear
+- Part         
+- Passion
+- Path        
+- Pattern
+- Peaceful 
+- Penance
+- Penitent 
+- Pensiveness 
+	- Sadness
+- Perfection
+- Persistent
+- Petrification
+- Phantasm
+- Phantom
+- Pieces       
+- Piercing    
+- Plague
+- Plant
+- Plenty 
+- Poison 
+- Pool 
+	- Water
+- Portal      
+- Portent 
+	- Surprise
+- Powder      
+- Powerful     
+- Precise     
+- Pressure
+- Prism 
+- Prismatic
+- Prison 
+- Prophecy 
+- Protection
+- Prying
+- Puff 
+	- Air
+- Pulsing      
+- Pungent 
+	- Miasma
+- Purge
+- Purging 
+- Purify 
+- Purifying
+- Purity 
+- Purpose 
+- Pursue
+- Pursuing
+
+---
+## Q
+- Quarry 
+- Quenching
+- Queue 
+- Quicken 
+
+---
+## R
+- Radiation
+- Rage
+	- Anger
+- Rainbow
+- Rallying
+- Random 
+	- Chaos
+- Rebel 
+- Recovery
+- Redacted    
+- Redeemed
+- Redemption 
+- Reeling 
+- Refined 
+- Reflection 
+	- Metal
+- Refuge
+- Remorse 
+	- Disgust
+- Repairing    
+- Repel
+- Repent
+- Repose
+- Repulsing
+- Reserve
+- Residue 
+- Resist
+- Resisting
+- Resolve
+- Resonant 
+	- Metal
+- Resonate
+- Respect 
+- Restful
+- Resting
+- Restoration
+- Restoring
+- Restrain
+- Restrained
+- Resurrection
+- Returning
+- Revelation
+	- Surprise
+- Revelry
+- Revolution
+- Revulsion 
+	- Disgust
+- Righteous
+	- Anger
+- Rigid       
+- Ringing 
+	- Metal
+- Riot
+	- Chaos
+- Ripple 
+	- Water
+- Rites
+- Rivers
+- Rock 
+	- Earth
+- Rod/Staff   
+- Rule 
+- Rumble 
+	- Lightning
+- Rune       
+- Runes 
+- Ruthless
+
+---
+## S
+- Sacred
+- Sacrifice
+- Salt
+- Sanctuary 
+- Sand 
+- Scale
+- Scaly       
+- Scalykind
+- ==Scorching== 
+	- Fire
+- Scratching
+- Screwing     
+- Script
+- Searching
+- Searing
+- Seasons
+- Seaweed 
+	- Water
+- Secret     
+- Secrets 
+- Secure 
+- Securing
+- Seize       
+- Self-Realization
+- Sending
+- Separation  
+- Serenity
+	- Joy
+- Shackle     
+- Shade 
+- Shadow
+- Shadows
+- Shaking 
+	- Earth
+- Shambles
+	- Chaos 
+- Shame
+	- Fear
+- Shape
+- Share       
+- Sharp       
+- Shatter
+- Shield
+- Shielding   
+- Shifting
+- Shimmer 
+	- Metal
+- Shining 
+- Shiny 
+	- Metal
+- Shock
+	- Disgust
+- Shocking
+- Short 
+- Sigil
+- Silence
+- Silent 
+- Silver 
+	- Metal
+- Simple 
+- Siphon
+- Sky 
+	- Air
+- Slavery
+- Slimy 
+	- Miasma
+- Slippery
+	- Cold
+- Slumber 
+- Smite
+- Smoke
+- Snowflake
+	- Cold
+- Snowy
+	- Cold
+- Solid 
+	- Earth
+- Solitude
+- Soothe 
+- Soothing
+- Sorrow
+	- Sadness
+- Souls
+- Sour 
+	- Miasma
+- Sovereignty
+- ==Spark== 
+	- Fire
+- Sparkle 
+- Spiral
+- Splash 
+	- Water
+- Splendor
+- Splitting   
+- Spoiled 
+	- Miasma
+- Spore
+- Stagnant 
+- Stars
+- Steaming     
+- Steeped 
+- Steeping    
+- Sticky      
+- Stone 
+	- Earth
+- Storm 
+	- Lightning
+- Storming
+- Storms
+- Streaming 
+	- Water
+- Strength       
+- Strengthen 
+- Striding
+- Strife 
+- Strike
+- Striking    
+- Structure 
+- Stunning 
+	- Lightning
+- Sudden 
+	- Surprise
+- Summon      
+- Sun
+- Support     
+- Suppress 
+- Surge       
+- Surreal
+- Surrounding 
+- Swarm
+- Swift      
+- Swimming    
+- Swirling    
+	- Air
+- Sympathy 
+
+--- 
+## T
+- Tactics
+- Taint 
+- Talon     
+- Tapestry  
+- Tempest 
+- Tempting
+- Tentacles 
+- Terrible 
+- Terror 
+	- Fear
+- Thievery
+- Thirst
+- Thorns
+- Thought
+- Threads     
+- Thunder 
+	- Lightning
+- Ticking 
+- Tide 
+	- Water
+- Time
+- Toil
+- Tolerance 
+	- Trust
+- Tools        
+- Tooth
+- Torment 
+- Torrent
+- Torture
+- Tough       
+- Tower
+- Towering
+- Toxic 
+	- Miasma
+- Trade
+- Tradition 
+- Trance 
+- Transform 
+- Trap       
+- Travel
+- Trembling 
+	- Fear
+- Trickery
+- Trophy 
+- Truth
+- Turmoil 
+	- Chaos
+- Turning      
+- Tusked      
+- Twilight
+- Twisted     
+- Tyranny
+
+--- 
+## U
+- Uncanny
+- Uncertainty 
+	- Surprise
+- Undead
+- Uniform 
+- Unravel     
+- Unseen 
+- Us          
+
+--- 
+## V
+- Valor 
+- Veil
+- Venom
+- Vibrant 
+- Vigil
+- Vigilance 
+	- Anticipation
+- Vigilant 
+- Vine        
+- Vines
+- Virtuous 
+- Viscous 
+	- Miasma
+- Vivid
+- Void
+
+---
+## W
+- War
+- Ward
+- Warding
+- Wards
+- Warmth      
+- Watchful 
+- Watching 
+- Water
+- Wave 
+	- Water
+- Wealth
+- Weather
+- Weave      
+- Web
+- Webs
+- Weeping
+- Wheel        
+- Whimsy
+- Whirling
+- Whispering
+- Whispers 
+- Wilting 
+- Wind
+	- Air
+- Wing        
+- Wondrous
+- Word        
+- Worn         
+
+---
+## Y
+- Yawning
+- Yearning
+
+---
+## Z
+- Zapping 
+	- Lightning
+- Zeal
+

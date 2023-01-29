@@ -1,0 +1,55 @@
+<h1><center>Advancements</h1></center>
+<br>
+## Shared
+- **Increased Sentience** - Gains new level of Sentience for applied Assist Pool.
+	- *Telepathic Communication*
+	- *Verbal Communication*
+	- *Free Will* 
+	- *Autonomy*
+- **Supercharge** - Gain big effect of magic use but immediately Drained afterwards
+	- Conduit
+<br>
+## Notes
+- **Synergist** 
+	- prepare/create something for your allies, they can use one of your personal Spell Pieces as their own once in the next day
+	- when you join in a Chord, the other caster can regain health equal to Strain you gained
+	- gain Drain to activate a Key for someon (Season 2 or 3)
+- **Invoker**
+	- Gather pieces of the area in some meaningful way to "capture" one of the local Spell Pieces. Fill the line with the word, erasing any word previously there. 
+		- This might be a good idea for Assist Pool ability with the Advancement would be extra blank line, can be taken multiple times.
+	- Maybe exchange one of your personal or Assist Pool Spell Pieces with one you have collected permanently.
+	- "One With the Land"
+		- if this doesn't become the name of the Assist Pool then it is the name for the following advancement (maybe as a Specialty)
+			- You have connected so deeply with the world and Aethyr, that you can sustain yourself on Aethyr alone
+	- "Not So Fast/Come Back"
+		- reach out using the Aethyr in the environment to cause the plants to grow and grab someone/something
+	- Can use Terrain spell pieces as Personal spell pieces
+	- Able to pull in extra Aethyr in the air to help vs Tangle? Maybe this helps to advance Destroy
+	- Add to Assist Pool - "Change the Lands" (3)
+		- Take control of the lands around you throuh the Aehtyr in everythig. Change details to better your situation. Next 3 turns, add 4 Succersses to your rolls (maybe end of Scene)
+- **General**
+	- Ability to remove an action from the enemy unit next turn
+	- Spend 1 Strain to advance one goal that threatens a specific thing
+		- Season 5
+- **Mechanist**
+	- "Attack/Turret Mode"
+		- for X turns, robot buddy adds dice to pool when adding to Advantage Pool
+	- "Exo-suit"
+		- add 4 dice to all actions for Scene
+	- "Perfect Machinery"
+		- Imbue machine with [[Aethyr]] to have it do its job with precision; length and effect determined by Strain obtained/gained
+	- treat any 2 as an edge success when trying to fix/understand machinery
+	- create something incredible by combining two different pieces of technology
+	- Season 4: choose Adaptability or Understanding, count 4's as Successes
+- **Conduit**
+	- "Embody Aspect"
+		- turn into being of pure energy
+	- "I know how you feel"
+		- ability to decrease difficulty of redirect vs CG or Portal stuff decreased by 2
+- **Bonded**
+	- you can either spot loopholes or know that something is off by glancing. Maybe auto decipher basic codes or patterns in writing or easily see hidden meaning? Their power does ostensibly derive from words
+- **Leysmith**
+	- tap into lines to hear transmissions
+	- ability to decrease difficulty versus Tangles, or add successes
+- **Wielder**
+	- cannot be disarmed as consequence of edge success when advancing destroy

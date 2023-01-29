@@ -1,0 +1,1033 @@
+# A
+
+-   Abomination
+-   Absurd 
+-   Acceptance 
+-   Acid 
+-   Acrid 
+-   Adamant 
+-   Admiration 
+-   Adoration 
+-   Affliction
+-   Agony 
+-   Agriculture
+-   Air 
+-   Alchemy
+-   Aloof 
+-   Amazement 
+-   Ambush
+-   Ancestors
+-   Animal
+-   Annoyance
+-   Anxiety 
+-   Apathy 
+- Apprehension
+-   Arcane
+-   Arcing 
+-   Arctic
+-   Aristocracy
+-   Arrow       
+-   Arson
+-   Art
+-   Artifice
+-   Ash
+-   Aspect 
+-   Assisting    
+	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
+-   Astonishment 
+-   Atrophy 
+-   Attentiveness 
+-   Aura 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Authority
+-   Avarice 
+-   Averting 
+***
+# B
+
+-   Banish
+-   Beast
+-   Beautiful 
+-   Beauty
+-   Bedlam 
+-   Beginning 
+-   Beguiling 
+-   Bellow
+-   Below
+-   Bending 
+	- [Linesmith](Guardians/Linesmith#Bond%20Pieces)
+-   Bestow
+- Billow
+- Billowing
+-   Bind
+-   Binding 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Biting    
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Bitter 
+-   Blade       
+-   Blazing 
+-   Blessing 
+-   Blinding 
+-   Bliss  
+-   Blizzard
+-   Blocking    
+-   Blood  
+-   Blowing 
+-   Blunt         
+-   Bold 
+-   Bolt 
+-   Bond 
+	- [Oathbound](Guardians/Oathbound#Bond%20Pieces)
+-   Bonus
+-   Boon
+-   Boredom 
+-   Boundaries 
+-   Boundless 
+	- [Conduit](Guardians/Conduit#Bond%20Pieces)
+-   Bounty
+-   Brambles 
+-   Branch
+-   Brash
+- Brave
+-   Bravery 
+-   Breath 
+-   Breeze 
+-   Brew 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Bright 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Brine    
+-   Brittle
+-   Broken 
+- Brooding
+- Brutal
+-   Bubbling 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Buried 
+-   Burning 
+- Bursting
+***
+# C
+
+-   Calm
+-   Calming
+-   Cannibalism
+- Captivating
+-   Captivation
+-   Careful
+-   Casting
+-   Catastrophe
+-   Cauldron
+-   Caustic 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Cavern 
+-   Caves
+-   Chain
+-   Change
+-   Changing  
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Channel     
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Chaos
+-   Charged 
+-   Charging    
+-   Charm
+-   Charming    
+-   Chasm
+-   Chastise 
+-   Cheerfulness 
+-   Chill
+-   Chilling
+-   Chivalry
+-   Cities
+-   Clamor
+-   Claw
+-   Clawing 
+-   Claws 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Cleaving
+-   Climbing
+-   Clinging
+-   Cloaked 
+-   Clockwork 
+-   Cloud 
+-   Cloying
+-   Cog 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Cold
+-   Comfort
+-   Commerce
+-   Community
+-   Compassionate 
+-   Competition
+-   Confidence
+-   Confident 
+- Conform
+-   Connected   
+-   Consoling 
+-   Constrict 
+-   Construct
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Construction
+-   Consuming 
+-   Contagion 
+-   Controlling 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Conviction 
+-   Cooperation
+-   Corrupted
+-   Corrupting 
+-   Corruption
+-   Courage
+- Courageous
+-   Covering    
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Cowering 
+-   Cracking 
+-   Crackling 
+-   Craft
+-   Crave 
+-   Crawling  
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Creation
+-   Creative 
+-   Creeping 
+-   Crown  
+-   Crumbling
+-   Crystal
+-   Curiosity 
+-   Current 
+-   Curse
+-   Cursed 
+***
+# D
+
+-   Dance 
+-   Dancing  
+-   Dark
+-   Darkness
+-   Day  
+-   Daylight
+-   Death
+-   Deathless
+-   Debris 
+-   Decay
+-   Decaying 
+-   Decoy
+-   Deception
+-   Deep  
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Defense
+-   Deft        
+-   Dejection 
+-   Delayed 
+-   Delight 
+-   Delirium
+-   Demon
+-   Despair
+-   Destruction
+-   Detect
+- Devastate
+- Devastating
+-   Device
+-   Devil
+-   Devouring 
+-   Dim 
+-   Dimension 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Disable
+-   Disarray 
+-   Discord 
+-   Discovery
+-   Disguise
+-   Dislike 
+-   Dismay 
+-   Disordered 
+-   Disrepair 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Disrupt
+-   Dissolving 
+-   Distant
+-   Distortion
+-   Distraction 
+-   Distressing 
+-   Divine
+-   Dodging     
+-   Doom 
+-   Doubt 
+-   Dragon
+-   Dread 
+-   Dreaming
+-   Dreams
+-   Drink 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Drowning 
+-   Duels
+-   Dulled 
+-   Dust
+-   Duty
+***
+# E
+
+-   Earth
+-   Echo 
+-   Eclipse 
+-   Ecstasy 
+-   Education
+-   Elation 
+-   Eldritch
+-   Electric 
+-   Electricity
+-   Elegance
+-   Elegant 
+-   Elemental 
+- Elongated
+-   Ember 
+-   Embodied 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Empowered
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Ending 
+-   Enduring
+-   Energy 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Engulfing
+- Ensure
+-   Entropy
+-   Ephemeral
+-   Eroding 
+-   Erratic 
+-   Espionage
+-   Essence 
+	- [Extractor](Guardians/Extractor#Bond%20Pieces)
+-   Eternal 
+	- [Oathbound](Guardians/Oathbound#Bond%20Pieces)
+-   Evil
+-   Excitement 
+-   Exorcism
+-   Expanding
+-   Expectancy 
+-   Exploit 
+-   Exploration
+-   Extra
+-   Exultation   
+***
+# F
+
+-   Fabricate
+-   Fading 
+-   Faithful 
+-   Falling
+-   Family
+-   Fang
+-   Fanged 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Fate
+-   Favor
+-   Fear
+-   Feast
+-   Feather
+-   Ferocity
+-   Fertile 
+-   Filmy
+-   Fire
+-   Fissure 
+-   Fist
+-   Flame 
+-   Flask 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Fleeing 
+-   Fleeting 
+-   Floating
+-   Flotsam
+-   Flow 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Flowing 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+- Flutter
+- Fluttering
+-   Flying 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+- Focus
+- Foolish 
+- Force
+-   Forceful    
+-   Foreboding 
+-   Foresight 
+-   Forge 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Forged 
+-   Forgiving
+- Forgotten
+-   Fortifications
+-   Fortune
+-   Foundation 
+-   Freedom
+-   Freezing
+- Frenzied
+-   Frenzy 
+-   Friend      
+-   Friendliness 
+- Friendly
+-   Friendship
+-   Fright 
+-   Frost
+-   Fueling
+-   Function 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Funnel 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Fur
+-   Fury   
+***
+# G
+
+-   Gallant 
+-   Gambling 
+-   Garden 
+- Gas 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Gateway 
+- Gaunt
+- Gaze
+-   Gear 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Gems
+- Generous
+- Gentle
+-   Giant
+-   Glacier
+-   Glamour 
+- Glare
+- Glaring
+- Glide
+-   Gloominess 
+-   Glory
+-   Glowing
+-   Glyph
+-   Gold 
+- Goo 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Good
+-   Grace
+-   Graceful
+- Gracious
+-   Grasping
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Greed
+-   Grief 
+-   Grinding 
+-   Grip
+-   Ground 
+-   Group 
+	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
+-   Growing
+-   Growth
+-   Guiding
+-   Guile
+-   Guilt 
+-   Gust   
+***
+# H
+
+-   Hardening
+-   Harmony     
+-   Hate
+-   Hatred
+-   Haunting
+-   Haven 
+-   Havoc 
+-   Haze 
+-   Healing
+-   Hearth
+-   Heavy 
+-   Helping
+-   Heroic
+-   Heroism
+-   Hidden   
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Holy
+-   Home
+-   Honor
+-   Hope 
+-   Horrid 
+- Hospitality
+-   Hostility
+-   Hubris
+-   Hug         
+-   Humble 
+-   Humility
+-   Hunt
+***
+# I
+
+-   Ice
+-   Icicle
+-   Ignite
+-   Imagination
+-   Imbibe 
+-   Immediate 
+-   Immolation 
+-   Impact      
+-   Indulgence
+-   Industry
+-   Inevitable
+-   Infection
+-   Ingot 
+-   Innuendo
+-   Insanity
+-   Insect
+-   Inspiring 
+-   Interest 
+-   Interlocking 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Invention 
+- Iridescent
+-   Iron 
+-   Irresistible 
+-   Irritation
+-   Isolation
+***
+# J
+
+-   Jarring 
+-   Jaunt
+-   Jaunty 
+-   Jewel 
+-   Joining 
+- Joyful
+- Joyous
+-   Jubilation 
+-   Judgment
+-   Jumble 
+-   Jumping
+-   Justice
+***
+# K
+
+-   Knot 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Knowledge  
+***
+# L
+
+-   Lament 
+-   Language
+-   Latent 
+	- [Extractor](Guardians/Extractor#Bond%20Pieces)
+-   Laughing
+-   Law
+-   Leadership
+-   Leaf 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Legend
+-   Legislation
+-   Liberation
+-   Life
+-   Light
+-   Lightning
+-   Limb
+-   Limbs 
+-   Line  
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Liquid 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Litany 
+-   Loathing 
+-   Locking 
+-   Long 
+-   Loss
+-   Love
+-   Loyal  
+-   Loyalty
+-   Lucid 
+-   Luck
+-   Lush
+-   Lust
+***
+# M
+
+-   Machine 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Madness
+-   Magic
+-   Magnify
+-   Maneuver 
+-   Mantle 
+-   Mark 
+-   Marking
+-   Martyr
+-   Masked 
+-   Masking 
+-   Meaning 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Medicine
+-   Meditation
+-   Melody
+-   Memory
+-   Menacing
+-   Mercy 
+-   Metal 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Metallic 
+-   Mighty 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Mirage
+- Misery 
+-   Mist  
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Mistaken 
+-   Misty  
+-   Mixing 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Mocking
+-   Monsoon
+-   Monster 
+-   Monument 
+-   Moon
+-   Mountain 
+-   Murder
+-   Murky 
+-   Music
+-   Myriad 
+-   Mystery
+***
+# N
+
+-   Nail
+-   Nature
+-   Nausea
+-   Necromancer
+-   Night
+-   Nightmare
+-   Nobility
+-   Noise 
+-   Nurture 
+***
+# O
+
+-   Objection 
+-   Obscuring 
+-   Ocean 
+-   Oceans
+-   Omen
+-   Ominous 
+-   Ooze
+-   Optimism 
+-   Orb 
+- Order
+-   Outrage 
+-   Overwhelming  
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+***
+# P
+
+-   Pain
+-   Panic  
+-   Part  
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Passion
+-   Path 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+- Patience  
+- Pattern
+-   Peaceful 
+-   Penance
+-   Penitent 
+-   Pensiveness 
+-   Perfection
+-   Persistent
+-   Petrification
+-   Phantasm
+-   Phantom
+-   Pieces  
+	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
+-   Piercing 
+-   Plague
+-   Plant
+- Pleasing
+- Pleasure
+-   Plenty 
+-   Poison 
+-   Pool 
+-   Portal 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Portent 
+- Powder 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Powerful 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Precise 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Prism
+-   Prismatic
+- Prison  
+-   Prophecy
+-   Protection
+-   Prying
+-   Puff 
+-   Pulsing 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Pungent 
+-   Purge
+-   Purging 
+-   Purify 
+-   Purifying
+-   Purity 
+-   Purpose 
+-   Pursue
+-   Pursuing
+- Pursuit
+***
+# Q
+
+-   Quarry 
+-   Quenching
+-   Queue 
+-   Quicken 
+***
+# R
+
+- Radiant
+- Radiation
+-   Rage
+- Ragged
+-   Rainbow
+-   Rallying
+-   Random 
+- Raucous
+-   Rebel 
+-   Recovery
+-   Redacted 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Redeemed
+-   Redemption 
+-   Reeling 
+-   Refined 
+-   Reflection  
+-   Refuge
+- Relentless
+- Reliable
+-   Remorse 
+-   Repairing 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Repel
+-   Repent
+-   Repose
+-   Repulsing
+-   Reserve
+-   Residue  
+-   Resist
+-   Resisting 
+-   Resolve 
+-   Resonant  
+-   Resonate
+-   Respect 
+-   Restful
+-   Resting
+-   Restoration
+-   Restoring
+-   Restrain
+-   Restrained
+-   Resurrection
+-   Returning
+-   Revelation
+-   Revelry
+-   Revolution
+-   Revulsion 
+-   Righteous
+-   Rigid 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Ringing 
+-   Riot
+-   Ripple 
+-   Rites
+-   Rivers
+-   Rock 
+-   Rod/Staff 
+-   Rule 
+-   Rumble  
+-   Rune   
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Runes 
+-   Ruthless
+***
+# S
+
+-   Sacred
+-   Sacrifice
+-   Salt
+-   Sanctuary 
+-   Sand 
+-   Scale
+- Scales
+-   Scaly 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Scalykind
+-   Scorching 
+-   Scratching
+-   Screwing 
+	- [Mechanist](Guardians/Mechanist#Spells%20Pieces)
+-   Script
+- Sculpted
+-   Searching
+-   Searing
+-   Seasons
+-   Seaweed 
+-   Secret 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Secrets 
+-   Secure 
+-   Securing
+-   Seize 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Self-Realization
+-   Sending
+-   Separation 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Serenity
+- Setting
+- Severe
+-   Shackle 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Shade 
+-   Shadow
+-   Shadows
+-   Shaking 
+-   Shambles 
+-   Shape 
+-   Share 
+-   Sharp 
+-   Shatter    
+-   Shield
+-   Shielding 
+-   Shifting
+-   Shimmer 
+-   Shining 
+-   Shiny 
+-   Shock
+-   Shocking
+-   Short 
+-   Sigil
+-   Silence
+-   Silent 
+-   Silver 
+-   Simple 
+-   Siphon
+-   Sky   
+- Slavery
+- Sleepy
+-   Slimy 
+-   Slippery
+-   Slumber 
+-   Smite
+-   Smoke
+-   Snowflake
+-   Snowy
+-   Solid 
+-   Solitude
+-   Soothe 
+-   Soothing
+-   Sorrow
+-   Souls
+-   Sour 
+-   Sovereignty
+-   Spark 
+-   Sparkle 
+- Sparkling
+- Speckled
+-   Spiral
+-   Splash 
+-   Splendor
+-   Splitting 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Spoiled 
+-   Spore
+-   Stagnant
+-   Stars
+-   Steaming 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Steeped 
+- Steeping 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+- Sticky 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Stone
+-   Storm 
+-   Storming
+-   Storms
+- Stranger
+-   Streaming 
+-   Strength 
+	- [Conduit](Guardians/Conduit#Bond%20Pieces)
+	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
+-   Strengthen 
+- Strict
+-   Striding
+-   Strife 
+-   Strike
+-   Striking    
+-   Structure 
+-   Stunning 
+- Success
+- Successful
+-   Sudden 
+-   Summon 
+	- [Invoker](Guardians/Invoker#Bond%20Pieces)
+-   Sun
+-   Support 
+-   Suppress 
+-   Surge 
+	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+-   Surreal
+-   Surrounding 
+-   Swarm
+-   Swift   
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Swimming 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Swirling 
+	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+-   Sympathy 
+***
+# T
+
+-   Tactics
+-   Taint 
+-   Talon 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Tapestry 
+- Teeth
+- Temper
+-   Tempest 
+-   Tempting
+-   Tentacles 
+-   Terrible 
+-   Terror 
+-   Thievery
+-   Thirst
+-   Thorns
+-   Thought
+-   Threads 
+	- [Linesmith](Guardians/Linesmith#Bond%20Pieces)
+-   Thunder 
+-   Ticking 
+-   Tide 
+-   Time
+-   Toil
+-   Tolerance 
+-   Tools 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Tooth
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Torment
+-   Torrent
+-   Torture
+- Tortuous
+-   Tough 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Tower
+-   Towering
+-   Toxic 
+-   Trade
+-   Tradition 
+- Tragedy
+-   Trance 
+-   Transform 
+-   Trap 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Travel
+-   Trembling 
+-   Trickery
+-   Trophy 
+-   Truth
+-   Turmoil 
+-   Turning  
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Tusked  
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Twilight
+-   Twisted 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Tyranny
+***
+# U
+
+-   Uncanny
+-   Uncertainty 
+-   Undead
+-   Uniform 
+-   Unravel 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Unseen 
+- Urgency
+- Urgent
+-   Us 
+***
+# V
+
+-   Valor 
+-   Veil
+-   Venom
+-   Vibrant 
+-   Vigil
+-   Vigilance 
+-   Vigilant 
+-   Vine 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Vines
+-   Virtuous 
+-   Viscous 
+-   Vivid
+-   Void
+***
+# W
+
+-   War
+-   Ward
+-   Warding
+-   Wards
+- Warm
+-   Warmth 
+-   Watchful 
+-   Watching 
+-   Water
+-   Wave 
+-   Wealth
+-   Weather
+- Weathered
+-   Weave 
+	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+-   Web
+- Webbed
+- Webbing
+-   Webs
+-   Weeping
+-   Wheel 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+-   Whimsy
+-   Whirling
+-   Whispering
+-   Whispers 
+-   Wilting 
+-   Wind
+-   Wing 
+	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+-   Wondrous
+-   Word 
+	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+-   Worn 
+	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
+- Wound
+***
+# Y
+
+-   Yawning
+-   Yearning
+***
+# Z
+
+-   Zapping 
+-   Zeal

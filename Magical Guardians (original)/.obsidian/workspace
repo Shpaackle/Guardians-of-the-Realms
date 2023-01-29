@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dc317fb05ef0eddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "958db82af51c2bab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dimensional Planes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fc58210379058619",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Current Draft/Classes/Oathbound.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2e7f23e72b3cc61",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1060f155cf70cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de22a77af21cb15f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b96af76699834d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Class",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "048794729c3c23e9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309
+  },
+  "right": {
+    "id": "8081a8c3bf085db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "167ed4e51b18ba94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "180a41249f01f559",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f115e3fb41d1ae1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dimensional Planes.md"
+              }
+            }
+          },
+          {
+            "id": "e684ef2a6cd6ac31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dimensional Planes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b03734d2a57976e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dimensional Planes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07577b45fdd90257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151
+  },
+  "active": "958db82af51c2bab",
+  "lastOpenFiles": [
+    "Current Draft/Classes/Conduit.md",
+    "Current Draft/Classes/Wielder.md",
+    "Current Draft/Classes/Oathbound.md",
+    "Current Draft/Classes/Invoker.md",
+    "Current Draft/Classes/Mechanist.md",
+    "Dimensional Planes.md",
+    "Portals.md",
+    "Current Draft/Classes/Linesmith.md",
+    "Current Draft/Challenges/Corrupted Guardians.md",
+    "Current Draft/Character Creation.md"
+  ]
+}

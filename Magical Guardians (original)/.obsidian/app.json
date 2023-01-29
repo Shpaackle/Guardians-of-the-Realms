@@ -1,0 +1,17 @@
+{
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "alwaysUpdateLinks": false,
+  "readableLineLength": false,
+  "communityThemeSortOrder": "download",
+  "lineWrap": true,
+  "newFileLocation": "current"
+}

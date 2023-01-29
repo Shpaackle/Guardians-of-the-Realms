@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"2758f71e5df7c9bb","x":-383,"y":-213,"width":250,"height":60,"type":"text","text":"Classes"},
+		{"id":"a9e37eee0274af0d","x":-633,"y":-709,"width":250,"height":60,"type":"text","text":"Conduit"},
+		{"id":"c6c7b367078e3838","x":-633,"y":-423,"width":250,"height":60,"type":"text","text":"Invoker"},
+		{"id":"11d3b811b96635a4","x":-633,"y":-32,"width":250,"height":60,"type":"text","text":"Mechanist"},
+		{"id":"4390990f1a5f6ef5","x":-633,"y":207,"width":250,"height":60,"type":"text","text":"Synergist"},
+		{"id":"3d6c182919c2e3a8","x":-133,"y":-709,"width":250,"height":60,"type":"text","text":"Extractor"},
+		{"id":"57d802253963c7b4","x":-133,"y":-423,"width":250,"height":60,"type":"text","text":"Linesmith"},
+		{"id":"6e8eee88da946fff","x":-133,"y":-32,"width":250,"height":60,"type":"text","text":"Oathbound"},
+		{"id":"f90acacc2710ae4b","x":-133,"y":207,"width":250,"height":60,"type":"text","text":"Wielder"},
+		{"id":"e061b8772ddb46f2","x":-1066,"y":-609,"width":250,"height":60,"type":"text","text":"# Notes\n"},
+		{"id":"a6eaa2f7cafa3a3b","x":-1071,"y":-736,"width":250,"height":108,"type":"text","text":"# Bond Pool\n"},
+		{"id":"33a5bd7b0edbccf3","x":-1070,"y":-844,"width":250,"height":60,"type":"text","text":"# Class Description\n"}
+	],
+	"edges":[
+		{"id":"9c546d5aac9d628c","fromNode":"2758f71e5df7c9bb","fromSide":"left","toNode":"a9e37eee0274af0d","toSide":"right"},
+		{"id":"e8ea3c4d2c574e19","fromNode":"2758f71e5df7c9bb","fromSide":"right","toNode":"3d6c182919c2e3a8","toSide":"left"},
+		{"id":"858f52a94cc2c135","fromNode":"2758f71e5df7c9bb","fromSide":"left","toNode":"c6c7b367078e3838","toSide":"right"},
+		{"id":"bf3bdfc5ea107814","fromNode":"2758f71e5df7c9bb","fromSide":"right","toNode":"57d802253963c7b4","toSide":"left"},
+		{"id":"2fcb82d36bc936e7","fromNode":"2758f71e5df7c9bb","fromSide":"left","toNode":"11d3b811b96635a4","toSide":"right"},
+		{"id":"6a2600cd6588e2b4","fromNode":"2758f71e5df7c9bb","fromSide":"right","toNode":"6e8eee88da946fff","toSide":"left"},
+		{"id":"6a61153e3fe8d303","fromNode":"2758f71e5df7c9bb","fromSide":"left","toNode":"4390990f1a5f6ef5","toSide":"right"},
+		{"id":"6bbcb0ddbf824f03","fromNode":"2758f71e5df7c9bb","fromSide":"right","toNode":"f90acacc2710ae4b","toSide":"left"},
+		{"id":"db6f4dbf7c408a73","fromNode":"a9e37eee0274af0d","fromSide":"left","toNode":"e061b8772ddb46f2","toSide":"right"}
+	]
+}

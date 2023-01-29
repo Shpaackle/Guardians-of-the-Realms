@@ -1,0 +1,150 @@
+{
+  "userAdmonitions": {
+    "portal": {
+      "type": "portal",
+      "color": "150, 100, 211",
+      "icon": {
+        "type": "rpg",
+        "name": "aura"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
+    },
+    "ability": {
+      "type": "ability",
+      "color": "94, 48, 235",
+      "icon": {
+        "name": "hand-sparkles",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "*Ability Name* (X)",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "conduit": {
+      "type": "conduit",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "rpg",
+        "name": "aura"
+      },
+      "command": false,
+      "title": "Conduit",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "extractor": {
+      "type": "extractor",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "rpg",
+        "name": "potion"
+      },
+      "command": false,
+      "title": "Extractor",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "invoker": {
+      "type": "invoker",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "obsidian",
+        "name": "Sprout"
+      },
+      "command": false,
+      "title": "Invoker",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "linesmith": {
+      "type": "linesmith",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "rpg",
+        "name": "forging"
+      },
+      "command": false,
+      "title": "Linesmith",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "mechanist": {
+      "type": "mechanist",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "obsidian",
+        "name": "gear"
+      },
+      "command": false,
+      "title": "Mechanist",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "oathbound": {
+      "type": "oathbound",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "rpg",
+        "name": "burning-book"
+      },
+      "command": false,
+      "title": "Oathbound",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "synergist": {
+      "type": "synergist",
+      "color": "35, 45, 175",
+      "icon": {
+        "name": "heartbeat",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Synergist",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "wielder": {
+      "type": "wielder",
+      "color": "35, 45, 175",
+      "icon": {
+        "type": "rpg",
+        "name": "bolt-shield"
+      },
+      "command": false,
+      "title": "Wielder",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "9.0.5",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [
+    "rpg",
+    "octicons"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.97d73a"
+}

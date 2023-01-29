@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 17,
+  "textFontFamily": "Corbel,Consolas",
+  "interfaceFontFamily": "Verdana",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom_callouts",
+    "custom-admonitions.97d73a"
+  ],
+  "accentColor": ""
+}
