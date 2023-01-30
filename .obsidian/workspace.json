@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96f0238a77565d2e",
+  "active": "379a44caee229000",
   "lastOpenFiles": [
     "Spell Pieces.md",
     "New Spell Pieces.md",
