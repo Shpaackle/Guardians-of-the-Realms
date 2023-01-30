@@ -6,7 +6,7 @@
       {
         "id": "b580f634f224781f",
         "type": "tabs",
-        "dimension": 27.961019490254873,
+        "dimension": 51.76294073518379,
         "children": [
           {
             "id": "da5e3c1a84c1b3e0",
@@ -48,7 +48,7 @@
       {
         "id": "4ea5cecb7608d670",
         "type": "tabs",
-        "dimension": 72.03898050974513,
+        "dimension": 48.23705926481621,
         "children": [
           {
             "id": "eaafac622d567511",
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,9 +206,9 @@
   },
   "active": "6c3e1ab1e62e646f",
   "lastOpenFiles": [
-    "New Spell Pieces.md",
     "Spell Pieces.md",
     "Notes/2023/January.md",
+    "New Spell Pieces.md",
     "Ley Lines.md",
     "Class Notes.canvas",
     "Realms/Primal/Primal.md",

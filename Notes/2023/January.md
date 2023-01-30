@@ -32,6 +32,10 @@
 # 1-19
 Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as part of the Bond Pool. Maybe replace the one that just adds Successes.
 
+# 1-21
+- Need to change Bond Pieces for Conduit and Synergist, both currently use Strength
+- If I go the Isekai route, the more I think about this the more I like it, then I definitely need to change the direction of the class. As it is now it would need to have the characters be in the world for a while. Could go the "Summoner"/Celestial Wizard route where they have contracts with 
+
 # 1-24
 ## Quest Notes
 ### Abilities
@@ -59,4 +63,26 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 		- upgrade to make it autonomous
 		- take inspiration from Nova Flare
 		- maybe another upgrade is allowing larger size
-- What if level up gives you another die in a Facet or another skill; Season change gives you more dice, gain a new class and Realm ability. Gain XP like in Animon or VtM? Maybe from failed roll
+- What if level up gives you another die in a Facet or another skill; Season change gives you more dice, gain a new class and Realm ability. Gain XP like in Animon or VtM? Maybe from failed roll if there's a consequence?
+- Outworlder 
+	- someone summoned here or pulled here
+	- *Otherworld Expertise*
+		- this ability allows your knowledge of your world to add dice to a roll.
+- ## Spell Pieces
+	- Cinder
+	- Tinder
+	- Ash
+	- Flash
+	- Expand
+	- Extend
+	- Expanse
+	- Expansive
+	- Minion
+	- Growth
+	- Growing
+	- Alight
+	- Burn
+	- Burning
+	- Brand
+	- Vapor
+	- Chilling

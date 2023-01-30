@@ -216,4 +216,20 @@
 - Ward
 - Smite
 - Unworthy
-- 
+- Cinder
+- Tinder
+- Ash
+- Flash
+- Expand
+- Extend
+- Expanse
+- Expansive
+- Minion
+- Growth
+- Growing
+- Alight
+- Burn
+- Burning
+- Brand
+- Vapor
+- Chilling
