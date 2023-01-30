@@ -51,6 +51,7 @@
 -   Beast
 -   Beautiful 
 -   Beauty
+- Becoming
 -   Bedlam 
 -   Beginning 
 -   Beguiling 
@@ -114,7 +115,8 @@
 ***
 # C
 
--   Calm
+- Calling  
+- Calm
 -   Calming
 -   Cannibalism
 - Captivating
@@ -154,7 +156,8 @@
 -   Clawing 
 -   Claws 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Cleaving
+- Cleave  
+- Cleaving
 -   Climbing
 -   Clinging
 -   Cloaked 
@@ -174,6 +177,8 @@
 -   Confidence
 -   Confident 
 - Conform
+- Confront
+- Confrontation
 -   Connected
 - Consider
 - Considered
@@ -189,6 +194,7 @@
 -   Conviction 
 -   Cooperation
 - Copious
+- Corrupt
 -   Corrupted
 -   Corrupting 
 -   Corruption
@@ -228,8 +234,13 @@
 -   Deathless
 -   Debris 
 -   Decay
--   Decaying 
--   Decoy
+-   Decaying
+- Deceit
+- Deceitful
+- Deceive
+- Deceiving
+- Deception  
+- Decoy
 -   Deception
 -   Deep  
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
@@ -239,6 +250,10 @@
 -   Delayed 
 -   Delight 
 -   Delirium
+- Delude
+- Deluge
+- Delusion
+- Delusional
 -   Demon
 - Deserve
 - Deserving
@@ -345,14 +360,18 @@
 -   Fang
 -   Fanged 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Fate
+- Fantasy  
+- Fate
 -   Favor
 -   Fear
+- Fearful
+- Fearsome
 -   Feast
 -   Feather
 -   Ferocity
 -   Fertile 
 -   Filmy
+- Finding
 -   Fire
 -   Fissure 
 -   Fist
@@ -402,6 +421,7 @@
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Funnel 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+- Funny
 -   Fur
 -   Fury   
 ***
@@ -467,6 +487,8 @@
 -   Healing
 -   Hearth
 -   Heavy 
+- Hedonist
+- Hedonism
 - Help
 - Helpful
 -   Helping
@@ -477,6 +499,7 @@
 -   Holy
 -   Home
 -   Honor
+- Honorable
 -   Hope 
 -   Horrid 
 - Hospitality
@@ -491,12 +514,15 @@
 
 -   Ice
 -   Icicle
+- Idea
+- Ideal
 -   Ignite
 -   Imagination
 -   Imbibe 
 -   Immediate 
 -   Immolation 
--   Impact      
+-   Impact
+- Impish
 -   Indulgence
 -   Industry
 -   Inevitable
@@ -505,7 +531,8 @@
 -   Innuendo
 -   Insanity
 -   Insect
--   Inspiring 
+- Inspiration
+- Inspiring 
 -   Interest 
 -   Interlocking 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
@@ -524,6 +551,7 @@
 -   Jaunty 
 -   Jewel 
 -   Joining 
+- Joke
 - Joy
 - Joyful
 - Joyous
@@ -646,6 +674,8 @@
 # O
 
 -   Objection 
+- Oblivion
+- Oblivious
 -   Obscuring 
 -   Ocean 
 -   Oceans
@@ -658,6 +688,9 @@
 -   Orb 
 - Order
 -   Outrage 
+- Overture
+- Overturn
+- Overturning
 -   Overwhelming  
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 ***
@@ -676,6 +709,9 @@
 -   Penance
 -   Penitent 
 -   Pensiveness 
+- Perceive
+- Perceived
+- Perceiving
 -   Perfection
 -   Persistent
 -   Petrification
@@ -703,7 +739,8 @@
 - Pragmatism
 -   Precise 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
--   Prism
+- Pressing  
+- Prism
 -   Prismatic
 - Prison  
 - Promise
@@ -737,11 +774,17 @@
 - Radiation
 -   Rage
 - Ragged
+- Raging
 -   Rainbow
+- Rally
 -   Rallying
 -   Random 
 - Raucous
+- Reason
 -   Rebel 
+- Reckless
+- Recover
+- Recovering
 -   Recovery
 -   Redacted 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
@@ -751,6 +794,7 @@
 -   Refined 
 -   Reflection  
 -   Refuge
+- Regard
 - Relentless
 - Reliable
 -   Remorse 
@@ -778,6 +822,8 @@
 -   Returning
 -   Revelation
 -   Revelry
+- Revenge
+- Revenging
 -   Revolution
 -   Revulsion 
 -   Righteous
@@ -829,6 +875,7 @@
 -   Secrets 
 -   Secure 
 -   Securing
+- Seeking
 -   Seize 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Self-Realization
@@ -861,6 +908,7 @@
 -   Sigil
 -   Silence
 -   Silent 
+- Silly
 -   Silver 
 -   Simple 
 -   Siphon
@@ -881,8 +929,10 @@
 -   Sorrow
 -   Souls
 -   Sour 
+- Source
 -   Sovereignty
 -   Spark 
+- Sparking
 -   Sparkle 
 - Sparkling
 - Speckled
@@ -892,7 +942,9 @@
 -   Splitting 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Spoiled 
+- Spoken
 -   Spore
+- Spreading
 -   Stagnant
 -   Stars
 -   Steaming 
@@ -988,6 +1040,7 @@
 -   Trap 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Travel
+- Traveling
 -   Trembling 
 -   Trickery
 -   Trophy 
@@ -1019,10 +1072,14 @@
 ***
 # V
 
--   Valor 
+- Vain  
+- Valor 
 - Value
+- Vanity
 -   Veil
 -   Venom
+- Vengeance
+- Vengeful
 -   Vibrant 
 -   Vigil
 -   Vigilance 

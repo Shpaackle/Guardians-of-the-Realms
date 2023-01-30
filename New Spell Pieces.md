@@ -143,7 +143,7 @@
 - Considered
 - Salvation
 - Calling
-- Fearful
+- ~~Fearful~~
 - Shy away
 - Confrontation
 - Delusion
@@ -161,13 +161,13 @@
 - Pleasure
 - Pursuit
 - Pursuing
-- Pressing
+- ~~Pressing~~
 - Deceive
 - Deceit
 - Deceitful
 - Deceiving
 - Reckless
-- Charge
+- ~~Charge~~
 - Regard
 - Safety
 - Reason
@@ -186,7 +186,7 @@
 - Inspiring
 - Transforms
 - Recover
-- Recovering
+- ~~Recovering~~
 - Spoken
 - Spreading
 - Ideal
