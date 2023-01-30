@@ -77,8 +77,8 @@
 - Patience
 - Conform
 - ~~Ensure~~
-- Just
-- Justice
+- ~~Just~~
+- ~~Justice~~
 - Duty
 - Righteousness
 - Fairness

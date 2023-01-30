@@ -131,6 +131,7 @@
 -   Channel     
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Chaos
+- Charge
 -   Charged 
 -   Charging    
 -   Charm
@@ -160,6 +161,7 @@
 -   Comfort
 -   Commerce
 -   Community
+- Compassion
 -   Compassionate 
 -   Competition
 -   Confidence
@@ -206,6 +208,8 @@
 
 -   Dance 
 -   Dancing  
+- Danger
+- Dangerous
 -   Dark
 -   Darkness
 -   Day  
@@ -318,6 +322,7 @@
 
 -   Fabricate
 -   Fading 
+- Fairness
 -   Faithful 
 -   Falling
 -   Family
@@ -443,6 +448,8 @@
 -   Healing
 -   Hearth
 -   Heavy 
+- Help
+- Helpful
 -   Helping
 -   Heroic
 -   Heroism
@@ -503,6 +510,7 @@
 -   Judgment
 -   Jumble 
 -   Jumping
+- Just
 -   Justice
 ***
 # K
@@ -738,6 +746,7 @@
 -   Revolution
 -   Revulsion 
 -   Righteous
+- Righteousness
 -   Rigid 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Ringing 
