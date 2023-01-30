@@ -34,7 +34,18 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 
 # 1-21
 - Need to change Bond Pieces for Conduit and Synergist, both currently use Strength
-- If I go the Isekai route, the more I think about this the more I like it, then I definitely need to change the direction of the class. As it is now it would need to have the characters be in the world for a while. Could go the "Summoner"/Celestial Wizard route where they have contracts with 
+- [Oathbound](Guardians/Oathbound)
+	- If I go the Isekai route, the more I think about this the more I like it, then I definitely need to change the direction of the class. As it is now it would need to have the characters be in the world for a while. Could go the "Summoner"/Celestial Wizard route where they have contracts with other beings or they have been chosen by or protected by an otherworldly being. Either of these could work or I could split the two into different classes. I don't want to create more work for myself by adding yet another class but...if I did have or choose to go down tis route than I can use that to simplify the classes and make the character a collection of "bits." Class gives Bon Pool and words and ability?? Maybe a couple of skills/specialties and then the Realms gives you the rest of your stuff??
+- Since I'm trying to separate the portals into different and distinct things, I could make them all be weak and strong against each other. Would also force the GM to use those when designing encounters. 
+	- Encounter Types (3 mains)
+		- "Corrupted Guardians"
+			- definitely fits into the schema
+			- also need to rethink this name and concept, but I like this direction
+		- Tangle
+			- this is a little difficult to fit into the challenge, but not impossible
+		- Dimensional Incursion
+			- this fits into my thoughts firmly
+		- 
 
 # 1-24
 ## Quest Notes
