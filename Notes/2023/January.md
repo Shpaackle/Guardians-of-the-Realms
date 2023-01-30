@@ -45,7 +45,14 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 			- this is a little difficult to fit into the challenge, but not impossible
 		- Dimensional Incursion
 			- this fits into my thoughts firmly
-		- 
+- Look at Quest RPG stuff for inspirations again, I think I saw things already
+- Look at Avatar for their inciting incident thing
+- Citadel is giant mountain fountain??
+- Look at MotW for background questions
+	- Also Urban Shadows 2E
+	- Also Masks
+- Look at Glitter Hearts (again?) and the fan update (again) for inspiration for Realm Abilities
+- Look at Savage Worlds again?? Especially since it seems I want to go down the take pieces and stick them together route. Maybe use things from that Superhero game I was obsessed with for a hot minute., Sentinels of City or so
 
 # 1-24
 ## Quest Notes
