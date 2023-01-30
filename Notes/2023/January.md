@@ -41,4 +41,22 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 	- Get in way of attack so that it is aimed at you.
 - Make a Plan
 	- With time to prepare before an encounter, you get free first round or maybe extra dice to roll for the initial Advantage Pool
-- 
+
+# 1-29
+- *Create a path* - [Invoker](Guardians/Invoker)
+- *Forge a path* - [Linesmith](Guardians/Linesmith)
+- Give a class an ability to spend Aethyr to add dice to roll? Like Bond Points in Animon.
+- [Linesmith] 
+	- manipulate Ley Lines, threads of Aethyr that form reality.
+	- Their abilities alter reality, using the power of their [[Realms]]
+	- *Alteration*
+		- change reality to create a coincidence, this ability allows a 3 or 4 to be a Success or maybe a certain number is Edge Success
+	- *Forge a Path*
+		- this ability creates a path to overcome an obstacle
+		- doesn't always have to be literal
+	- *Form Creation*
+		- allows creation of objects
+		- upgrade to make it autonomous
+		- take inspiration from Nova Flare
+		- maybe another upgrade is allowing larger size
+- What if level up gives you another die in a Facet or another skill; Season change gives you more dice, gain a new class and Realm ability. Gain XP like in Animon or VtM? Maybe from failed roll
