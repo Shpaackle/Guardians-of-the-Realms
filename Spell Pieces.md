@@ -1,7 +1,9 @@
 # A
 
 -   Abomination
+- Above
 -   Absurd 
+- Abundant
 -   Acceptance 
 -   Acid 
 -   Acrid 
@@ -52,6 +54,8 @@
 -   Bedlam 
 -   Beginning 
 -   Beguiling 
+- Belief
+- Believe
 -   Bellow
 -   Below
 -   Bending 
@@ -139,6 +143,8 @@
 -   Chasm
 -   Chastise 
 -   Cheerfulness 
+- Cherish
+- Cherished
 -   Chill
 -   Chilling
 -   Chivalry
@@ -164,10 +170,13 @@
 - Compassion
 -   Compassionate 
 -   Competition
+- Concerns
 -   Confidence
 -   Confident 
 - Conform
--   Connected   
+-   Connected
+- Consider
+- Considered
 -   Consoling 
 -   Constrict 
 -   Construct
@@ -179,6 +188,7 @@
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Conviction 
 -   Cooperation
+- Copious
 -   Corrupted
 -   Corrupting 
 -   Corruption
@@ -230,6 +240,8 @@
 -   Delight 
 -   Delirium
 -   Demon
+- Deserve
+- Deserving
 -   Despair
 -   Destruction
 -   Detect
@@ -280,6 +292,8 @@
 -   Eclipse 
 -   Ecstasy 
 -   Education
+- Efficiency
+- Efficient
 -   Elation 
 -   Eldritch
 -   Electric 
@@ -298,6 +312,8 @@
 -   Energy 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Engulfing
+- Enjoy
+- Enjoying
 - Ensure
 -   Entropy
 -   Ephemeral
@@ -380,6 +396,8 @@
 -   Fright 
 -   Frost
 -   Fueling
+- Fulfill
+- Fulfilling
 -   Function 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Funnel 
@@ -400,6 +418,7 @@
 -   Gear 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Gems
+- Generosity
 - Generous
 - Gentle
 -   Giant
@@ -493,6 +512,7 @@
 -   Invention 
 - Iridescent
 -   Iron 
+- Irrational
 -   Irresistible 
 -   Irritation
 -   Isolation
@@ -504,6 +524,7 @@
 -   Jaunty 
 -   Jewel 
 -   Joining 
+- Joy
 - Joyful
 - Joyous
 -   Jubilation 
@@ -543,8 +564,10 @@
 -   Liquid 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Litany 
+- Living
 -   Loathing 
 -   Locking 
+- Logic
 -   Long 
 -   Loss
 -   Love
@@ -569,6 +592,7 @@
 -   Martyr
 -   Masked 
 -   Masking 
+- Matters
 -   Meaning 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Medicine
@@ -608,6 +632,11 @@
 -   Nature
 -   Nausea
 -   Necromancer
+- Need 
+- Needed
+- Needful
+- Negotiate
+- Negotiation
 -   Night
 -   Nightmare
 -   Nobility
@@ -623,6 +652,8 @@
 -   Omen
 -   Ominous 
 -   Ooze
+- Opportune
+- Opportunity
 -   Optimism 
 -   Orb 
 - Order
@@ -665,13 +696,17 @@
 -   Portent 
 - Powder 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+- Power
 -   Powerful 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+- Pragmatic
+- Pragmatism
 -   Precise 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Prism
 -   Prismatic
 - Prison  
+- Promise
 -   Prophecy
 -   Protection
 -   Prying
@@ -757,6 +792,7 @@
 -   Rock 
 -   Rod/Staff 
 -   Rule 
+- Rules
 -   Rumble  
 -   Rune   
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
@@ -767,7 +803,10 @@
 
 -   Sacred
 -   Sacrifice
+- Safe
+- Safety
 -   Salt
+- Salvation
 -   Sanctuary 
 -   Sand 
 -   Scale
@@ -878,6 +917,7 @@
 -   Strife 
 -   Strike
 -   Striking    
+- Strong
 -   Structure 
 -   Stunning 
 - Success
@@ -970,7 +1010,9 @@
 -   Uniform 
 -   Unravel 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
--   Unseen 
+-   Unseen
+- Uphold
+- Upholding
 - Urgency
 - Urgent
 -   Us 
@@ -978,6 +1020,7 @@
 # V
 
 -   Valor 
+- Value
 -   Veil
 -   Venom
 -   Vibrant 
