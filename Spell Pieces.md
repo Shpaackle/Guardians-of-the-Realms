@@ -15,6 +15,7 @@
 -   Agriculture
 -   Air 
 -   Alchemy
+- Alight
 -   Aloof 
 -   Amazement 
 -   Ambush
@@ -81,6 +82,7 @@
 -   Blowing 
 -   Blunt         
 -   Bold 
+- Bolster
 -   Bolt 
 -   Bond 
 	- [Oathbound](Guardians/Oathbound#Bond%20Pieces)
@@ -93,6 +95,7 @@
 -   Bounty
 -   Brambles 
 -   Branch
+- Brand
 -   Brash
 - Brave
 -   Bravery 
@@ -110,7 +113,8 @@
 -   Bubbling 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Buried 
--   Burning 
+- Burn
+- Burning 
 - Bursting
 ***
 # C
@@ -150,6 +154,7 @@
 -   Chill
 -   Chilling
 -   Chivalry
+- Cinder
 -   Cities
 -   Clamor
 -   Claw
@@ -342,10 +347,14 @@
 -   Evil
 -   Excitement 
 -   Exorcism
+- Expand
 -   Expanding
+- Expanse
+- Expansive
 -   Expectancy 
 -   Exploit 
 -   Exploration
+- Extend
 -   Extra
 -   Exultation   
 ***
@@ -376,6 +385,7 @@
 -   Fissure 
 -   Fist
 -   Flame 
+- Flash
 -   Flask 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Fleeing 
@@ -448,6 +458,7 @@
 - Glaring
 - Glide
 -   Gloominess 
+- Glorious
 -   Glory
 -   Glowing
 -   Glyph
@@ -517,6 +528,8 @@
 - Idea
 - Ideal
 -   Ignite
+- Igniting
+- Ignition
 -   Imagination
 -   Imbibe 
 -   Immediate 
@@ -634,6 +647,7 @@
 -   Metallic 
 -   Mighty 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+- Minion
 -   Mirage
 - Misery 
 -   Mist  
@@ -837,6 +851,8 @@
 -   Rivers
 -   Rock 
 -   Rod/Staff 
+- Rouse
+- Rousing
 -   Rule 
 - Rules
 -   Rumble  
@@ -1017,6 +1033,7 @@
 -   Ticking 
 -   Tide 
 -   Time
+- Tinder
 -   Toil
 -   Tolerance 
 -   Tools 
@@ -1064,6 +1081,7 @@
 -   Unravel 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Unseen
+- Unworthy
 - Uphold
 - Upholding
 - Urgency
@@ -1073,9 +1091,11 @@
 # V
 
 - Vain  
+- Valiant
 - Valor 
 - Value
 - Vanity
+- Vapor
 -   Veil
 -   Venom
 - Vengeance
