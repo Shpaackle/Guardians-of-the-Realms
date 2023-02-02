@@ -28,12 +28,15 @@
 -   Arcane
 -   Arcing 
 -   Arctic
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Aristocracy
 -   Arrow       
 -   Arson
 -   Art
 -   Artifice
 -   Ash
+- Ashes
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Aspect 
 -   Assisting    
 	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
@@ -72,14 +75,18 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 -   Bitter 
 -   Blade       
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Blazing 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Blessing 
 -   Blinding 
 -   Bliss  
 -   Blizzard
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Blocking    
 -   Blood  
 -   Blowing 
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Blunt         
 -   Bold 
 - Bolster
@@ -101,12 +108,15 @@
 -   Bravery 
 -   Breath 
 -   Breeze 
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Brew 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Bright 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Brine    
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Brittle
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Broken 
 - Brooding
 - Brutal
@@ -115,6 +125,7 @@
 -   Buried 
 - Burn
 - Burning 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 - Bursting
 ***
 # C
@@ -152,6 +163,7 @@
 - Cherish
 - Cherished
 -   Chill
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Chilling
 -   Chivalry
 - Cinder
@@ -168,6 +180,7 @@
 -   Cloaked 
 -   Clockwork 
 -   Cloud 
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Cloying
 -   Cog 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
@@ -193,6 +206,7 @@
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Construction
 -   Consuming 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Contagion 
 -   Controlling 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
@@ -209,6 +223,7 @@
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Cowering 
 -   Cracking 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Crackling 
 -   Craft
 -   Crave 
@@ -219,9 +234,11 @@
 -   Creeping 
 -   Crown  
 -   Crumbling
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Crystal
 -   Curiosity 
 -   Current 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Curse
 -   Cursed 
 ***
@@ -285,6 +302,7 @@
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Disrupt
 -   Dissolving 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Distant
 -   Distortion
 -   Distraction 
@@ -300,6 +318,7 @@
 -   Drink 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Drowning 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Duels
 -   Dulled 
 -   Dust
@@ -323,6 +342,7 @@
 -   Elemental 
 - Elongated
 -   Ember 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Embodied 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Empowered
@@ -385,21 +405,26 @@
 -   Fissure 
 -   Fist
 -   Flame 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 - Flash
 -   Flask 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Fleeing 
 -   Fleeting 
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Floating
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Flotsam
 -   Flow 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Flowing 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
+	- [Water](Realms/Elemental/Elemental#Water)
 - Flutter
 - Fluttering
 -   Flying 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
+	- [Air](Realms/Elemental/Elemental#Air)
 - Focus
 - Foolish 
 - Force
@@ -409,6 +434,7 @@
 -   Forge 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Forged 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Forgiving
 - Forgotten
 -   Fortifications
@@ -416,6 +442,7 @@
 -   Foundation 
 -   Freedom
 -   Freezing
+	- [Cold](Realms/Elemental/Elemental#Cold)
 - Frenzied
 -   Frenzy 
 -   Friend      
@@ -424,6 +451,7 @@
 -   Friendship
 -   Fright 
 -   Frost
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Fueling
 - Fulfill
 - Fulfilling
@@ -451,8 +479,11 @@
 - Generosity
 - Generous
 - Gentle
+- Geode
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Giant
 -   Glacier
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Glamour 
 - Glare
 - Glaring
@@ -463,6 +494,7 @@
 -   Glowing
 -   Glyph
 -   Gold 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 - Goo 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Good
@@ -476,6 +508,7 @@
 -   Grinding 
 -   Grip
 -   Ground 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Group 
 	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
 -   Growing
@@ -484,6 +517,7 @@
 -   Guile
 -   Guilt 
 -   Gust   
+	- [Air](Realms/Elemental/Elemental#Air)
 ***
 # H
 
@@ -525,6 +559,7 @@
 
 -   Ice
 -   Icicle
+	- [Cold](Realms/Elemental/Elemental#Cold)
 - Idea
 - Ideal
 -   Ignite
@@ -541,6 +576,7 @@
 -   Inevitable
 -   Infection
 -   Ingot 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Innuendo
 -   Insanity
 -   Insect
@@ -552,6 +588,7 @@
 -   Invention 
 - Iridescent
 -   Iron 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 - Irrational
 -   Irresistible 
 -   Irritation
@@ -625,6 +662,8 @@
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Madness
 -   Magic
+- Magma
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Magnify
 -   Maneuver 
 -   Mantle 
@@ -662,6 +701,7 @@
 -   Monument 
 -   Moon
 -   Mountain 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Murder
 -   Murky 
 -   Music
@@ -741,6 +781,7 @@
 -   Plenty 
 -   Poison 
 -   Pool 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Portal 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Portent 
@@ -761,7 +802,8 @@
 -   Prophecy
 -   Protection
 -   Prying
--   Puff 
+-   Puff
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Pulsing 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Pungent 
@@ -807,6 +849,7 @@
 -   Reeling 
 -   Refined 
 -   Reflection  
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Refuge
 - Regard
 - Relentless
@@ -824,6 +867,7 @@
 -   Resisting 
 -   Resolve 
 -   Resonant  
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Resonate
 -   Respect 
 -   Restful
@@ -845,12 +889,17 @@
 -   Rigid 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 -   Ringing 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Riot
 -   Ripple 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Rites
 -   Rivers
 -   Rock 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Rod/Staff 
+- Rotten
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 - Rouse
 - Rousing
 -   Rule 
@@ -877,6 +926,7 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 -   Scalykind
 -   Scorching 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 -   Scratching
 -   Screwing 
 	- [Mechanist](Guardians/Mechanist#Spells%20Pieces)
@@ -886,12 +936,15 @@
 -   Searing
 -   Seasons
 -   Seaweed 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Secret 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Secrets 
 -   Secure 
 -   Securing
 - Seeking
+- Seismic
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Seize 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Self-Realization
@@ -907,6 +960,7 @@
 -   Shadow
 -   Shadows
 -   Shaking 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Shambles 
 -   Shape 
 -   Share 
@@ -916,8 +970,10 @@
 -   Shielding 
 -   Shifting
 -   Shimmer 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Shining 
 -   Shiny 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Shock
 -   Shocking
 -   Short 
@@ -926,19 +982,25 @@
 -   Silent 
 - Silly
 -   Silver 
+	- [Metal](Realms/Elemental/Elemental#Metal)
 -   Simple 
 -   Siphon
 -   Sky   
+	- [Air](Realms/Elemental/Elemental#Air)
 - Slavery
 - Sleepy
 -   Slimy 
 -   Slippery
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Slumber 
 -   Smite
 -   Smoke
 -   Snowflake
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Snowy
+	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Solid 
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Solitude
 -   Soothe 
 -   Soothing
@@ -948,12 +1010,14 @@
 - Source
 -   Sovereignty
 -   Spark 
+	- [Fire](Realms/Elemental/Elemental#Fire)
 - Sparking
 -   Sparkle 
 - Sparkling
 - Speckled
 -   Spiral
 -   Splash 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Splendor
 -   Splitting 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
@@ -971,11 +1035,13 @@
 - Sticky 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Stone
+	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Storm 
 -   Storming
 -   Storms
 - Stranger
 -   Streaming 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Strength 
 	- [Conduit](Guardians/Conduit#Bond%20Pieces)
 	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
@@ -1007,6 +1073,7 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 -   Swirling 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Sympathy 
 ***
 # T
@@ -1032,6 +1099,7 @@
 -   Thunder 
 -   Ticking 
 -   Tide 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Time
 - Tinder
 -   Toil
@@ -1111,6 +1179,8 @@
 -   Viscous 
 -   Vivid
 -   Void
+- Volcanic
+	- [Fire](Realms/Elemental/Elemental#Fire)
 ***
 # W
 
@@ -1124,6 +1194,7 @@
 -   Watching 
 -   Water
 -   Wave 
+	- [Water](Realms/Elemental/Elemental#Water)
 -   Wealth
 -   Weather
 - Weathered
@@ -1142,6 +1213,7 @@
 -   Whispers 
 -   Wilting 
 -   Wind
+	- [Air](Realms/Elemental/Elemental#Air)
 -   Wing 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 -   Wondrous
