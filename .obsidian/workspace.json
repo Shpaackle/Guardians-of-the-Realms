@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Elemental/Elemental.md",
+                "file": "Realms/Emotional/Emotional.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Realms/Emotional/Emotional.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Realms/Emotional/Emotional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell Pieces.md"
+                "file": "Realms/Emotional/Emotional.md"
               }
             }
           }
@@ -179,17 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eaafac622d567511",
+  "active": "0dd760e212b864f3",
   "lastOpenFiles": [
-    "Notes/2023/January.md",
     "Spell Pieces.md",
+    "Realms/Emotional/Emotional.md",
     "Realms/Elemental/Elemental.md",
+    "Notes/2023/January.md",
     "Realms/Elemental.md",
     "Fire.md",
     "New Spell Pieces.md",
     "Ley Lines.md",
     "Class Notes.canvas",
-    "Realms/Primal/Primal.md",
-    "Realms/Emotional/Emotional.md"
+    "Realms/Primal/Primal.md"
   ]
 }

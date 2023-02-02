@@ -7,6 +7,7 @@
 -   Acceptance 
 -   Acid 
 -   Acrid 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Adamant 
 -   Admiration 
 -   Adoration 
@@ -27,6 +28,7 @@
 - Apprehension
 -   Arcane
 -   Arcing 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Arctic
 	- [Cold](Realms/Elemental/Elemental#Cold)
 -   Aristocracy
@@ -91,6 +93,7 @@
 -   Bold 
 - Bolster
 -   Bolt 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Bond 
 	- [Oathbound](Guardians/Oathbound#Bond%20Pieces)
 -   Bonus
@@ -113,6 +116,7 @@
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Bright 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Brine    
 	- [Water](Realms/Elemental/Elemental#Water)
 -   Brittle
@@ -154,6 +158,7 @@
 -   Chaos
 - Charge
 -   Charged 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Charging    
 -   Charm
 -   Charming    
@@ -182,6 +187,7 @@
 -   Cloud 
 	- [Air](Realms/Elemental/Elemental#Air)
 -   Cloying
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Cog 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 -   Cold
@@ -225,6 +231,7 @@
 -   Cracking 
 	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Crackling 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Craft
 -   Crave 
 -   Crawling  
@@ -257,6 +264,7 @@
 -   Debris 
 -   Decay
 -   Decaying
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 - Deceit
 - Deceitful
 - Deceive
@@ -336,6 +344,7 @@
 -   Elation 
 -   Eldritch
 -   Electric 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Electricity
 -   Elegance
 -   Elegant 
@@ -372,6 +381,7 @@
 - Expanse
 - Expansive
 -   Expectancy 
+	- [Anticipation](Realms/Elemental/Elemental#Anticipation)
 -   Exploit 
 -   Exploration
 - Extend
@@ -807,6 +817,7 @@
 -   Pulsing 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 -   Pungent 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Purge
 -   Purging 
 -   Purify 
@@ -905,6 +916,7 @@
 -   Rule 
 - Rules
 -   Rumble  
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Rune   
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 -   Runes 
@@ -990,8 +1002,11 @@
 - Slavery
 - Sleepy
 -   Slimy 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Slippery
 	- [Cold](Realms/Elemental/Elemental#Cold)
+- Sludge
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Slumber 
 -   Smite
 -   Smoke
@@ -1007,6 +1022,7 @@
 -   Sorrow
 -   Souls
 -   Sour 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 - Source
 -   Sovereignty
 -   Spark 
@@ -1022,6 +1038,7 @@
 -   Splitting 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 -   Spoiled 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 - Spoken
 -   Spore
 - Spreading
@@ -1037,6 +1054,7 @@
 -   Stone
 	- [Earth](Realms/Elemental/Elemental#Earth)
 -   Storm 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Storming
 -   Storms
 - Stranger
@@ -1054,6 +1072,7 @@
 - Strong
 -   Structure 
 -   Stunning 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 - Success
 - Successful
 -   Sudden 
@@ -1097,6 +1116,7 @@
 -   Threads 
 	- [Linesmith](Guardians/Linesmith#Bond%20Pieces)
 -   Thunder 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Ticking 
 -   Tide 
 	- [Water](Realms/Elemental/Elemental#Water)
@@ -1117,6 +1137,7 @@
 -   Tower
 -   Towering
 -   Toxic 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Trade
 -   Tradition 
 - Tragedy
@@ -1177,6 +1198,7 @@
 -   Vines
 -   Virtuous 
 -   Viscous 
+	- [Miasma](Realms/Elemental/Elemental#Miasma)
 -   Vivid
 -   Void
 - Volcanic
@@ -1231,4 +1253,5 @@
 # Z
 
 -   Zapping 
+	- [Lightning](Realms/Elemental/Elemental#Lightning)
 -   Zeal
