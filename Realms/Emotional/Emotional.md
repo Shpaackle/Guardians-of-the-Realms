@@ -48,7 +48,7 @@
 - *Acceptance*
 - *Tolerance*
 - *Love*
-- *Confidant*
+- *Confident*
 - *Duty*
 - *Honor*
 - *Faithful*

@@ -1,3 +1,6 @@
+---
+aliases: Joy
+---
 # Spell Pieces
 - *Cheerfulness*
 - *Serenity*

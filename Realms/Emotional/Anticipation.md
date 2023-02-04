@@ -1,3 +1,6 @@
+---
+aliases: Anticipation
+---
 # Spell Pieces
 - *Expectancy*
 - *Vigilance*

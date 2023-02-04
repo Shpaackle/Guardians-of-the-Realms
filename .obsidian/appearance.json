@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Obsidianite",
   "interfaceFontFamily": "Verdana",
-  "textFontFamily": "Rubik,Corbel",
+  "textFontFamily": "Operator Mono,Corbel,Rubik",
   "enabledCssSnippets": [
     "custom-admonitions.325610"
   ]
