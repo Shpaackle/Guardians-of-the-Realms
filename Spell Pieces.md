@@ -309,6 +309,7 @@
 - Defense
 - Deft        
 - Dejection 
+	- [[Sadness]]
 - Delayed 
 - Delight 
 	- [[Joy]]
