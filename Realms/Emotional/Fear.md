@@ -11,3 +11,5 @@
 - *Doubt*
 - *Trembling*
 
+# Notes
+## Potential Spell Pieces
