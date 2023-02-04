@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Things",
+  "cssTheme": "Obsidianite",
   "interfaceFontFamily": "Verdana",
-  "textFontFamily": "Corbel",
+  "textFontFamily": "Rubik,Corbel",
   "enabledCssSnippets": [
     "custom-admonitions.325610"
   ]

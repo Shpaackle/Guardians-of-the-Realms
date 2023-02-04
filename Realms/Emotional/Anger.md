@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Hostility*
+- *Rage*
+- *Furious*
+- *Annoyance*
+- *Irritation*
+- *Hate*
+- *Fueling*
+- *Engulfing*
+- *Righteous*
+- *10*
+- *11*

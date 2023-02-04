@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Dejection*
+- *Grief*
+- *Sorrow*
+- *Pensiveness*
+- *Gloominess*
+- *Misery*
+- *Heavy*
+- *Dulled*
+- *Lament*
+- *10*
+- *11*

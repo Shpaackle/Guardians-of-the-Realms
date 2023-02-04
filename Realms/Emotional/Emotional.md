@@ -1,4 +1,4 @@
-# Anticipation 
+# [[Anticipation]] 
 ## Spell Pieces
 - *Expectancy*
 - *Vigilance*
@@ -19,7 +19,7 @@
 #Anticipation #Emotional 
 
 
-# Joy
+# [[Joy]]
 ## Spell Pieces
 - *Cheerfulness*
 - *Serenity*
@@ -41,7 +41,7 @@
 #Joy #Emotional 
 
 
-# Trust
+# [[Trust]]
 ## Spell Pieces
 - *Admiration*
 - *Adoration*
@@ -63,7 +63,7 @@
 #Trust #Emotional 
 
 
-# Fear
+# [[Fear]]
 ## Spell Pieces
 - *Fright*
 - *Terror*
@@ -85,7 +85,7 @@
 #Fear #Emotional 
 
 
-# Surprise
+# [[Surprise]]
 ## Spell Pieces
 - *Amazement*
 - *Astonishment*
@@ -107,7 +107,7 @@
 #Surprise #Emotional 
 
 
-# Sadness
+# [[Sadness]]
 ## Spell Pieces
 - *Dejection*
 - *Grief*
@@ -129,7 +129,7 @@
 #Sadness #Emotional 
 
 
-# Disgust
+# [[Disgust]]
 ## Spell Pieces
 - *Averting*
 - *Boredom*
@@ -156,7 +156,7 @@ When you use a Spell Piece to add to the Advantage Pool by creating an area of s
 #Disgust #Emotional 
 
 
-# Anger
+# [[Anger]]
 ## Spell Pieces
 - *Hostility*
 - *Rage*

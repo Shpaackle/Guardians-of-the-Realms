@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b580f634f224781f",
-        "type": "tabs",
-        "dimension": 51.76294073518379,
-        "children": [
-          {
-            "id": "0dd760e212b864f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Emotional/Emotional.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "4ea5cecb7608d670",
         "type": "tabs",
-        "dimension": 48.23705926481621,
         "children": [
           {
             "id": "eaafac622d567511",
@@ -46,6 +26,37 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/2023/January.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dd760e212b864f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Emotional/Disgust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f8fba8bf3230ac3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8cbb57a646bd156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Realms/Emotional/Emotional.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Elemental",
+                "query": "tag:#Emotional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Emotional/Emotional.md",
+                "file": "Realms/Emotional/Disgust.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Emotional/Emotional.md",
+                "file": "Realms/Emotional/Disgust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Emotional/Emotional.md"
+                "file": "Realms/Emotional/Disgust.md"
               }
             }
           }
@@ -181,15 +192,15 @@
   },
   "active": "0dd760e212b864f3",
   "lastOpenFiles": [
-    "Spell Pieces.md",
     "Realms/Emotional/Emotional.md",
+    "Realms/Emotional/Disgust.md",
+    "Realms/Emotional/Anger.md",
+    "Realms/Emotional/Sadness.md",
+    "Realms/Emotional/Surprise.md",
+    "Realms/Emotional/Fear.md",
+    "Realms/Emotional/Trust.md",
     "Realms/Elemental/Elemental.md",
-    "Notes/2023/January.md",
-    "Realms/Elemental.md",
-    "Fire.md",
-    "New Spell Pieces.md",
-    "Ley Lines.md",
-    "Class Notes.canvas",
-    "Realms/Primal/Primal.md"
+    "Realms/Emotional/Joy.md",
+    "Realms/Emotional/Anticipation.md"
   ]
 }
