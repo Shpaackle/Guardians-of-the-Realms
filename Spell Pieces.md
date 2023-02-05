@@ -4,10 +4,12 @@
 # 10
 - [[Anticipation]]
 - [[Joy]]
+- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 ***
 # 11
 - [[Anticipation]]
 - [[Joy]]
+- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 ***
 # A
 
@@ -71,7 +73,10 @@
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Authority
 - Avarice 
+- Aversion
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Averting 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 ***
 # B
 
@@ -122,8 +127,9 @@
 - Bonus
 - Boon
 - Boredom 
--   Boundaries 
--   Boundless 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+- Boundaries 
+- Boundless 
 	- [Conduit](Guardians/Conduit#Bond%20Pieces)
 - Bounty
 - Brambles 
@@ -339,6 +345,7 @@
 - Discovery
 - Disguise
 - Dislike 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Dismal
 	- [[Surprise]]
 - Dismay 
@@ -356,6 +363,7 @@
 - Distraction 
 	- [[Surprise]]
 - Distressing 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Divine
 - Dodging     
 - Doom 
@@ -375,6 +383,7 @@
 	- [Water](Realms/Elemental/Elemental#Water)
 - Duels
 - Dulled 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Dust
 - Duty
 	- [[Trust]]
@@ -552,7 +561,12 @@
 - Glare
 - Glaring
 - Glide
+- Gloom
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Gloominess 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+- Gloomy
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Glorious
 - Glory
 - Glowing
@@ -569,6 +583,7 @@
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Greed
 - Grief 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Grinding 
 - Grip
 - Ground 
@@ -599,6 +614,7 @@
 - Healing
 - Hearth
 - Heavy 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Hedonist
 - Hedonism
 - Help
@@ -667,6 +683,7 @@
 # J
 
 - Jarring 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Jaunt
 - Jaunty 
 - Jewel 
@@ -690,7 +707,8 @@
 ***
 # L
 
-- Lament  
+- Lament
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Language
 - Latent 
 	- [Extractor](Guardians/Extractor#Bond%20Pieces)
@@ -715,6 +733,7 @@
 - Litany 
 - Living
 - Loathing 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Locking 
 - Logic
 - Long 
@@ -760,7 +779,10 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Minion
 - Mirage
+- Miserable
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Misery 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Mist  
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Mistaken 
@@ -800,6 +822,7 @@
 # O
 
 - Objection 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Oblivion
 - Oblivious
 - Obscuring 
@@ -824,20 +847,22 @@
 ***
 # P
 
--   Pain
--   Panic 
+- Pain
+- Panic 
 	- [[Fear]]
--   Part  
+- Part  
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
--   Passion
--   Path 
+- Passion
+- Path 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Patience  
 - Pattern
--   Peaceful 
--   Penance
--   Penitent 
--   Pensiveness 
+- Peaceful 
+- Penance
+- Penitent 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+- Pensiveness 
+	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
 - Perceive
 - Perceived
 - Perceiving
@@ -932,6 +957,7 @@
 - Relentless
 - Reliable
 - Remorse 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Repairing 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Repel
@@ -962,6 +988,7 @@
 - Revenging
 - Revolution
 - Revulsion 
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Righteous
 - Righteousness
 - Rigid 
@@ -1059,6 +1086,7 @@
 - Shiny 
 	- [Metal](Realms/Elemental/Elemental#Metal)
 - Shock
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Shocking
 - Short 
 - Sigil
@@ -1092,6 +1120,7 @@
 - Soothe 
 - Soothing
 - Sorrow
+	- [Sadness](Sadness#Spell%20Pieces)
 - Souls
 - Sour 
 	- [Miasma](Realms/Elemental/Elemental#Miasma)

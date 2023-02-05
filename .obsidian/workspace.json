@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Emotional/Emotional.md",
+                "file": "Realms/Emotional/Disgust.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -192,15 +192,15 @@
   },
   "active": "eaafac622d567511",
   "lastOpenFiles": [
+    "Realms/Emotional/Disgust.md",
     "Realms/Emotional/Emotional.md",
-    "Realms/Emotional/Fear.md",
+    "Realms/Emotional/Sadness.md",
     "Spell Pieces.md",
+    "Realms/Emotional/Surprise.md",
+    "Realms/Emotional/Fear.md",
     "Realms/Emotional/Trust.md",
     "Realms/Emotional/Anticipation.md",
     "Realms/Elemental/Elemental.md",
-    "Realms/Emotional/Joy.md",
-    "Magical Guardians (original)/Current Draft/Classes/Conduit.md",
-    "Realms/Emotional/Disgust.md",
-    "Guardians/Invoker.md"
+    "Realms/Emotional/Joy.md"
   ]
 }
