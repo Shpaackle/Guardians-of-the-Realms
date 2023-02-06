@@ -5,11 +5,13 @@
 - [[Anticipation]]
 - [[Joy]]
 - [Sadness](Realms/Emotional/Sadness#SpellPieces)
+- [Anger](Anger#Spell%20Pieces)
 ***
 # 11
 - [[Anticipation]]
 - [[Joy]]
 - [Sadness](Realms/Emotional/Sadness#SpellPieces)
+- [Anger](Anger#Spell%20Pieces)
 ***
 # A
 
@@ -42,6 +44,7 @@
 - Ancestors
 - Animal
 - Annoyance
+	- [Anger](Anger#Spell%20Pieces)
 - Anxiety 
 - [[Anticipation]]
 - Apathy 
@@ -419,6 +422,7 @@
 - Energy 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Engulfing
+	- [Anger](Anger#Spell%20Pieces)
 - Enjoy
 - Enjoying
 - Ensure
@@ -526,6 +530,7 @@
 - Frost
 	- [Cold](Realms/Elemental/Elemental#Cold)
 - Fueling
+	- [Anger](Anger#Spell%20Pieces)
 - Fulfill
 - Fulfilling
 - Function 
@@ -684,6 +689,7 @@
 - Irrational
 - Irresistible 
 - Irritation
+	- [Anger](Anger#Spell%20Pieces)
 - Isolation
 ***
 # J
@@ -999,7 +1005,9 @@
 - Revulsion 
 	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Righteous
+	- [Anger](Anger#Spell%20Pieces)
 - Righteousness
+	- [Anger](Anger#Spell%20Pieces)
 - Rigid 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Ringing 
