@@ -807,6 +807,7 @@
 - Nail
 - Nature
 - Nausea
+	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
 - Necromancer
 - Need 
 - Needed
