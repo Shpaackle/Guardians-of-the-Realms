@@ -534,7 +534,10 @@
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Funny
 - Fur
-- Fury   
+- Furious
+	- [Anger](Anger#Spell%20Pieces)
+- Fury
+	- [Anger](Anger#Spell%20Pieces)
 ***
 # G
 
@@ -606,7 +609,9 @@
 - Hardening
 - Harmony     
 - Hate
+	- [Anger](Anger#Spell%20Pieces)
 - Hatred
+	- [Anger](Anger#Spell%20Pieces)
 - Haunting
 - Haven 
 - Havoc 
@@ -634,6 +639,7 @@
 - Horrid 
 - Hospitality
 - Hostility
+	- [Anger](Anger#Spell%20Pieces)
 - Hubris
 - Hug         
 - Humble 
@@ -932,8 +938,10 @@
 - Radiant
 - Radiation
 - Rage
+	- [Anger](Anger#Spell%20Pieces)
 - Ragged
 - Raging
+	- [Anger](Anger#Spell%20Pieces)
 - Rainbow
 - Rally
 - Rallying

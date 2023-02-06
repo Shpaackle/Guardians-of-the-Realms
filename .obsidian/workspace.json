@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Emotional/Disgust.md",
+                "file": "Realms/Emotional/Emotional.md",
                 "mode": "source",
                 "source": false
               }
@@ -192,15 +192,15 @@
   },
   "active": "eaafac622d567511",
   "lastOpenFiles": [
-    "Realms/Emotional/Disgust.md",
-    "Realms/Emotional/Emotional.md",
-    "Realms/Emotional/Sadness.md",
+    "Realms/Emotional/Anger.md",
     "Spell Pieces.md",
+    "Realms/Emotional/Emotional.md",
+    "Realms/Emotional/Disgust.md",
+    "Realms/Emotional/Sadness.md",
     "Realms/Emotional/Surprise.md",
     "Realms/Emotional/Fear.md",
     "Realms/Emotional/Trust.md",
     "Realms/Emotional/Anticipation.md",
-    "Realms/Elemental/Elemental.md",
-    "Realms/Emotional/Joy.md"
+    "Realms/Elemental/Elemental.md"
   ]
 }
