@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Crumbling*
+- *Shaking*
+- *Cracking*
+- *Solid*
+- *Mountain*
+- *Rock*
+- *Stone*
+- *Ground*
+- *Seismic*
+- *Geode*
+- *11*

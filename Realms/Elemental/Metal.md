@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Blowing*
+- *Breeze*
+- *Wind*
+- *Cloud*
+- *Fleeting*
+- *Puff*
+- *Sky*
+- *Flying*
+- *Floating*
+- *Gust*
+- *Swirling*

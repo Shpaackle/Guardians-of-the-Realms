@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Primal/Abomination.md",
+                "file": "Realms/Elemental/Elemental.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,15 +194,15 @@
   },
   "active": "eaafac622d567511",
   "lastOpenFiles": [
-    "Guardians/Conduit.md",
+    "Realms/Emotional/Anger.md",
     "Spell Pieces.md",
+    "Realms/Elemental/Miasma.md",
     "Realms/Elemental/Elemental.md",
-    "Realms/Primal/Abomination.md",
-    "Realms/Primal/Primal.md",
-    "Realms/Primal/Order.md",
-    "Realms/Primal/Chaos.md",
-    "Realms/Primal/Radiance.md",
-    "Realms/Primal/Time.md",
-    "Realms/Primal/Nightmares.md"
+    "Realms/Elemental/Lightning.md",
+    "Realms/Elemental/Cold.md",
+    "Realms/Elemental/Metal.md",
+    "Realms/Elemental/Air.md",
+    "Realms/Elemental/Water.md",
+    "Realms/Elemental/Earth.md"
   ]
 }

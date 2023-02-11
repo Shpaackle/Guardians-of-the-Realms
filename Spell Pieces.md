@@ -25,9 +25,9 @@
 	- [[Trust]]
 - Acid 
 	- [[Extractor]]
-	- [[Elemental#Miasma]]
+	- [[Miasma]]
 - Acrid 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Adamant 
 - Admiration 
 	- [[Trust]]
@@ -48,16 +48,16 @@
 - Ancestors
 - Animal
 - Annoyance
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Anxiety 
 - [[Anticipation]]
 - Apathy 
 - Apprehension
 - Arcane
 - Arcing 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Arctic
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Aristocracy
 - Arrow       
 - Arson
@@ -65,7 +65,7 @@
 - Artifice
 - Ash
 - Ashes
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Aspect 
 - Assisting    
 	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
@@ -81,9 +81,9 @@
 - Authority
 - Avarice 
 - Aversion
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Averting 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 ***
 # B
 
@@ -111,33 +111,33 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Bitter 
 - Blade       
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Blazing 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Blessing 
 - Blinding 
 - Bliss  
 - Blizzard
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Blocking    
 - Blood  
 - Blowing 
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Blunt 
 - Bold 
 	- [[Trust]]
 - Bolster
 - Bolt 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Bond 
 	- [Oathbound](Guardians/Oathbound#Bond%20Pieces)
 - Bonus
 - Boon
 - Boredom 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Boundaries 
 - Boundless 
-	- [Conduit](Guardians/Conduit#Bond%20Pieces)
+	- [[Conduit]]
 - Bounty
 - Brambles 
 - Branch
@@ -148,16 +148,16 @@
 - Brazen
 - Breath 
 - Breeze 
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Brew 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Bright 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Brine    
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Brittle
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Broken 
 - Brooding
 - Brutal
@@ -166,7 +166,7 @@
 - Buried 
 - Burn
 - Burning 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Bursting
 ***
 # C
@@ -195,7 +195,7 @@
 - Chaos
 - Charge
 - Charged 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Charging    
 - Charm
 - Charming    
@@ -206,7 +206,7 @@
 - Cherish
 - Cherished
 - Chill
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Chilling
 - Chivalry
 - Cinder
@@ -223,9 +223,9 @@
 - Cloaked 
 - Clockwork 
 - Cloud 
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Cloying
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Cog 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Cold
@@ -251,7 +251,7 @@
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Construction
 - Consuming 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Contagion 
 - Controlling 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
@@ -274,9 +274,9 @@
 - Cowering 
 	- [[Fear]]
 - Cracking 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Crackling 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Craft
 - Crave 
 - Crawling  
@@ -286,15 +286,14 @@
 - Creeping 
 - Crown  
 - Crumbling
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Crystal
 - Curious
 	- [[Surprise]]
 - Curiosity 
 	- [[Surprise]]
 - Current 
-	- [Water](Realms/Elemental/Elemental#Water)
-- Curse
+	- [[Water]]
 - Cursed 
 	- [[Abomination]]
 ***
@@ -313,7 +312,7 @@
 - Debris 
 - Decay
 - Decaying
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Deceit
 - Deceitful
 - Deceive
@@ -359,7 +358,7 @@
 - Discovery
 - Disguise
 - Dislike 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Dismal
 	- [[Surprise]]
 - Dismay 
@@ -370,7 +369,7 @@
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Disrupt
 - Dissolving 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Distant
 - Distortion
 - Distracting
@@ -378,7 +377,7 @@
 - Distraction 
 	- [[Surprise]]
 - Distressing 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Divine
 - Dodging     
 - Doom 
@@ -389,16 +388,16 @@
 - Dread 
 	- [[Fear]]
 - Dreadful
-	- [Fear](Fear#Potential%20%Spell%20Pieces)
+	- [[Fear]]
 - Dreaming
 - Dreams
 - Drink 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Drowning 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Duels
 - Dulled 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Dust
 - Duty
 	- [[Trust]]
@@ -417,14 +416,14 @@
 	- [[Joy]]
 - Eldritch
 - Electric 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Electricity
 - Elegance
 - Elegant 
 - Elemental 
 - Elongated
 - Ember 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Embodied 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Empowered
@@ -434,7 +433,7 @@
 - Energy 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Engulfing
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Enjoy
 - Enjoying
 - Ensure
@@ -457,7 +456,7 @@
 - Expanse
 - Expansive
 - Expectancy 
-	- [Anticipation](Realms/Emotional/Anticipation)
+	- [[Anticipation]]
 - Exploit 
 - Exploration
 - Extend
@@ -492,27 +491,27 @@
 - Fissure 
 - Fist
 - Flame 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Flash
 - Flask 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Fleeing 
 	- [[Fear]]
 - Fleeting 
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Floating
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Flotsam
 - Flow 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Flowing 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Flutter
 - Fluttering
 - Flying 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Focus
 - Foolish 
 - Force
@@ -522,7 +521,7 @@
 - Forge 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Forged 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Forgiving
 - Forgotten
 - Fortifications
@@ -531,7 +530,7 @@
 	- [[Order]]
 - Freedom
 - Freezing
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Frenzied
 - Frenzy 
 - Friend      
@@ -542,9 +541,9 @@
 - Fright 
 	- [[Fear]]
 - Frost
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Fueling
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Fulfill
 - Fulfilling
 - Function 
@@ -554,9 +553,9 @@
 - Funny
 - Fur
 - Furious
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Fury
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 ***
 # G
 
@@ -575,26 +574,26 @@
 - Generous
 - Gentle
 - Geode
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Giant
 - Glacier
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Glamour 
 - Glare
 - Glaring
 - Glide
 - Gloom
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Gloominess 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Gloomy
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Glorious
 - Glory
 - Glowing
 - Glyph
 - Gold 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Goo 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Good
@@ -605,13 +604,13 @@
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Greed
 - Grief 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Grinding 
 - Grip
 - Ground 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Group 
-	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
+	- [Synergist](Guardians/Synergist#Bond%20Pieces)
 - Growing
 - Growth
 - Guiding
@@ -619,18 +618,18 @@
 - Guilt 
 	- [[Fear]]
 - Guilty
-	- [Fear](Fear#Potential%20Spell%20Pieces)
+	- [[Fear]]
 - Gust   
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 ***
 # H
 
 - Hardening
 - Harmony     
 - Hate
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Hatred
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Haunting
 - Haven 
 - Havoc 
@@ -639,7 +638,7 @@
 - Healing
 - Hearth
 - Heavy 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Hedonist
 - Hedonism
 - Help
@@ -659,7 +658,7 @@
 - Horrid 
 - Hospitality
 - Hostility
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Hubris
 - Hug         
 - Humble 
@@ -670,7 +669,7 @@
 
 - Ice
 - Icicle
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Idea
 - Ideal
 - Ignite
@@ -688,7 +687,7 @@
 	- [[Order]]
 - Infection
 - Ingot 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Innuendo
 - Insanity
 - Insect
@@ -701,17 +700,17 @@
 - Invention 
 - Iridescent
 - Iron 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Irrational
 - Irresistible 
 - Irritation
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Isolation
 ***
 # J
 
 - Jarring 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Jaunt
 - Jaunty 
 - Jewel 
@@ -738,7 +737,7 @@
 # L
 
 - Lament
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Language
 - Latent 
 	- [Extractor](Guardians/Extractor#Bond%20Pieces)
@@ -765,7 +764,7 @@
 - Litany 
 - Living
 - Loathing 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Locking 
 - Logic
 - Long 
@@ -787,7 +786,7 @@
 - Madness
 - Magic
 - Magma
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Magnify
 - Maneuver 
 - Mantle 
@@ -813,9 +812,9 @@
 - Minion
 - Mirage
 - Miserable
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Misery 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Mist  
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Mistaken 
@@ -828,7 +827,7 @@
 - Monument 
 - Moon
 - Mountain 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Murder
 - Murky 
 - Music
@@ -840,7 +839,7 @@
 - Nail
 - Nature
 - Nausea
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Necromancer
 - Need 
 - Needed
@@ -856,7 +855,7 @@
 # O
 
 - Objection 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Oblivion
 - Oblivious
 - Obscuring 
@@ -896,29 +895,29 @@
 - Peaceful 
 - Penance
 - Penitent 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Pensiveness 
-	- [Sadness](Realms/Emotional/Sadness#SpellPieces)
+	- [[Sadness]]
 - Perceive
 - Perceived
 - Perceiving
--   Perfection
--   Persistent
--   Petrification
--   Phantasm
--   Phantom
--   Pieces  
+- Perfection
+- Persistent
+- Petrification
+- Phantasm
+- Phantom
+- Pieces  
 	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
--   Piercing 
--   Plague
--   Plant
+- Piercing 
+- Plague
+- Plant
 - Pleasing
 - Pleasure
--   Plenty 
--   Poison 
--   Pool 
-	- [Water](Realms/Elemental/Elemental#Water)
--   Portal 
+- Plenty 
+- Poison 
+- Pool 
+	- [[Water]]
+- Portal 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Portent 
 	- [[Surprise]]
@@ -940,11 +939,11 @@
 - Protection
 - Prying
 - Puff
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Pulsing 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Pungent 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Purge
 - Purging 
 - Purify 
@@ -958,21 +957,21 @@
 ***
 # Q
 
--   Quarry 
--   Quenching
--   Queue 
+- Quarry 
+- Quenching
+- Queue 
 	- [[Order]]
--   Quicken 
+- Quicken 
 ***
 # R
 
 - Radiant
 - Radiation
 - Rage
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Ragged
 - Raging
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Rainbow
 - Rally
 - Rallying
@@ -992,13 +991,13 @@
 - Reeling 
 - Refined 
 - Reflection  
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Refuge
 - Regard
 - Relentless
 - Reliable
 - Remorse 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Repairing 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Repel
@@ -1011,7 +1010,7 @@
 - Resisting 
 - Resolve 
 - Resonant  
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Resonate
 - Respect 
 - Restful
@@ -1029,7 +1028,7 @@
 - Revenging
 - Revolution
 - Revulsion 
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]](Realms/Emotional/Disgust#SpellPieces)
 - Righteous
 	- [Anger](Anger#Spell%20Pieces)
 - Righteousness

@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Arcing*
+- *Crackling*
+- *Thunder*
+- *Stunning*
+- *Zapping*
+- *Bright*
+- *Storm*
+- *Rumble*
+- *Bolt*
+- *Charged*
+- *Electric*

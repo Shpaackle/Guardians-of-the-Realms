@@ -1,0 +1,13 @@
+# Spell Pieces
+- *Dissolving*
+- *Rotten*
+- *Sludge* 
+- *Slimy*
+- *Viscous*
+- *Acrid*
+- *Sour*
+- *Pungent*
+- *Spoiled*
+- *Toxic*
+- *Decaying*
+- *Cloying*

@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Flowing*
+- *Drowning*
+- *Tide*
+- *Seaweed*
+- *Streaming*
+- *Current*
+- *Splash*
+- *Brine*
+- *Wave*
+- *Pool*
+- *Ripple*

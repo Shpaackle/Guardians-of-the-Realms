@@ -1,0 +1,12 @@
+# Spell Pieces
+- *Blizzard*
+- *Freezing*
+- *Snowy*
+- *Icicle*
+- *Glacier*
+- *Chill*
+- *Arctic*
+- *Frost*
+- *Snowflake*
+- *Brittle*
+- *Slippery*

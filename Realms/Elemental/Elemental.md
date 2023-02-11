@@ -1,4 +1,4 @@
-# Fire
+# [[Fire]]
 ## Spell Pieces
 - *Blazing*
 - *Scorching*
@@ -18,7 +18,7 @@
 ## Notes
 #Fire #Elemental 
 
-# Earth
+# [[Earth]]
 ## Spell Pieces
 - *Crumbling*
 - *Shaking*
@@ -38,7 +38,7 @@
 ## Notes
 #Earth #Elemental 
 
-# Water
+# [[Water]]
 ## Spell Pieces
 - *Flowing*
 - *Drowning*
@@ -58,7 +58,7 @@
 ## Notes
 #Water #Elemental 
 
-# Air
+# [[Air]]
 ## Spell Pieces
 - *Blowing*
 - *Breeze*
@@ -78,7 +78,7 @@
 ## Notes
 #Air #Elemental 
 
-# Metal
+# [[Metal]]
 ## Spell Pieces
 - *Blade*
 - *Shiny*
@@ -98,7 +98,7 @@
 ## Notes
 #Metal #Elemental 
 
-# Cold
+# [[Cold]]
 ## Spell Pieces
 - *Blizzard*
 - *Freezing*
@@ -118,7 +118,7 @@
 ## Notes
 #Cold #Elemental 
 
-# Miasma
+# [[Miasma]]
 ## Spell Pieces
 - *Dissolving*
 - *Rotten*
@@ -139,7 +139,7 @@
 ## Notes
 #Miasma #Elemental 
 
-# Lightning 
+# [[Lightning]] 
 ## Spell Pieces
 - *Arcing*
 - *Crackling*
