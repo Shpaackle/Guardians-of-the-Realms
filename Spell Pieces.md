@@ -6,6 +6,8 @@
 - [[Joy]]
 - [[Sadness]]
 - [[Anger]]
+- [[Nightmares]]
+- [[Radiance]]
 ***
 # 11
 - [[Anticipation]]
@@ -13,6 +15,8 @@
 - [[Sadness]]
 - [[Anger]]
 - [[Abomination]]
+- [[Nightmares]]
+- [[Radiance]]
 ***
 # A
 
@@ -94,6 +98,7 @@
 - Becoming
 - Bedlam 
 - Beginning 
+	- [[Time]]
 - Beguiling 
 - Belief
 - Believe
@@ -214,13 +219,16 @@
 - Clamor
 - Claw
 - Clawing 
+	- [[Nightmares]]
 - Claws 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Cleave  
 - Cleaving
 - Climbing
 - Clinging
+	- [[Spirits]]
 - Cloaked 
+	- [[Shadow]]
 - Clockwork 
 - Cloud 
 	- [[Air]]
@@ -252,6 +260,7 @@
 - Construction
 - Consuming 
 	- [[Fire]]
+	- [[Nightmares]]
 - Contagion 
 - Controlling 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
@@ -304,6 +313,7 @@
 - Danger
 - Dangerous
 - Dark
+	- [[Shadow]]
 - Darkness
 - Day  
 - Daylight
@@ -327,6 +337,7 @@
 - Dejection 
 	- [[Sadness]]
 - Delayed 
+	- [[Time]]
 - Delight 
 	- [[Joy]]
 - Delirium
@@ -348,6 +359,7 @@
 - Devouring 
 	- [[Abomination]]
 - Dim 
+	- [[Shadow]]
 - Dimension 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Disable
@@ -406,7 +418,9 @@
 
 - Earth
 - Echo 
+	- [[Time]]
 - Eclipse 
+	- [[Shadow]]
 - Ecstasy 
 	- [[Joy]]
 - Education
@@ -429,7 +443,9 @@
 - Empowered
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Ending 
+	- [[Time]]
 - Enduring
+	- [[Time]]
 - Energy 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Engulfing
@@ -439,7 +455,9 @@
 - Ensure
 - Entropy
 - Ephemeral
+	- [[Spirits]]
 - Eroding 
+	- [[Time]]
 - Erratic 
 	- [[Chaos]]
 - Espionage
@@ -467,6 +485,7 @@
 
 - Fabricate
 - Fading 
+	- [[Shadow]]
 - Fairness
 - Faithful 
 	- [[Trust]]
@@ -486,6 +505,7 @@
 - Ferocity
 - Fertile 
 - Filmy
+	- [[Spirits]]
 - Finding
 - Fire
 - Fissure 
@@ -602,10 +622,12 @@
 - Gracious
 - Grasping
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+	- [[Nightmares]]
 - Greed
 - Grief 
 	- [[Sadness]]
 - Grinding 
+	- [[Time]]
 - Grip
 - Ground 
 	- [[Earth]]
@@ -631,6 +653,7 @@
 - Hatred
 	- [[Anger]]
 - Haunting
+	- [[Spirits]]
 - Haven 
 - Havoc 
 	- [[Chaos]]
@@ -648,6 +671,7 @@
 - Heroism
 - Hidden   
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+	- [[Shadow]]
 - Holy
 - Home
 - Honor
@@ -685,6 +709,7 @@
 - Industry
 - Inevitable
 	- [[Order]]
+	- [[Time]]
 - Infection
 - Ingot 
 	- [[Metal]]
@@ -753,6 +778,7 @@
 	- [[Chaos]]
 - Life
 - Light
+	- [[Radiance]]
 - Lightning
 - Limb
 - Limbs 
@@ -775,6 +801,7 @@
 	- [[Order]]
 - Loyalty
 - Lucid 
+	- [[Spirits]]
 - Luck
 - Lush
 - Lust
@@ -811,6 +838,7 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Minion
 - Mirage
+	- [[Spirits]]
 - Miserable
 	- [[Sadness]]
 - Misery 
@@ -818,18 +846,22 @@
 - Mist  
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Mistaken 
+	- [[Spirits]]
 - Misty  
+	- [[Spirits]]
 - Mixing 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Mocking
 - Monsoon
 - Monster 
+	- [[Nightmares]]
 - Monument 
 - Moon
 - Mountain 
 	- [[Earth]]
 - Murder
 - Murky 
+	- [[Shadow]]
 - Music
 - Myriad 
 - Mystery
@@ -859,6 +891,7 @@
 - Oblivion
 - Oblivious
 - Obscuring 
+	- [[Shadow]]
 - Ocean 
 - Oceans
 - Omen
@@ -882,6 +915,7 @@
 # P
 
 - Pain
+	- [[Nightmares]]
 - Panic 
 	- [[Fear]]
 - Part  
@@ -905,7 +939,9 @@
 - Persistent
 - Petrification
 - Phantasm
+	- [[Spirits]]
 - Phantom
+	- [[Nightmares]]
 - Pieces  
 	- [Mechanist](Guardians/Mechanist#Bond%20Pieces)
 - Piercing 
@@ -932,6 +968,7 @@
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Pressing  
 - Prism
+	- [[Radiance]]
 - Prismatic
 - Prison  
 - Promise
@@ -946,7 +983,9 @@
 	- [[Miasma]]
 - Purge
 - Purging 
+	- [[Radiance]]
 - Purify 
+	- [[Radiance]]
 - Purifying
 - Purity 
 - Purpose 
@@ -961,6 +1000,8 @@
 - Quenching
 - Queue 
 	- [[Order]]
+- Quick
+	[[Time]]
 - Quicken 
 ***
 # R
@@ -973,6 +1014,7 @@
 - Raging
 	- [[Anger]]
 - Rainbow
+	- [[Radiance]]
 - Rally
 - Rallying
 - Random 
@@ -1028,27 +1070,27 @@
 - Revenging
 - Revolution
 - Revulsion 
-	- [[Disgust]](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Righteous
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Righteousness
-	- [Anger](Anger#Spell%20Pieces)
+	- [[Anger]]
 - Rigid 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Ringing 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Riot
 	- [[Chaos]]
 - Ripple 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Rites
 	- [[Order]]
 - Rivers
 - Rock 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Rod/Staff 
 - Rotten
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Rouse
 - Rousing
 - Rule 
@@ -1056,7 +1098,7 @@
 - Rules
 	- [[Order]]
 - Rumble  
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Rune
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Runes 
@@ -1078,7 +1120,7 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Scalykind
 - Scorching 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Scratching
 - Screwing 
 	- [Mechanist](Guardians/Mechanist#Spells%20Pieces)
@@ -1088,15 +1130,16 @@
 - Searing
 - Seasons
 - Seaweed 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Secret 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+	- [[Shadow]]
 - Secrets 
 - Secure 
 - Securing
 - Seeking
 - Seismic
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Seize 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Self-Realization
@@ -1110,10 +1153,11 @@
 - Shackle 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Shade 
-- Shadow
+	- [[Shadow]]
+- [[Shadow]]
 - Shadows
 - Shaking 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Shambles
 	- [[Chaos]]
 - Shame
@@ -1128,65 +1172,71 @@
 - Shielding 
 - Shifting
 - Shimmer 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
+	- [[Radiance]]
 - Shining 
+	- [[Radiance]]
 - Shiny 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Shock
-	- [Disgust](Realms/Emotional/Disgust#SpellPieces)
+	- [[Disgust]]
 - Shocking
 - Short 
 - Sigil
 - Silence
 - Silent 
+	- [[Shadow]]
 - Silly
 - Silver 
-	- [Metal](Realms/Elemental/Elemental#Metal)
+	- [[Metal]]
 - Simple 
 - Siphon
 - Sky   
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Slavery
 - Sleepy
 - Slimy 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Slippery
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
+- Slow
+	[[Time]]
 - Sludge
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Slumber 
 - Smite
 - Smoke
 - Snowflake
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Snowy
-	- [Cold](Realms/Elemental/Elemental#Cold)
+	- [[Cold]]
 - Solid 
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Solitude
 - Soothe 
 - Soothing
 - Sorrow
-	- [Sadness](Sadness#Spell%20Pieces)
+	- [[Sadness]]
 - Souls
 - Sour 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Source
 - Sovereignty
 - Spark 
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 - Sparking
 - Sparkle 
+	- [[Radiance]]
 - Sparkling
 - Speckled
 - Spiral
 - Splash 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Splendor
 - Splitting 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Spoiled 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Spoken
 - Spore
 - Spreading
@@ -1200,17 +1250,17 @@
 - Sticky 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 - Stone
-	- [Earth](Realms/Elemental/Elemental#Earth)
+	- [[Earth]]
 - Storm 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Storming
 - Storms
 - Stranger
 - Streaming 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Strength 
 	- [Conduit](Guardians/Conduit#Bond%20Pieces)
-	- [Synergerist](Guardians/Synergist#Bond%20Pieces)
+	- [Synergist](Guardians/Synergist#Bond%20Pieces)
 - Strengthen 
 - Strict
 - Striding
@@ -1221,7 +1271,7 @@
 - Structure 
 	- [[Order]]
 - Stunning 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Success
 - Successful
 - Sudden 
@@ -1234,6 +1284,7 @@
 - Surge 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Surreal
+	- [[Spirits]]
 - Surrounding 
 - Swarm
 - Swift   
@@ -1242,7 +1293,7 @@
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Swirling 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Sympathy 
 	- [[Guardians/Synergist]]
 	- [[Emotional]]
@@ -1264,8 +1315,10 @@
 - Tentacles 
 	- [[Abomination]]
 - Terrible 
+	- [[Nightmares]]
 - Terror 
 	- [[Fear]]
+	- [[Nightmares]]
 - Thievery
 - Thirst
 - Thorns
@@ -1273,10 +1326,11 @@
 - Threads 
 	- [Linesmith](Guardians/Linesmith#Bond%20Pieces)
 - Thunder 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Ticking 
+	- [[Time]]
 - Tide 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Time
 - Tinder
 - Toil
@@ -1287,6 +1341,7 @@
 - Tooth
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Torment
+	- [[Nightmares]]
 - Torrent
 - Torture
 - Tortuous
@@ -1295,7 +1350,7 @@
 - Tower
 - Towering
 - Toxic 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Trade
 - Tradition 
 - Tragedy
@@ -1339,7 +1394,7 @@
 - Upholding
 - Urgency
 - Urgent
--   Us 
+- Us 
 ***
 # V
 
@@ -1365,11 +1420,11 @@
 	- [[Guardians/Invoker]]
 - Virtuous 
 - Viscous 
-	- [Miasma](Realms/Elemental/Elemental#Miasma)
+	- [[Miasma]]
 - Vivid
 - Void
 - Volcanic
-	- [Fire](Realms/Elemental/Elemental#Fire)
+	- [[Fire]]
 ***
 # W
 
@@ -1383,7 +1438,7 @@
 - Watching 
 - Water
 - Wave 
-	- [Water](Realms/Elemental/Elemental#Water)
+	- [[Water]]
 - Wealth
 - Weather
 - Weathered
@@ -1399,11 +1454,12 @@
 - Whimsy
 - Whirling
 - Whispering
+	- [[Spirits]]
 - Whispers 
 	- [[Abomination]]
 - Wilting 
 - Wind
-	- [Air](Realms/Elemental/Elemental#Air)
+	- [[Air]]
 - Wing 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
 - Wondrous
@@ -1421,7 +1477,7 @@
 # Z
 
 - Zapping 
-	- [Lightning](Realms/Elemental/Elemental#Lightning)
+	- [[Lightning]]
 - Zeal
 	- [[Guardians/Oathbound]]
 - Zealous

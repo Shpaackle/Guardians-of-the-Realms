@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Elemental/Elemental.md",
+                "file": "Realms/Primal/Time.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Emotional",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,15 +194,15 @@
   },
   "active": "eaafac622d567511",
   "lastOpenFiles": [
-    "Realms/Emotional/Anger.md",
+    "Realms/Primal/Time.md",
     "Spell Pieces.md",
-    "Realms/Elemental/Miasma.md",
-    "Realms/Elemental/Elemental.md",
-    "Realms/Elemental/Lightning.md",
-    "Realms/Elemental/Cold.md",
-    "Realms/Elemental/Metal.md",
-    "Realms/Elemental/Air.md",
-    "Realms/Elemental/Water.md",
-    "Realms/Elemental/Earth.md"
+    "Realms/Primal/Spirits.md",
+    "Realms/Primal/Shadow.md",
+    "Realms/Primal/Order.md",
+    "Realms/Primal/Radiance.md",
+    "Realms/Primal/Nightmares.md",
+    "Realms/Primal/Chaos.md",
+    "Realms/Primal/Abomination.md",
+    "Realms/Primal/Primal.md"
   ]
 }
