@@ -4,24 +4,28 @@
 # 10
 - [[Anticipation]]
 - [[Joy]]
-- [Sadness](Realms/Emotional/Sadness#SpellPieces)
-- [Anger](Anger#Spell%20Pieces)
+- [[Sadness]]
+- [[Anger]]
 ***
 # 11
 - [[Anticipation]]
 - [[Joy]]
-- [Sadness](Realms/Emotional/Sadness#SpellPieces)
-- [Anger](Anger#Spell%20Pieces)
+- [[Sadness]]
+- [[Anger]]
+- [[Abomination]]
 ***
 # A
 
 - Abomination
+	- [[Abomination]]
 - Above
 - Absurd 
 - Abundant
 - Acceptance 
 	- [[Trust]]
 - Acid 
+	- [[Extractor]]
+	- [[Elemental#Miasma]]
 - Acrid 
 	- [Miasma](Realms/Elemental/Elemental#Miasma)
 - Adamant 
@@ -257,8 +261,11 @@
 - Copious
 - Corrupt
 - Corrupted
+	- [[Abomination]]
 - Corrupting 
+	- [[Abomination]]
 - Corruption
+	- [[Abomination]]
 - Courage
 	- [[Anticipation]]
 - Courageous
@@ -289,6 +296,7 @@
 	- [Water](Realms/Elemental/Elemental#Water)
 - Curse
 - Cursed 
+	- [[Abomination]]
 ***
 # D
 
@@ -339,12 +347,15 @@
 - Device
 - Devil
 - Devouring 
+	- [[Abomination]]
 - Dim 
 - Dimension 
 	- [Conduit](Guardians/Conduit#Spell%20Pieces)
 - Disable
 - Disarray 
+	- [[Chaos]]
 - Discord 
+	- [[Chaos]]
 - Discovery
 - Disguise
 - Dislike 
@@ -354,6 +365,7 @@
 - Dismay 
 	- [[Surprise]]
 - Disordered 
+	- [[Chaos]]
 - Disrepair 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Disrupt
@@ -430,6 +442,7 @@
 - Ephemeral
 - Eroding 
 - Erratic 
+	- [[Chaos]]
 - Espionage
 - Essence 
 	- [Extractor](Guardians/Extractor#Bond%20Pieces)
@@ -515,6 +528,7 @@
 - Fortifications
 - Fortune
 - Foundation 
+	- [[Order]]
 - Freedom
 - Freezing
 	- [Cold](Realms/Elemental/Elemental#Cold)
@@ -620,6 +634,7 @@
 - Haunting
 - Haven 
 - Havoc 
+	- [[Chaos]]
 - Haze 
 - Healing
 - Hearth
@@ -670,6 +685,7 @@
 - Indulgence
 - Industry
 - Inevitable
+	- [[Order]]
 - Infection
 - Ingot 
 	- [Metal](Realms/Elemental/Elemental#Metal)
@@ -706,7 +722,9 @@
 - Joyous
 - Jubilation 
 - Judgment
+	- [[Order]]
 - Jumble 
+	- [[Chaos]]
 - Jumping
 - Just
 - Justice
@@ -733,11 +751,13 @@
 - Legend
 - Legislation
 - Liberation
+	- [[Chaos]]
 - Life
 - Light
 - Lightning
 - Limb
 - Limbs 
+	- [[Abomination]]
 - Line  
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Liquid 
@@ -752,7 +772,8 @@
 - Loss
 - Love
 	- [[Trust]]
-- Loyal  
+- Loyal
+	- [[Order]]
 - Loyalty
 - Lucid 
 - Luck
@@ -843,6 +864,7 @@
 - Oceans
 - Omen
 - Ominous 
+	- [[Abomination]]
 - Ooze
 - Opportune
 - Opportunity
@@ -870,6 +892,7 @@
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Patience  
 - Pattern
+	- [[Order]]
 - Peaceful 
 - Penance
 - Penitent 
@@ -928,6 +951,7 @@
 - Purifying
 - Purity 
 - Purpose 
+	- [[Order]]
 - Pursue
 - Pursuing
 - Pursuit
@@ -937,6 +961,7 @@
 -   Quarry 
 -   Quenching
 -   Queue 
+	- [[Order]]
 -   Quicken 
 ***
 # R
@@ -952,6 +977,7 @@
 - Rally
 - Rallying
 - Random 
+	- [[Chaos]]
 - Raucous
 - Reason
 - Rebel 
@@ -1013,9 +1039,11 @@
 - Ringing 
 	- [Metal](Realms/Elemental/Elemental#Metal)
 - Riot
+	- [[Chaos]]
 - Ripple 
 	- [Water](Realms/Elemental/Elemental#Water)
 - Rites
+	- [[Order]]
 - Rivers
 - Rock 
 	- [Earth](Realms/Elemental/Elemental#Earth)
@@ -1025,10 +1053,12 @@
 - Rouse
 - Rousing
 - Rule 
+	- [[Order]]
 - Rules
+	- [[Order]]
 - Rumble  
 	- [Lightning](Realms/Elemental/Elemental#Lightning)
-- Rune   
+- Rune
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
 - Runes 
 - Ruthless
@@ -1085,7 +1115,8 @@
 - Shadows
 - Shaking 
 	- [Earth](Realms/Elemental/Elemental#Earth)
-- Shambles 
+- Shambles
+	- [[Chaos]]
 - Shame
 	- [[Fear]]
 - Shameful
@@ -1189,6 +1220,7 @@
 - Striking    
 - Strong
 - Structure 
+	- [[Order]]
 - Stunning 
 	- [Lightning](Realms/Elemental/Elemental#Lightning)
 - Success
@@ -1207,25 +1239,31 @@
 - Swarm
 - Swift   
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Swimming 
+- Swimming 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Swirling 
+- Swirling 
 	- [Extractor](Guardians/Extractor#Spell%20Pieces)
 	- [Air](Realms/Elemental/Elemental#Air)
--   Sympathy 
+- Sympathy 
+	- [[Guardians/Synergist]]
+	- [[Emotional]]
 ***
 # T
 
--   Tactics
--   Taint 
--   Talon 
+- Tactics
+- Taint 
+	- [[Abomination]]
+- Tainted
+	- [[Abomination]]
+- Talon 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Tapestry 
+- Tapestry 
 - Teeth
 - Temper
 - Tempest 
 - Tempting
 - Tentacles 
+	- [[Abomination]]
 - Terrible 
 - Terror 
 	- [[Fear]]
@@ -1274,6 +1312,7 @@
 - Trophy 
 - Truth
 - Turmoil 
+	- [[Chaos]]
 - Turning  
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Tusked  
@@ -1281,6 +1320,7 @@
 - Twilight
 - Twisted 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
+	- [[Abomination]]
 - Tyranny
 ***
 # U
@@ -1290,9 +1330,11 @@
 	- [[Surprise]]
 - Undead
 - Uniform 
+	- [[Order]]
 - Unravel 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
 - Unseen
+	- [[Abomination]]
 - Unworthy
 - Uphold
 - Upholding
@@ -1308,74 +1350,80 @@
 - Value
 - Vanity
 - Vapor
--   Veil
--   Venom
+- Veil
+- Venom
 - Vengeance
 - Vengeful
--   Vibrant 
--   Vigil
+- Vibrant 
+- Vigil
 - Vigilance 
 	- [[Anticipation]]
--   Vigilant 
--   Vine 
+- Vigilant 
+	- [[Anticipation]]
+- Vine 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Vines
--   Virtuous 
--   Viscous 
+- Vines
+	- [[Guardians/Invoker]]
+- Virtuous 
+- Viscous 
 	- [Miasma](Realms/Elemental/Elemental#Miasma)
--   Vivid
--   Void
+- Vivid
+- Void
 - Volcanic
 	- [Fire](Realms/Elemental/Elemental#Fire)
 ***
 # W
 
--   War
--   Ward
--   Warding
--   Wards
+- War
+- Ward
+- Warding
+- Wards
 - Warm
--   Warmth 
--   Watchful 
--   Watching 
--   Water
--   Wave 
+- Warmth 
+- Watchful 
+- Watching 
+- Water
+- Wave 
 	- [Water](Realms/Elemental/Elemental#Water)
--   Wealth
--   Weather
+- Wealth
+- Weather
 - Weathered
--   Weave 
+- Weave 
 	- [Linesmith](Guardians/Linesmith#Spell%20Pieces)
--   Web
+- Web
 - Webbed
 - Webbing
--   Webs
--   Weeping
--   Wheel 
+- Webs
+- Weeping
+- Wheel 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
--   Whimsy
--   Whirling
--   Whispering
--   Whispers 
--   Wilting 
--   Wind
+- Whimsy
+- Whirling
+- Whispering
+- Whispers 
+	- [[Abomination]]
+- Wilting 
+- Wind
 	- [Air](Realms/Elemental/Elemental#Air)
--   Wing 
+- Wing 
 	- [Invoker](Guardians/Invoker#Spell%20Pieces)
--   Wondrous
--   Word 
+- Wondrous
+- Word 
 	- [Oathbound](Guardians/Oathbound#Spell%20Pieces)
--   Worn 
+- Worn 
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Wound
 ***
 # Y
 
--   Yawning
--   Yearning
+- Yawning
+- Yearning
 ***
 # Z
 
--   Zapping 
+- Zapping 
 	- [Lightning](Realms/Elemental/Elemental#Lightning)
--   Zeal
+- Zeal
+	- [[Guardians/Oathbound]]
+- Zealous
+	- [[Guardians/Oathbound]]

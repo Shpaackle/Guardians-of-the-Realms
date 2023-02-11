@@ -6,6 +6,7 @@
       {
         "id": "4ea5cecb7608d670",
         "type": "tabs",
+        "dimension": 44.49576597382602,
         "children": [
           {
             "id": "6c3e1ab1e62e646f",
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Emotional/Emotional.md",
+                "file": "Realms/Primal/Abomination.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +38,7 @@
       {
         "id": "f8fba8bf3230ac3e",
         "type": "tabs",
+        "dimension": 55.50423402617398,
         "children": [
           {
             "id": "eaafac622d567511",
@@ -192,15 +194,15 @@
   },
   "active": "eaafac622d567511",
   "lastOpenFiles": [
-    "Realms/Emotional/Anger.md",
+    "Guardians/Conduit.md",
     "Spell Pieces.md",
-    "Realms/Emotional/Emotional.md",
-    "Realms/Emotional/Disgust.md",
-    "Realms/Emotional/Sadness.md",
-    "Realms/Emotional/Surprise.md",
-    "Realms/Emotional/Fear.md",
-    "Realms/Emotional/Trust.md",
-    "Realms/Emotional/Anticipation.md",
-    "Realms/Elemental/Elemental.md"
+    "Realms/Elemental/Elemental.md",
+    "Realms/Primal/Abomination.md",
+    "Realms/Primal/Primal.md",
+    "Realms/Primal/Order.md",
+    "Realms/Primal/Chaos.md",
+    "Realms/Primal/Radiance.md",
+    "Realms/Primal/Time.md",
+    "Realms/Primal/Nightmares.md"
   ]
 }

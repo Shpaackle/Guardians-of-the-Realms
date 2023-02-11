@@ -1,4 +1,4 @@
-# Chaos
+# [[Chaos]]
 ## Spell Pieces
 - *Disordered*
 - *Shambles*
@@ -24,7 +24,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Chaos #Primal
 
 
-# Order
+# [[Order]]
 ## Spell Pieces
 - *Foundation*
 - *Purpose*
@@ -46,7 +46,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Order #Primal 
 
 
-# Abomination
+# [[Abomination]]
 ## Spell Pieces
 - *Twisted*
 - *Cursed*
@@ -68,7 +68,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Abomination #Primal 
 
 
-# Radiance
+# [[Radiance]]
 ## Spell Pieces
 - *Light*
 - *Shining*
@@ -90,7 +90,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Radiance #Primal 
 
 
-# Time
+# [[Time]]
 ## Spell Pieces
 - *Quick*
 - *Slow*
@@ -111,7 +111,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Time #Primal 
 
 
-# Nightmares
+# [[Nightmares]]
 ## Spell Pieces
 - *Monster*
 - *Terror*
@@ -133,7 +133,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Nightmares #Primal 
 
 
-# Shadow
+# [[Shadow]]
 ## Spell Pieces
 - *Cloaked*
 - *Hidden*
@@ -155,7 +155,7 @@ You can spend 1 Strain to turn any die into an [[Edge Success]], even after the 
 #Shadow #Primal 
 
 
-# Spirits
+# [[Spirits]]
 ## Spell Pieces
 - *Misty*
 - *Ephemeral*
