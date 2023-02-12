@@ -1,8 +1,7 @@
 # Abilities
 ## Vow
 You create a vow that permanently binds you in service of an ideal. You may only do this once. There is no turning back.
-You can express this bond as devotion to a deity, a people, a cause, or something else that represents or is served by your ideal. (You may use an ideal you chose when creating a character, or choose
-a new one.) You must be in a safe and quiet place to make the vow, and it must include:
+You can express this bond as devotion to a deity, a people, a cause, or something else that represents or is served by your ideal. (You may use an ideal you chose when creating a character, or choose a new one.) You must be in a safe and quiet place to make the vow, and it must include:
 * Something you promise to actively do in service of your ideal, like helping the sick.
 * A person, place, or group you promise to protect when nearby.
 * A wrong from your past that you pledge to make amends for someday.
@@ -12,107 +11,126 @@ Once the vow is created, you receive these ongoing benefits:
 * Your eyes now have a faint glow.
 You have a sacred obligation to fulfill the promises you have made. Each time you betray the promises of your vow in a serious way, you feel a sharp pain in your heart, and your maximum HP decreases by 1. You cannot be reduced below 5 maximum HP from this effect.
 
-evil eye
-1 You pause, closing your eyes and quieting your mind. You sense the worst thing that ever happened nearby. The Guide will describe to you the type of thing that happened and what the people involved look like.
+## Evil Eye
+Cost: 1
+You pause, closing your eyes and quieting your mind. You sense the worst thing that ever happened nearby. The Guide will describe to you the type of thing that happened and what the people involved look like.
 For example, you might learn that someone was murdered, a curse was created, or an evil vow was taken.
 
-soul gaze
-roll the die
-1 Your eyes turn black, like shimmering gateways to eternity, as you peer into the eyes of a nearby creature. They become momentarily transfixed on your gaze.
-20: You learn the creature's ideal and flaw. You also learn the worst and best thing they have ever done.
-11-19: You learn their ideal and flaw. 6-10: You learn their ideal and flaw, but
+## Soul Gaze
+***roll the die***
+### Cost: 1 
+Your eyes turn black, like shimmering gateways to eternity, as you peer into the eyes of a nearby creature. They become momentarily transfixed on your gaze.
+**20**: You learn the creature's ideal and flaw. You also learn the worst and best thing they have ever done.
+**11-19**: You learn their ideal and flaw. 6-10: You learn their ideal and flaw, but
 one is false.
-1-5: They resist your invasion and briefly glimpse your recent thoughts.
-impression
-1 You brush against a creature for a fleeting moment, feeling its desires. The Guide chooses and reveals to you something specific that the creature routinely craves. You become cursed to also crave that thing and cannot use Impression again until you fulfill the desire. When you fulfill it once, the curse is lifted.
+**1-5**: They resist your invasion and briefly glimpse your recent thoughts.
 
-SIGIL
+## Impression
+### Cost: 1
+You brush against a creature for a fleeting moment, feeling its desires. The Guide chooses and reveals to you something specific that the creature routinely craves. You become cursed to also crave that thing and cannot use Impression again until you fulfill the desire. When you fulfill it once, the curse is lifted.
+
+## SIGIL
 You draw a magic sigil on an object. The spell lasts until you cancel it or cast Sigil again. You can only cast the spell if no enemies are currently nearby. 
 
 Choose a specific creature for the sigil to affect, or a type of creature, like spirits or werewolves. Then draw a circle on a piece of paper at the table. Draw the creature that will be affected by the spell inside of the circle. Choose one of four effects:
-	Lure: The sigil attracts creatures to its location, where they linger for a minute. 
- 	Repel: Creatures who come nearby won’t move closer to the sigil or may turn back. 
-	Alert: Receive a signal in your mind when creatures pass by the sigil. 
-	Message: The sigil telepathically sends a short message of up to 10 words in your language to creatures passing nearby.
+* Lure: The sigil attracts creatures to its location, where they linger for a minute. 
+* Repel: Creatures who come nearby won’t move closer to the sigil or may turn back. 
+* Alert: Receive a signal in your mind when creatures pass by the sigil. 
+* Message: The sigil telepathically sends a short message of up to 10 words in your language to creatures passing nearby.
 
 You may keep your drawing and reuse it later when casting this spell again and you can choose a new effect each time. 
 
-
-remedy
-1 You scavenge your area for a short time to find a plant-based remedy for an ailment. You find enough
+## remedy
+### Cost: 1 
+You scavenge your area for a short time to find a plant-based remedy for an ailment. You find enough
 for a single dose. The remedy cures temporary illness and eliminates poison.
 
-Shroud
-
+## Shroud
 You entreat nearby flora to provide the party with protection while camping in wilderness. (There must be plants nearby.) Shrubs and thorny vines will emerge around the campsite to provide concealment. The shroud lasts until you leave the camp.
 
-The shroud conceals the light from
-a small campfire. If hostile creatures advance on the party’s campsite, the trees will rustle and howl to provide 5 minutes of early warning. Creatures can pass through the shroud, but they are hit for 1 HP if they push through. When you regroup (p. 14) inside of
+The shroud conceals the light from a small campfire. If hostile creatures advance on the party’s campsite, the trees will rustle and howl to provide 5 minutes of early warning. Creatures can pass through the shroud, but they are hit for 1 HP if they push through. When you regroup (p. 14) inside of
 the Shroud, your party gains the benefit of a rest.
 
-read the winds
-0 You concentrate on the language of wind, sensing weather patterns in your region of the world. You are able to glimpse a weather forecast for the next few days in your region of the world.
-2 If you spend 2 AP on this ability, you may choose the weather that you foresee in your region over the next few days, as long as it is seasonally appropriate. You might choose light rain, a thunderstorm, fog, a heat wave, or any other weather pattern, except for natural disasters like tornadoes or hurricanes.
-navigate
-0 You feel the land in your bones. You cannot get lost in wilderness unless magic is inhibiting you.
-1 You navigate your party to one of the following areas when traveling in wilderness:
-oasis. You find a reprieve that has a small amount of nourishment.
-shelter. You find a natural cave that offers shelter from harsh weather.
-ruins. You find minor ruins, like an abandoned keep or a withered statue.
-nest. You find the home of an animal or group of animals, like an otter's den.
+## read the winds
+### Cost: 0 
+You concentrate on the language of wind, sensing weather patterns in your region of the world. You are able to glimpse a weather forecast for the next few days in your region of the world.
+### Cost: 2
+If you spend 2 AP on this ability, you may choose the weather that you foresee in your region over the next few days, as long as it is seasonally appropriate. You might choose light rain, a thunderstorm, fog, a heat wave, or any other weather pattern, except for natural disasters like tornadoes or hurricanes.
 
-track
-0 When you find tracks, you can instantly identify the type of creature that left them. If it is an animal,
+## navigate
+### Cost: 0 
+You feel the land in your bones. You cannot get lost in wilderness unless magic is inhibiting you.
+### Cost: 1 
+You navigate your party to one of the following areas when traveling in wilderness:
+* oasis. You find a reprieve that has a small amount of nourishment.
+* shelter. You find a natural cave that offers shelter from harsh weather.
+* ruins. You find minor ruins, like an abandoned keep or a withered statue.
+* nest. You find the home of an animal or group of animals, like an otter's den.
+
+## track
+### Cost: 0 
+When you find tracks, you can instantly identify the type of creature that left them. If it is an animal,
 the Guide will share a fact that you know about them, like their habits or personality traits.
-1 You can pick up on the trail of an animal of your choice even if there are no tracks nearby, as long as it is native to the environment you're currently in. You must choose a type of animal to find, like a boar or a squirrel. (You can't use this to find a specific creature.) You find the creature after a short search.
+### Cost: 1 
+You can pick up on the trail of an animal of your choice even if there are no tracks nearby, as long as it is native to the environment you're currently in. You must choose a type of animal to find, like a boar or a squirrel. (You can't use this to find a specific creature.) You find the creature after a short search.
 
-speak with animal
-1 You touch an animal that is not currently hostile toward you, forming
+## speak with animal
+### Cost: 1 
+You touch an animal that is not currently hostile toward you, forming
 a telepathic bond with it for the next minute. You are capable of interpreting the animal's thoughts and feelings,
 and you can have an exchange of communication with it. It can give basic information about things, like how it feels, what it has seen, and what it wants, but it does not understand complex ideas.
 
-courier
-1 You find a friendly animal nearby and whisper to it, giving it instructions to deliver an item. The item must be small and light enough for the animal to reasonably carry. You can have the animal deliver the item to a place or a specific person. The destination must be within a day's travel time.
+## courier
+### Cost: 1 
+You find a friendly animal nearby and whisper to it, giving it instructions to deliver an item. The item must be small and light enough for the animal to reasonably carry. You can have the animal deliver the item to a place or a specific person. The destination must be within a day's travel time.
 
-animal form
-2 You take the form of a wild animal, adopting its shape, senses, and range of motion. You may choose any creature that is no smaller than
+## animal form
+### Cost: 2 
+You take the form of a wild animal, adopting its shape, senses, and range of motion. You may choose any creature that is no smaller than
 a mouse and no larger than a horse. Everything you carry becomes part of your animal form.
 While in animal form, you have 6 HP. You may make basic attacks that hit for 2 HP. You can't cast spells, use items, or speak languages while transformed.
 You can return to your normal form at any time. When transforming back, you regain the hit points you had before you transformed. Falling to 0 hit points while transformed instantly returns you to your normal form.
 
-shapeshift
-3 This is a master version of your Animal Form spell (p. 58). The rules are the same, except for these differences:
-■ You can choose a creature no smaller than a housefly and no larger than an elephant.
-■ You have 10 HP in animal form.
-■ Your animal form attacks hit for 3
-HP.
-■ You can send messages telepathically to members of the party.
+## shapeshift
+### Cost: 3 
+This is a master version of your Animal Form spell (p. 58). The rules are the same, except for these differences:
+* You can choose a creature no smaller than a housefly and no larger than an elephant.
+* You have 10 HP in animal form.
+* Your animal form attacks hit for 3 HP.
+* You can send messages telepathically to members of the party.
 
-thorn
-roll the die
-0 You open your palm, conjuring
-a poisonous thorn that you shoot in
-a straight line toward a nearby target creature or object. The thorn hits for 2 HP.
-20: The thorn's poison is amplified. If you hit an organic creature, its skin becomes swollen, it cannot see beyond its reach, and it can't speak or cast spells until the end of its next turn.
+## thorn
+***roll the die***
+### Cost: 0 
+You open your palm, conjuring a poisonous thorn that you shoot in a straight line toward a nearby target creature or object. The thorn hits for 2 HP.
+**20**: The thorn's poison is amplified. If you hit an organic creature, its skin becomes swollen, it cannot see beyond its reach, and it can't speak or cast spells until the end of its next turn.
 
-freeze
-0 You blow cool air, creating freezing winds that swirl around a nearby creature or object. Affected creatures feel a deep chill in their bones and are hit for 1 HP. You can use the spell to snuff out small fires.
-2 You freeze a nearby commoner, minion, or object, encasing it in ice until you leave the scene. If you freeze a creature, it cannot move or act. The ice shatters, and the creature is freed if it takes any additional damage.
-burn
-0 You blow hot air, creating scorching winds that swirl around a nearby creature or object. The heat
+## freeze
+### Cost: 0 
+You blow cool air, creating freezing winds that swirl around a nearby creature or object. Affected creatures feel a deep chill in their bones and are hit for 1 HP. You can use the spell to snuff out small fires.
+### Cost: 2 
+You freeze a nearby commoner, minion, or object, encasing it in ice until you leave the scene. If you freeze a creature, it cannot move or act. The ice shatters, and the creature is freed if it takes any additional damage.
+
+## burn
+### Cost: 0 
+You blow hot air, creating scorching winds that swirl around a nearby creature or object. The heat
 is enough to make the creatures very uncomfortable but not enough to harm them.
-1 You overcharge the spell and ignite the target in flame instead, hitting it for 2 damage and setting it ablaze.
+### Cost: 1 
+You overcharge the spell and ignite the target in flame instead, hitting it for 2 damage and setting it ablaze.
 
-wild aspect
-1 eagle. You gain eagle-eye vision
+## wild aspect
+### Cost: 1 - eagle 
+You gain eagle-eye vision
 for the next minute. You can see anything in your line of sight clearly, even if it is far away, and you can detect faraway movement that would be imperceptible to a normal person.
-2 cat. You purr softly under your breath, imbuing up to 6 nearby creatures with the spirit of the cat.
+### Cost: 2 - cat
+You purr softly under your breath, imbuing up to 6 nearby creatures with the spirit of the cat.
 For the next hour, affected creatures gain the ability to see things nearby
 in complete darkness as if they were
 in a dimly lit room. The effect cannot pierce magical darkness. Affected creatures may occasionally feel the urge to stop what they are doing and clean themselves.
-2 wolf. You howl, imbuing up to 6 nearby creatures with haste. (Howl at the table.) For the next hour, creatures affected by the spell can outrun any other creatures while traveling by foot.
+### Cost: 2 - wolf
+You howl, imbuing up to 6 nearby creatures with haste. (Howl at the table.) For the next hour, creatures affected by the spell can outrun any other creatures while traveling by foot.
 
-prey sense
+## prey sense
 1 You sharpen your sense of danger for the next hour. You feel a subtle signal in your body whenever you will imminently be threatened by another creature. (The hair on your skin might raise, or you might feel a tingling in your bones.) This includes creatures that you can't see.
 If you detect a creature this way, your party cannot be ambushed. (If you detect a creature trying to attack you, your party gets the first round in combat.)
 
