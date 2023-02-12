@@ -34,221 +34,147 @@ Your words and lack of action can keep you hidden in a social situation. When yo
 - Direct suspicion or attention elsewhere
 
 #### Shadow Flesh
-        -   When you hide in shadows or darkness, you cannot be detected by any normal senses. You can also freely move through small gaps in solid objects and even see in total darkness.
-            
--   Death
-    
-    -   Death’s Shadow
-        
-        -   When you study a foe with an eye for weakness, roll +Mental. *On a 7+, you identify a vulnerability they possess and can exploit it to deal +2 stress against them for the rest of the scene. *On a 7-9, you’ll have to expose yourself or someone else to danger in order to exploit their vulnerability.
-            
-    -   Death Sight
-        
-        -   When you Seek Answers observing something dead, you also add these to the list of questions:
-            
-            -   Who or what’s blood (or body part) is this, and are they still alive?
-                
-            -   When and how did this creature die?
-                
-            -   What was the last thing this person experienced before they died?
-                
-        -   You can also see and talk to ghosts, even if they would be invisible
-            
-    -   Undead Minion
-        
-        -   You can summon an undead minion to fight with you. They have +1 Quality, 3 stress, access to the basic moves and an instinct chosen by the GM. It can only perform tasks that relate to its nature and instinct. When you want to increase its power, roll +Mystical. *On a 10+ hold 2 Infusions. *On a 7-9, hold 1 Infusion. Spend them on the below:
-            
-            -   It gets +1 Quality (up to +3)
-                
-            -   It gets +3 stress capacity
-                
-            -   It has a useful, but dreadful power
-                
-    -   Vampiric touch
-        
-        -   When you deal damage, gain 1 Vitae (max 3). When you touch someone and channel the life force you have stolen, you may spend Vitae. For each Vitae spent, choose 1: they clear 2 stress or they are cleansed of a mundane poison or disease.
-            
--   Earth
-    
-    -   Control Earth
-        
-        -   You can control earth and stone, adding the option “manipulate earth” to Wield the Mystical. If commanded through your unbending resolve and solid stances, you may roll +Persona instead of Mystical.
-            
-    -   Solid
-        
-        -   You have +1 armor due to your tough body.
-            
-    -   Tough as a Rock
-        
-        -   When you fight against pain or try to overcome difficult environmental conditions, you gain a +1 forward to Thwart Peril. You also reduce the effect of the GM’s stress moves by one rank.
-            
-    -   Overwhelming Force
-        
-        -   Any melee Clash you do is forceful and your strength is far greater than other heroes, capable of lifting large objects like cars and trucks with ease.
-            
--   Fire
-    
-    -   Control Fire
-        
-        -   You can control and manipulate flames, adding the option “manipulate fire” to Wield the Mystical. If you wield it with your emotions and passion, you may roll +Emotional instead of Mystical. Any creature caught within its blaze takes damage as appropriate.
-            
-    -   Fire Eater
-        
-        -   Fire mends you. When you enter a medium flame, choose 1. When you are engulfed in a large and powerful blaze, choose 2.
-            
-            -   You clear 3 stress.
-                
-            -   You are cured of a fitting condition.
-                
-            -   You regrow any lost limbs.
-                
-        -   The fire is consumed in the process. Fire also no longer burns you.
-            
-    -   Warm Up
-        
-        -   When you are harmed, fire builds up. Choose one below:
-            
-            -   Gain +1 stress forward.
-                
-            -   Gain +1 armor forward.
-                
-            -   Add the area tag to your next Clash.
-                
-    -   Firestorm
-        
-        -   When you use Wield the Mystical to attack with fire and flame, you can choose to inflict 3-stress close far loud fiery area or 3-stress melee loud 2-piercing fiery.
-            
--   Light
-    
-    -   Bright
-        
-        -   You can manifest light split into multiple weaker glowing orbs that can float at a distance from you, or create a powerful aura that baths the surroundings in a bright light.
-            
-    -   Beacon
-        
-        -   When you unleash a bright flash followed by word or by deed, roll +Emotional. *On a 7-9, your enemies turn and look. *On a 10+, you hold their gaze so long as you continue giving them reason to watch.
-            
-    -   Radiant Soul
-        
-        -   When you hone your will into a beaming aura, roll + Persona. *On a 10+, choose two. *On a 7-9, choose one.
-            
-            -   Its radiance blinds and disorients all enemies that can see you for a few moments.
-                
-            -   Its radiance lights the area within hand range on fire, dealing 2 stress (fiery).
-                
-            -   Its radiance pierces falsehoods both mundane and magical, revealing the truth for all to witness.
-                
-    -   Force Shield
-        
-        -   When you Protect Someone, you have 2-armor against any stress you may suffer from dangers.
-            
--   Life
-    
-    -   Healing Touch
-        
-        -   When you lay your hands on someone else that’s hurt or ill, roll +Emotional. *On a 10+, heal 2 stress or a condition. *On a 7-9, as a 10+, but you take the stress or the condition upon yourself.
-            
-    -   Living Weapon
-        
-        -   You can create natural or very strange weapons from your body by focusing for just a moment. Claws, horns, spines, tail, blade hand, etc. These attacks deal 1-stress and have a range of melee. When you form a weapon, you can also choose between giving it either the messy or forceful tag.
-            
-    -   Plants vs Enemies
-        
-        -   When you Protect Someone and plants are nearby, you get +1 readiness even on a miss. You may spend hold on these additional options:
-            
-            -   The plants bat all enemies in range aside or to the ground.
-                
-            -   The plants deal 1-stress to all enemies in range.
-                
-            -   The plants entangle and grab all enemies in range.
-                
-    -   Shapeshifter
-        
-        -   You may change your form (usually into a sort of animal). Decide if you have just one alternate form or several, and detail them when you take this move. You gain a +1 forward to Seek Answers when using an alternate form’s superior senses where it is relevant (e.g. smell for a wolf, sight for an eagle).
-            
--   Lightning
-    
-    -   Electric Wings
-        
-        -   When you want to move to a location you can see, you do so instantly and without need to Thwart peril. You may still need to if you wish to evade an incoming danger in time.
-            
-    -   Electric
-        
-        -   Power courses through you. When something or someone touches you, they are exposed to a 1-stress attack. You are also somehow able to “refuel/recharge” anything you touch. No matter if it requires energy, gas, or any other kind of power to function.
-            
-    -   Thunder and Lighting
-        
-        -   When you conjure lightning from your body, roll +Physical. *On a hit, you summon crackling energy in your hands or on your person, brimming and ready to be wielded. *On a 10+ hold 2, on a 7-9 hold 1. You may spend hold 1-for-1 to do one of the following:
-            
-            -   Add the stunning tag to a Clash.
-                
-            -   Deal 3 Stress to a creature that just dealt damage to you.
-                
-            -   If you Clash and hit, deal your +2 Stress.
-                
-            -   Deal 1 Stress to all enemies within a few dozen yards of you.
-                
-    -   Lightning Speed
-        
-        -   Your movement and reflexes are quick like lightning. When you chase, dodge, flee, or run, take +1 ongoing.
-            
--   Metal
-    
-    -   Unbending
-        
-        -   When you convince an ally to hold fast against incoming danger, you both gain +1 ongoing as long as you stay right where you are.
-            
-    -   Perfect Armor
-        
-        -   You wear an armor that gives 1-armor, or the armor you already have, is improved with another tag.
-            
-    -   Perfect Weapon
-        
-        -   Pick one extra tag for a weapon, or if you don’t have a weapon, gain a weapon now with 2 picks.
-            
-    -   Wrecking Ball
-        
-        -   When you smash your way through the scenery to get to or away from something, roll +Physical. *On a 10+, the world breaks before you, and get what you want. *On a 7-9, choose one:
-            
-            -   Take 1 stress (ignores armor)
-                
-            -   Leave something behind
-                
-            -   Take something with you
-                
-        -   *On a miss, you smash through, but leave devastation in your wake or wind up somewhere worse, GM’s choose.
-            
--   Technology
-    
-    -   Magitech
-        
-        -   When you infuse an object with your magic, describe an effect and roll +Mystical. *On a 7+, it will be capable of doing something impossible once and then fizzle. *On a 10+, either it works exceptionally well or you get an additional use out of it.
-            
-        -   *On a miss, the device works, but it has a completely unintended side effect that the GM will reveal when you use it.
-            
-    -   Mystical Craft
-        
-        -   You have a wondrous vehicle at your disposal. Describe it and choose two strengths and two weaknesses. When you are controlling your craft, you can use it to directly Clash or Protect Someone using +Mental.
-            
-        -   Strengths: Fast & maneuverable, chameleon, powerful weaponry, regenerating, dimension-shifting, size-shifting, telepathic
-            
-        -   Weaknesses: Bizarre fuel source, susceptible to _________, easily detectable, slow and clumsy, unarmed, difficult to repair
-            
-    -   Reconfigure
-        
-        -   When you try to enchant a weapon or piece of attire with Wield the Mystical, you may also temporarily swap a gear tag with another.
-            
-    -   Quick Search
-        
-        -   You can wireless connect to any machine. When you Seek Answers through the internet or a system, you gain one free hold to ask about a mundane fact.
-            
--   Time
-    
-    -   In the Nick of Time
-        
-        -   When you suspect someone is in trouble and need to get to them in time to help, roll +Mystical. *On a 10+, you warp time and arrive just in time to help. Pick one option from the list below and take +1 forward to help resolve the situation. *On a 7-9, you arrive but you pick one option from the list below and the GM picks one.
-            
-            -   Not before something bad happens.
+When you hide in shadows or darkness, you cannot be detected by any normal senses. You can also freely move through small gaps in solid objects and even see in total darkness.
+   
+### Death
+#### Death’s Shadow
+When you study a foe with an eye for weakness, roll +Mental. \*On a 7+, you identify a vulnerability they possess and can exploit it to deal +2 stress against them for the rest of the scene. \*On a 7-9, you’ll have to expose yourself or someone else to danger in order to exploit their vulnerability.
+
+#### Death Sight
+When you Seek Answers observing something dead, you also add these to the list of questions:
+- Who or what’s blood (or body part) is this, and are they still alive?
+- When and how did this creature die?
+- What was the last thing this person experienced before they died?
+- You can also see and talk to ghosts, even if they would be invisible
+
+#### Undead Minion
+You can summon an undead minion to fight with you. They have +1 Quality, 3 stress, access to the basic moves and an instinct chosen by the GM. It can only perform tasks that relate to its nature and instinct. When you want to increase its power, roll +Mystical. \*On a 10+ hold 2 Infusions. \*On a 7-9, hold 1 Infusion. Spend them on the below:
+- It gets +1 Quality (up to +3)
+- It gets +3 stress capacity
+- It has a useful, but dreadful power
+
+#### Vampiric touch
+When you deal damage, gain 1 Vitae (max 3). When you touch someone and channel the life force you have stolen, you may spend Vitae. For each Vitae spent, choose 1: they clear 2 stress or they are cleansed of a mundane poison or disease.
+
+### Earth
+#### Control Earth
+You can control earth and stone, adding the option “manipulate earth” to Wield the Mystical. If commanded through your unbending resolve and solid stances, you may roll +Persona instead of Mystical.
+  
+ #### Solid
+ You have +1 armor due to your tough body.
+
+#### Tough as a Rock
+When you fight against pain or try to overcome difficult environmental conditions, you gain a +1 forward to Thwart Peril. You also reduce the effect of the GM’s stress moves by one rank.
+
+#### Overwhelming Force
+Any melee Clash you do is forceful and your strength is far greater than other heroes, capable of lifting large objects like cars and trucks with ease.
+
+### Fire
+#### Control Fire
+You can control and manipulate flames, adding the option “manipulate fire” to Wield the Mystical. If you wield it with your emotions and passion, you may roll +Emotional instead of Mystical. Any creature caught within its blaze takes damage as appropriate.
+
+#### Fire Eater
+Fire mends you. When you enter a medium flame, choose 1. When you are engulfed in a large and powerful blaze, choose 2.
+- You clear 3 stress.
+- You are cured of a fitting condition.
+- You regrow any lost limbs.
+- The fire is consumed in the process. Fire also no longer burns you.
+
+#### Warm Up
+When you are harmed, fire builds up. Choose one below:
+- Gain +1 stress forward.
+- Gain +1 armor forward.
+- Add the area tag to your next Clash.
+
+#### Firestorm
+When you use Wield the Mystical to attack with fire and flame, you can choose to inflict 3-stress close far loud fiery area or 3-stress melee loud 2-piercing fiery.
+
+### Light
+#### Bright
+You can manifest light split into multiple weaker glowing orbs that can float at a distance from you, or create a powerful aura that baths the surroundings in a bright light.
+
+#### Beacon
+When you unleash a bright flash followed by word or by deed, roll +Emotional. \*On a 7-9, your enemies turn and look. \*On a 10+, you hold their gaze so long as you continue giving them reason to watch.
+
+#### Radiant Soul
+When you hone your will into a beaming aura, roll + Persona. \*On a 10+, choose two. \*On a 7-9, choose one.
+- Its radiance blinds and disorients all enemies that can see you for a few moments.
+- Its radiance lights the area within hand range on fire, dealing 2 stress (fiery).
+- Its radiance pierces falsehoods both mundane and magical, revealing the truth for all to witness.
+
+#### Force Shield
+When you Protect Someone, you have 2-armor against any stress you may suffer from dangers.
+
+### Life
+#### Healing Touch
+When you lay your hands on someone else that’s hurt or ill, roll +Emotional. \*On a 10+, heal 2 stress or a condition. \*On a 7-9, as a 10+, but you take the stress or the condition upon yourself.
+
+#### Living Weapon
+You can create natural or very strange weapons from your body by focusing for just a moment. Claws, horns, spines, tail, blade hand, etc. These attacks deal 1-stress and have a range of melee. When you form a weapon, you can also choose between giving it either the messy or forceful tag.
+
+#### Plants vs Enemies
+When you Protect Someone and plants are nearby, you get +1 readiness even on a miss. You may spend hold on these additional options:
+- The plants bat all enemies in range aside or to the ground.
+- The plants deal 1-stress to all enemies in range.
+- The plants entangle and grab all enemies in range.
+
+#### Shapeshifter
+You may change your form (usually into a sort of animal). Decide if you have just one alternate form or several, and detail them when you take this move. You gain a +1 forward to Seek Answers when using an alternate form’s superior senses where it is relevant (e.g. smell for a wolf, sight for an eagle).
+
+### Lightning
+#### Electric Wings
+When you want to move to a location you can see, you do so instantly and without need to Thwart peril. You may still need to if you wish to evade an incoming danger in time.
+
+#### Electric
+Power courses through you. When something or someone touches you, they are exposed to a 1-stress attack. You are also somehow able to “refuel/recharge” anything you touch. No matter if it requires energy, gas, or any other kind of power to function.
+
+#### Thunder and Lighting
+When you conjure lightning from your body, roll +Physical. \*On a hit, you summon crackling energy in your hands or on your person, brimming and ready to be wielded. \*On a 10+ hold 2, on a 7-9 hold 1. You may spend hold 1-for-1 to do one of the following:
+- Add the stunning tag to a Clash.
+- Deal 3 Stress to a creature that just dealt damage to you.
+- If you Clash and hit, deal your +2 Stress.
+- Deal 1 Stress to all enemies within a few dozen yards of you.
+
+#### Lightning Speed
+Your movement and reflexes are quick like lightning. When you chase, dodge, flee, or run, take +1 ongoing.
+
+### Metal
+#### Unbending
+When you convince an ally to hold fast against incoming danger, you both gain +1 ongoing as long as you stay right where you are.
+
+#### Perfect Armor
+You wear an armor that gives 1-armor, or the armor you already have, is improved with another tag.
+
+#### Perfect Weapon
+Pick one extra tag for a weapon, or if you don’t have a weapon, gain a weapon now with 2 picks.
+
+#### Wrecking Ball
+When you smash your way through the scenery to get to or away from something, roll +Physical. \*On a 10+, the world breaks before you, and get what you want. \*On a 7-9, choose one:
+- Take 1 stress (ignores armor)
+- Leave something behind
+- Take something with you
+\*On a miss, you smash through, but leave devastation in your wake or wind up somewhere worse, GM’s choose.
+
+### Technology
+#### Magitech
+When you infuse an object with your magic, describe an effect and roll +Mystical. \*On a 7+, it will be capable of doing something impossible once and then fizzle. \*On a 10+, either it works exceptionally well or you get an additional use out of it.
+\*On a miss, the device works, but it has a completely unintended side effect that the GM will reveal when you use it.
+
+#### Mystical Craft
+You have a wondrous vehicle at your disposal. Describe it and choose two strengths and two weaknesses. When you are controlling your craft, you can use it to directly Clash or Protect Someone using +Mental.
+- Strengths: Fast & maneuverable, chameleon, powerful weaponry, regenerating, dimension-shifting, size-shifting, telepathic
+- Weaknesses: Bizarre fuel source, susceptible to \_\_\_\_\_\_\_\_\_, easily detectable, slow and clumsy, unarmed, difficult to repair
+
+#### Reconfigure
+When you try to enchant a weapon or piece of attire with Wield the Mystical, you may also temporarily swap a gear tag with another.
+
+#### Quick Search
+You can wireless connect to any machine. When you Seek Answers through the internet or a system, you gain one free hold to ask about a mundane fact.
+
+### Time
+#### In the Nick of Time
+When you suspect someone is in trouble and need to get to them in time to help, roll +Mystical. \*On a 10+, you warp time and arrive just in time to help. Pick one option from the list below and take +1 forward to help resolve the situation. \*On a 7-9, you arrive but you pick one option from the list below and the GM picks one.
+- Not before something bad happens.
                 
             -   As you arrive, the situation worsens.
                 
