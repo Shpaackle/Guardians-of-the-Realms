@@ -1,3 +1,4 @@
+# List of Emotions
 - Admiration
 - Adoration
 - Aesthetic appreciation
@@ -190,66 +191,81 @@
 - Politeness
 - Postal, going
 - Powerlessness
-- 
 - Pride
-Pronoia
-Proud
-Puzzlement
-Rage
-Rapture
-Regret
-Rejection
-Relaxation
-Relief
-Reluctance
-Remorse
-Reproachfulness
-Resentment
-Restlessness
-Revulsion
-Rivalry
-Road rage
-Romance
-Sadness
-Satisfaction
-Satisfied
-Schadenfreude
-Scores
-Self-conscious
-Self-pity
-Sensory pleasure
-Sentimentality
-Serenity
-Sexual desire
-Shame
-Shock
-Smugness
-Sorrow
-Spite
-Stress
-Suffering
-Surprise
-Suspense
-Suspicion
-Sympathy
-Tenderness
-Tension
-Terror
-Thankfulness
-Thrill
-Thrilled
-Torment
-Triumph
-Trust
-Uneasiness
-Unhappiness
-Vengefulness
-Vulnerability
-Wanderlust
-Warm glow
-Woe
-Wonder
-Worry
-Wrath
-Zeal
-Zest
+- Pronoia
+- Proud
+- Puzzlement
+- Rage
+- Rapture
+- Regret
+- Rejection
+- Relaxation
+- Relief
+- Reluctance
+- Remorse
+- Reproachfulness
+- Resentment
+- Restlessness
+- Revulsion
+- Rivalry
+- Road rage
+- Romance
+- Sadness
+- Satisfaction
+- Satisfied
+- Schadenfreude
+- Scores
+- Self-conscious
+- Self-pity
+- Sensory pleasure
+- Sentimentality
+- Serenity
+- Sexual desire
+- Shame
+- Shock
+- Smugness
+- Sorrow
+- Spite
+- Stress
+- Suffering
+- Surprise
+- Suspense
+- Suspicion
+- Sympathy
+- Tenderness
+- Tension
+- Terror
+- Thankfulness
+- Thrill
+- Thrilled
+- Torment
+- Triumph
+- Trust
+- Uneasiness
+- Unhappiness
+- Vengefulness
+- Vulnerability
+- Wanderlust
+- Warm glow
+- Woe
+- Wonder
+- Worry
+- Wrath
+- Zeal
+- Zest
+
+## Emotional Table
+| Mild emotion             | Mild opposite           | Basic emotion     | Basic opposite           | Intense emotion         | Intense opposite    |
+| ------------------------ | ----------------------- | ----------------- | ------------------------ | ----------------------- | ------------------- |
+| Serenity                 | Pensiveness, Gloominess | Joy, Cheerfulness | Sadness, Dejection       | Ecstasy, Elation        | Grief, Sorrow       |
+| Acceptance, Tolerance    | Boredom, Dislike        | Trust             | Disgust, Aversion        | Admiration, Adoration   | Loathing, Revulsion |
+| Apprehension, Dismay     | Annoyance, Irritation   | Fear, Fright      | Anger, Hostility         | Terror, Panic           | Rage, Fury          |
+| Distraction, Uncertainty | Interest, Attentiveness | Surprise          | Anticipation, Expectancy | Amazement, Astonishment | Vigilance                    |
+# Dyads (Combination)
+| Human feelings     | Emotions             | Opposite feelings           | Emotions           |
+| ------------------ | -------------------- | --------------------------- | ------------------ |
+| Optimism, Courage  | Anticipation + Joy   | Disapproval, Disappointment | Surprise + Sadness |
+| Hope, Fatalism     | Anticipation + Trust | Unbelief, Shock             | Surprise + Disgust |
+| Anxiety, Dread     | Anticipation + Fear  | Outrage, Hate               | Surprise + Anger   |
+| Love, Friendliness | Joy + Trust          | Remorse, Misery             | Sadness + Disgust  |
+|                    |                      |                             |                    |
