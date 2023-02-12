@@ -6,7 +6,6 @@
       {
         "id": "4ea5cecb7608d670",
         "type": "tabs",
-        "dimension": 44.49576597382602,
         "children": [
           {
             "id": "6c3e1ab1e62e646f",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023/January.md",
+                "file": "New Spell Pieces.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,38 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "Realms/Primal/Time.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f8fba8bf3230ac3e",
-        "type": "tabs",
-        "dimension": 55.50423402617398,
-        "children": [
-          {
-            "id": "eaafac622d567511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spell Pieces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8cbb57a646bd156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Emotional/Emotional.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "New Spell Pieces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "New Spell Pieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell Pieces.md"
+                "file": "New Spell Pieces.md"
               }
             }
           }
@@ -192,17 +159,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eaafac622d567511",
+  "active": "6c3e1ab1e62e646f",
   "lastOpenFiles": [
-    "Realms/Primal/Time.md",
+    "Notes/2023/January.md",
+    "Realms/Emotional/Emotional.md",
     "Spell Pieces.md",
+    "Realms/Primal/Time.md",
     "Realms/Primal/Spirits.md",
     "Realms/Primal/Shadow.md",
     "Realms/Primal/Order.md",
     "Realms/Primal/Radiance.md",
     "Realms/Primal/Nightmares.md",
-    "Realms/Primal/Chaos.md",
-    "Realms/Primal/Abomination.md",
-    "Realms/Primal/Primal.md"
+    "Realms/Primal/Chaos.md"
   ]
 }
