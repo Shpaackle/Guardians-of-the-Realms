@@ -175,290 +175,193 @@ You can wireless connect to any machine. When you Seek Answers through the inter
 #### In the Nick of Time
 When you suspect someone is in trouble and need to get to them in time to help, roll +Mystical. \*On a 10+, you warp time and arrive just in time to help. Pick one option from the list below and take +1 forward to help resolve the situation. \*On a 7-9, you arrive but you pick one option from the list below and the GM picks one.
 - Not before something bad happens.
-                
-            -   As you arrive, the situation worsens.
-                
-            -   You’re in over your head.
-                
-            -   You had to leave something behind.
-                
-    -   Slow Motion
-        
-        -   You can make everything around you slow down to a crawl. When you take in details of a scene you have +1 ongoing to Watch for Danger.
-            
-    -   Temporal Detective
-        
-        -   When you touch a subject and Seek Answers about it, you can pierce the fogs of time, gaining answers from the past.
-            
-    -   Truth and Consequences
-        
-        -   When you examine the strands of possible futures, describe an event that it yet to occur and roll +Mental. *On a 10+, name three people, groups, or social institutions. *On a 7-9, only two. *On a miss, name one anyway, in addition to whatever else the GM tells you.
-            
-        -   For each subject you name, the GM will tell you what sort of consequences this future event will have for them. You may only examine each event once.
-            
--   Water
-    
-    -   Control Water
-        
-        -   You can control and manipulate water, adding the option “manipulate water” to Wield the Mystical. If you wield it with careful calculation and precise movement, you may roll +Mental instead of mystical.
-            
-    -   Aqua location
-        
-        -   When you are surrounded by water (in a lake, ocean, mist, rain, etc.), you can sense everything as easily and as far as if you could see. You can also effectively fly when in water and breathe freely.
-            
-    -   One with the Flow
-        
-        -   When you try to contact the Source for guidance or help, roll +Mystical. *On a 10+, hold 3. *On a 7-9, hold 2. *On a 6-, hold 1, but the Source will reveal an incoming great danger. Spend your hold 1 for 1 to:
-            
-            -   Receive a useful piece of magical equipment that will allow you to use any other move once (choose the ability when you spend the hold).
-                
-            -   Ask the GM a question about the current situation.
-                
-            -   Clear a condition through the comfort of contact with the Source
-                
-    -   Riding the Wave
-        
-        -   After you use Wield the Mystical, take +1 forward on the next roll you make.
-            
+- As you arrive, the situation worsens.
+- You’re in over your head.
+- You had to leave something behind.
 
-Emotional Themes
+#### Slow Motion
+You can make everything around you slow down to a crawl. When you take in details of a scene you have +1 ongoing to Watch for Danger.
 
--   Anger
-    
-    -   Rage Fueled Assault
-        
-        -   When a foe deals damage to you, you inflict +1 stress ongoing as long as you attack them. You lose this if you perform a move other than Clash, or Clash with someone else.
-            
-    -   Furious Roar
-        
-        -   When you let loose your rage as a roar in the midst of battle, roll +Emotional. *On a 10+, choose two. *On a 7-9, choose one.
-            
-            -   Your allies shake off any fear and gain +1 stress
-                
-            -   Choose an enemy, they are distracted, shaken, or lose focus
-                
-            -   Choose a worthy opponent, they will treat you as the greatest threat
-                
-            -   Your enemies are stricken with fear, and may rout if pressed
-                
-    -   Intense
-        
-        -   When someone gets in your way or displeases you, you may roll +Persona instead of Emotional for Convince Someone.
-            
-    -   Let Loose!
-        
-        -   Whenever you charge into a fight without hedging your bets, you take +1 ongoing to Clash as long as you fight with abandon and no plan.
-            
--   Desire
-    
-    -   Heart Reader
-        
-        -   When you gaze upon something with a soul and focus on their heart, roll +Emotional. *On a 10+, ask 2. *On a 7-9, ask 1.
-            
-            -   What fuels the flames of their desire?
-                
-            -   What would make them feel welcomed or accepted?
-                
-            -   What do they desire from the future?
-                
-        -   You roll with +1 forward to act on the answers.
-            
-    -   Mystical Glamour
-        
-        -   Roll +Mystical instead of +Emotional when you Convince Someone that are are susceptible to magic.
-            
-    -   Mesmeric
-        
-        -   When you lock eyes with someone and force your will upon them, roll +Persona. *On a 10+, take 2 Control over them. *On a 7-9, take 1 Control over them. They can spend your Control, 1-for1-, by:
-            
-            -   Giving you something they think you want
-                
-            -   Doing something you tell them to do
-                
-            -   Fighting to protect you
-                
-        -   If they’re an NPC, they can’t act out against you until your Control is spent.
-            
-    -   Sense Bad Vibes
-        
-        -   When sensing for emotions that could prove dangerous, roll +Emotional instead of Persona for Watch for Danger.
-            
--   Disgust
-    
-    -   That’s So Gross
-        
-        -   When you Thwart peril against something disgusting or nasty, you gain +1 forward. You can also with a glances see if something is dangerous to come into contact with.
-            
-    -   Cleanser
-        
-        -   When you try to stop a mystical ongoing effect or one being cast, roll +Mystical. *On a hit, the effect is successfully halted or disrupted. *On a 7-9, choose one:
-            
-            -   The unraveled magic causes some undesirable collateral damage.
-                
-            -   The disrupted magic causes unwanted side effects.
-                
-            -   A weaker version gets through or lingers.
-                
-            -   It is only temporarily suppressed.
-                
-    -   Smite
-        
-        -   When you strike a thing of supernatural evil, you add these to the 10+ effect on Clash:
-            
-            -   Ignore the thing’s armor or a special defenses
-                
-            -   Suppress one of its unnatural powers
-                
-            -   Force it from its host
-                
-    -   Safe Space
-        
-        -   When you Wield the Mystical to bar a place or trap someone, the effect may span a large area or a very big object.
-            
--   Fear
-    
-    -   Flight Instinct
-        
-        -   When you need to escape from something or somewhere, roll +Persona. *On a 10+ you’re out of danger, no problem. *On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you).
-            
-    -   No Fear of Magic
-        
-        -   You never need to Thwart Peril when supernatural forces alter the environment around you, and you always have 2-armor against magical attacks.
-            
-    -   Caught in the Headlights
-        
-        -   When you enter the scene, roll +Emotional. *On a 10+, hold 2. *On a 7-9, hold 1. Spend your hold, 1-for-1, to make eye contact with an NPC present who freezes or flinches and can’t act until you break off your gaze.
-            
-    -   Healthy Distrust
-        
-        -   When you receive someone’s honest advice on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 ongoing on any moves you make pursuing that course.
-            
--   Hope
-    
-    -   Brighter Tomorrow
-        
-        -   You always have 2-armor against stress from mental and emotional sources. When you spend time assuring others that the future is bright while they Reconnect & Recover with you, they may pick an additional option.
-            
-    -   It will be OK
-        
-        -   When someone in your presence (including you) is In a Pinch, they ad your Persona (minimum 1) to their roll
-            
-    -   The Calm of the Storm
-        
-        -   When you exert your inner calm in a circle around yourself, roll +Emotional. *On a 10+, the world calms around you’ll the earth below your feet stops breaking apart, nearby flames peter out, and storms break around you. *On a 7-9, this calmness affects only you and physical things you can touch, and only as long as you are touching them.
-            
-    -   There for Them
-        
-        -   When you swear that you will save someone or defeat a terrible enemy, mark a condition and take +1 ongoing to all rolls that would be in direct pursuit of that goal. At the end of any scene in which you don’t make progress towards that goal, mark another condition. Mark XP when you achieve your goal.
-            
--   Joy
-    
-    -   Positive Reinforcement
-        
-        -   When you tell others of a joyous moment you have experienced in your life, any other hero who hears it gets 2 hold that they can spend on a 1-for-1 basis to gain +1 forward on Thwart Peril to carry onward, Forge a Bond or Reconnect and Recover.
-            
-    -   Happy Place
-        
-        -   When you manifest a protective bubble around yourself, an area, another person, or an item, roll + Mystical. *On a 7-9 choose 1. *On a 10+ choose 2.
-            
-            -   No magic, save your own, can cross the ward.
-                
-            -   Choose a type of creature; they cannot cross the ward.
-                
-            -   All allies within it get +1 armor.
-                
-        -   The bubble lasts until you dismiss it, something disrupts it, or the effect is discharged.
-            
-    -   Unburdened
-        
-        -   You are capable of traversing incredible distances with a single jump and always land safely. Anything you can step on will also be able to hold your weight no matter how small or flimsy it is.
-            
-    -   What Could Go Wrong?
-        
-        -   Whenever you Wield the Mystical, right before you roll, you can ask the GM what you would be risking if you scored a miss. If you dislike the risk, you can stop at the last second, and let the spell fizzle harmlessly. Any effort or preparation spent on the roll is wasted.
-            
--   Love
-    
-    -   Kindle
-        
-        -   When you speak firmly and passionately to an NPC, choose one of the following and roll +Emotional. *On a hit, the desired effect comes to pass. *On a 7-9, the effect is only fleeting. *On a 10+, the effect may spread like wildfire.
-            
-            -   You instill in them a new idea, which they take to with fervor.
-                
-            -   You bolster their resolve, removing all uncertainty and doubt.
-                
-            -   You belittle them, forcing them to back down—for now
-                
-    -   Friendship Speech
-        
-        -   When you inspire the team with a speech on what is the right thing to do, roll +Emotional. *On a hit, if they do what you said, add 1 team to the pool. *On a 7-9 you must through deed prove that it is the right thing to do. *On a 10+ your words are enough.
-            
-    -   Universal Language
-        
-        -   Anything that is capable of having feelings and that is not overly hostile toward you, you can speak with and understand
-            
-    -   Wings of Love
-        
-        -   You can go instantly to anywhere you’ve visited before, or to a person that is close to you. When you carry one or two people with you, roll +Mystical. *On a 10+ you all go where you wanted. *On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
-            
--   Sadness
-    
-    -   Badness Begone
-        
-        -   You may banish an evil creature from your presence. Roll +Persona. *On a 10+ it is banished. *On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. *On a miss, something is keeping it here. That’s bad.
-            
-    -   Empathy
-        
-        -   You can always ask “what is their strongest emotion?” when using Seek Answers, even on a 6 or less. You can also use this on objects, picking up on emotional imprints.
-            
-    -   Knowledge and Failure
-        
-        -   When you roll a 6- on a move and mark XP, you can ask the GM one question from the Seek Answers list that could relate to the move you just failed.
-            
-    -   Wounds of the Past
-        
-        -   When you gentle touch a creature with a soul and emotions, roll +Emotional. *On a 10+, ask 2. *On a 7-9, ask 1.
-            
-            -   What burdens their conscience?
-                
-            -   What would make them feel uplifted or alive?
-                
-            -   What do they hope for in the future?
-                
-        -   You roll +1 forward to act on the answers.
-            
--   Trust
-    
-    -   Negotiator
-        
-        -   When you approach an enemy to negotiate in good faith, they will be compelled to at least hear you out. This will last until you’ve had your say, though they must be able to understand you. Mindless or unintelligent enemies won’t be affected. Additionally, when you speak the truth with conviction and candor, none can doubt you. They might deny what you say, but in their hearts they recognize the truth.
-            
-    -   Pure Honesty
-        
-        -   When your honesty flows from you, you can ask a subject a question from the list below. They will feel compelled to answer you truthfully, and then they may ask you a question from the list as well, which you must also answer truthfully.
-            
-            -   What are you really feeling right now?
-                
-            -   What are you trying to hide?
-                
-            -   What do you want from me?
-                
-            -   How could I get you to ________?
-                
-            -   Whom do you serve?
-                
-    -   Trust Fall
-        
-        -   When falling, you can perfectly control the speed of the fall. You can extend this effect to any nearby subjects, but you may have to Thwart Peril if you want to try to keep them safe from things.
-            
-    -   Prepared to Defend
-        
-        -   People around you can trust in you to protect them and help them out no matter what dangers you may be facing. When you Help Out with a Clash and would suffer stress because of it, or when you try to Protect Someone, you will suffer 1-stress less.
-            
+#### Temporal Detective
+When you touch a subject and Seek Answers about it, you can pierce the fogs of time, gaining answers from the past.
 
-Expanded GM Moves
+#### Truth and Consequences
+When you examine the strands of possible futures, describe an event that it yet to occur and roll +Mental. \*On a 10+, name three people, groups, or social institutions. \*On a 7-9, only two. \*On a miss, name one anyway, in addition to whatever else the GM tells you.
+For each subject you name, the GM will tell you what sort of consequences this future event will have for them. You may only examine each event once.
 
-Villain Moves
+### Water
+#### Control Water
+You can control and manipulate water, adding the option “manipulate water” to Wield the Mystical. If you wield it with careful calculation and precise movement, you may roll +Mental instead of mystical.
+
+#### Aqua location
+When you are surrounded by water (in a lake, ocean, mist, rain, etc.), you can sense everything as easily and as far as if you could see. You can also effectively fly when in water and breathe freely.
+
+#### One with the Flow
+When you try to contact the Source for guidance or help, roll +Mystical. \*On a 10+, hold 3. \*On a 7-9, hold 2. \*On a 6-, hold 1, but the Source will reveal an incoming great danger. Spend your hold 1 for 1 to:
+- Receive a useful piece of magical equipment that will allow you to use any other move once (choose the ability when you spend the hold).
+- Ask the GM a question about the current situation.
+- Clear a condition through the comfort of contact with the Source
+
+#### Riding the Wave
+After you use Wield the Mystical, take +1 forward on the next roll you make.
+
+## Emotional Themes
+### Anger
+#### Rage Fueled Assault
+When a foe deals damage to you, you inflict +1 stress ongoing as long as you attack them. You lose this if you perform a move other than Clash, or Clash with someone else.
+
+#### Furious Roar
+When you let loose your rage as a roar in the midst of battle, roll +Emotional. \*On a 10+, choose two. \*On a 7-9, choose one.
+- Your allies shake off any fear and gain +1 stress
+- Choose an enemy, they are distracted, shaken, or lose focus
+- Choose a worthy opponent, they will treat you as the greatest threat
+- Your enemies are stricken with fear, and may rout if pressed
+
+#### Intense
+When someone gets in your way or displeases you, you may roll +Persona instead of Emotional for Convince Someone.
+
+#### Let Loose!
+Whenever you charge into a fight without hedging your bets, you take +1 ongoing to Clash as long as you fight with abandon and no plan.
+
+### Desire
+#### Heart Reader
+When you gaze upon something with a soul and focus on their heart, roll +Emotional. \*On a 10+, ask 2. \*On a 7-9, ask 1.
+- What fuels the flames of their desire?
+- What would make them feel welcomed or accepted?
+- What do they desire from the future?
+- You roll with +1 forward to act on the answers.
+
+#### Mystical Glamour
+Roll +Mystical instead of +Emotional when you Convince Someone that are are susceptible to magic.
+
+#### Mesmeric
+When you lock eyes with someone and force your will upon them, roll +Persona. \*On a 10+, take 2 Control over them. \*On a 7-9, take 1 Control over them. They can spend your Control, 1-for1-, by:
+- Giving you something they think you want
+- Doing something you tell them to do
+- Fighting to protect you
+- If they’re an NPC, they can’t act out against you until your Control is spent.
+
+#### Sense Bad Vibes
+When sensing for emotions that could prove dangerous, roll +Emotional instead of Persona for Watch for Danger.
+
+### Disgust
+#### That’s So Gross
+When you Thwart peril against something disgusting or nasty, you gain +1 forward. You can also with a glances see if something is dangerous to come into contact with.
+
+#### Cleanser
+When you try to stop a mystical ongoing effect or one being cast, roll +Mystical. \*On a hit, the effect is successfully halted or disrupted. \*On a 7-9, choose one:
+- The unraveled magic causes some undesirable collateral damage.
+- The disrupted magic causes unwanted side effects.
+- A weaker version gets through or lingers.
+- It is only temporarily suppressed.
+
+#### Smite
+When you strike a thing of supernatural evil, you add these to the 10+ effect on Clash:
+- Ignore the thing’s armor or a special defenses
+- Suppress one of its unnatural powers
+- Force it from its host
+
+#### Safe Space
+When you Wield the Mystical to bar a place or trap someone, the effect may span a large area or a very big object.
+
+### Fear
+#### Flight Instinct
+When you need to escape from something or somewhere, roll +Persona. \*On a 10+ you’re out of danger, no problem. \*On a 7-9 you can go or stay, but if you go it’s going to cost you (you leave something behind or something comes with you).
+
+#### No Fear of Magic
+You never need to Thwart Peril when supernatural forces alter the environment around you, and you always have 2-armor against magical attacks.
+  
+#### Caught in the Headlights
+When you enter the scene, roll +Emotional. \*On a 10+, hold 2. \*On a 7-9, hold 1. Spend your hold, 1-for-1, to make eye contact with an NPC present who freezes or flinches and can’t act until you break off your gaze.
+
+#### Healthy Distrust\
+When you receive someone’s honest advice on the best course of action for you and then do something else instead, mark experience. If you do exactly the opposite of their advice, you also take +1 ongoing on any moves you make pursuing that course.
+
+### Hope
+#### Brighter Tomorrow
+You always have 2-armor against stress from mental and emotional sources. When you spend time assuring others that the future is bright while they Reconnect & Recover with you, they may pick an additional option.
+
+#### It will be OK
+When someone in your presence (including you) is In a Pinch, they ad your Persona (minimum 1) to their roll
+
+#### The Calm of the Storm
+When you exert your inner calm in a circle around yourself, roll +Emotional. \*On a 10+, the world calms around you’ll the earth below your feet stops breaking apart, nearby flames peter out, and storms break around you. \*On a 7-9, this calmness affects only you and physical things you can touch, and only as long as you are touching them.
+
+#### There for Them
+When you swear that you will save someone or defeat a terrible enemy, mark a condition and take +1 ongoing to all rolls that would be in direct pursuit of that goal. At the end of any scene in which you don’t make progress towards that goal, mark another condition. Mark XP when you achieve your goal.
+
+### Joy
+#### Positive Reinforcement
+When you tell others of a joyous moment you have experienced in your life, any other hero who hears it gets 2 hold that they can spend on a 1-for-1 basis to gain +1 forward on Thwart Peril to carry onward, Forge a Bond or Reconnect and Recover.
+
+#### Happy Place
+When you manifest a protective bubble around yourself, an area, another person, or an item, roll + Mystical. \*On a 7-9 choose 1. \*On a 10+ choose 2.
+- No magic, save your own, can cross the ward.
+- Choose a type of creature; they cannot cross the ward.
+- All allies within it get +1 armor.
+- The bubble lasts until you dismiss it, something disrupts it, or the effect is discharged.
+
+#### Unburdened
+You are capable of traversing incredible distances with a single jump and always land safely. Anything you can step on will also be able to hold your weight no matter how small or flimsy it is.
+
+#### What Could Go Wrong?
+Whenever you Wield the Mystical, right before you roll, you can ask the GM what you would be risking if you scored a miss. If you dislike the risk, you can stop at the last second, and let the spell fizzle harmlessly. Any effort or preparation spent on the roll is wasted.
+
+### Love
+#### Kindle
+When you speak firmly and passionately to an NPC, choose one of the following and roll +Emotional. \*On a hit, the desired effect comes to pass. \*On a 7-9, the effect is only fleeting. \*On a 10+, the effect may spread like wildfire.
+- You instill in them a new idea, which they take to with fervor.
+- You bolster their resolve, removing all uncertainty and doubt.
+- You belittle them, forcing them to back down—for now
+
+#### Friendship Speech
+When you inspire the team with a speech on what is the right thing to do, roll +Emotional. \*On a hit, if they do what you said, add 1 team to the pool. \*On a 7-9 you must through deed prove that it is the right thing to do. \*On a 10+ your words are enough.
+
+#### Universal Language
+Anything that is capable of having feelings and that is not overly hostile toward you, you can speak with and understand
+
+#### Wings of Love
+You can go instantly to anywhere you’ve visited before, or to a person that is close to you. When you carry one or two people with you, roll +Mystical. \*On a 10+ you all go where you wanted. \*On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.
+
+### Sadness
+#### Badness Begone
+You may banish an evil creature from your presence. Roll +Persona. \*On a 10+ it is banished. \*On a 7-9 it takes a little while for the banishing to take effect—the creature has time to make one or two actions. Either way, the banished creature is unharmed, and you have no control over where it goes. \*On a miss, something is keeping it here. That’s bad.
+
+#### Empathy
+You can always ask “what is their strongest emotion?” when using Seek Answers, even on a 6 or less. You can also use this on objects, picking up on emotional imprints.
+
+#### Knowledge and Failure
+When you roll a 6- on a move and mark XP, you can ask the GM one question from the Seek Answers list that could relate to the move you just failed.
+
+#### Wounds of the Past
+When you gently touch a creature with a soul and emotions, roll +Emotional. \*On a 10+, ask 2. \*On a 7-9, ask 1.
+- What burdens their conscience?
+- What would make them feel uplifted or alive?
+- What do they hope for in the future?
+- You roll +1 forward to act on the answers.
+
+### Trust
+#### Negotiator
+When you approach an enemy to negotiate in good faith, they will be compelled to at least hear you out. This will last until you’ve had your say, though they must be able to understand you. Mindless or unintelligent enemies won’t be affected. Additionally, when you speak the truth with conviction and candor, none can doubt you. They might deny what you say, but in their hearts they recognize the truth.
+
+#### Pure Honesty
+When your honesty flows from you, you can ask a subject a question from the list below. They will feel compelled to answer you truthfully, and then they may ask you a question from the list as well, which you must also answer truthfully.
+- What are you really feeling right now?
+- What are you trying to hide?
+- What do you want from me?
+- How could I get you to \_\_\_\_\_\_\_\_?
+- Whom do you serve?
+
+#### Trust Fall
+When falling, you can perfectly control the speed of the fall. You can extend this effect to any nearby subjects, but you may have to Thwart Peril if you want to try to keep them safe from things.
+
+#### Prepared to Defend
+People around you can trust in you to protect them and help them out no matter what dangers you may be facing. When you Help Out with a Clash and would suffer stress because of it, or when you try to Protect Someone, you will suffer 1-stress less.
+ 
+
+# Expanded GM Moves
+
+## Villain Moves
 
 -   Hint at its presence
     
@@ -489,7 +392,7 @@ Villain Moves
 -   Use a mystical power
     
 
-Minion Moves
+## Minion Moves
 
 -   A burst of sudden, uncontrolled violence
     
@@ -514,7 +417,7 @@ Minion Moves
 -   Disobey the master, in some petty way
     
 
-Bystander Moves
+## Bystander Moves
 
 -   Go off alone
     
@@ -537,7 +440,7 @@ Bystander Moves
 -   Seek help or comfort
     
 
-Location Moves
+## Location Moves
 
 -   Present a hazard
     
@@ -562,7 +465,7 @@ Location Moves
 -   Create a particular feeling
     
 
-Stress Moves
+## Stress Moves
 
 -   0-stress or more:
     
@@ -583,7 +486,7 @@ Stress Moves
     -   Pass out for a moment
         
 
-Preparing the story
+# Preparing the story
 
 -   A basic concept for a story
     
@@ -596,7 +499,7 @@ Preparing the story
 -   The event countdown
     
 
-Villains
+# Villains
 
 Magical heroes will face off against all manner of dangerous foes. They can be complex masterminds or brutal monsters. Think how each episode of a show where a strange opponent shows up to ruin the day. These episodes can then be woven into an ongoing arc, revealing an even greater villain that has been pulling the strings all along.
 
@@ -687,7 +590,7 @@ Consider the villain’s theme and nature when coming up with a defense. But als
 
 The next step is determining the villain’s goal. The idea is to not define the goal too much. This will make it easier for you to make changes as the game progresses and improvise when needed.
 
-If you don’t already have an idea fo the goal, you can seek inspiration in its type. This will generally give an idea of how and what it will be working toward and give a good feel of HOW it will go about it, even though it might not be too detailed.
+If you don’t already have an idea of the goal, you can seek inspiration in its type. This will generally give an idea of how and what it will be working toward and give a good feel of HOW it will go about it, even though it might not be too detailed.
 
 If you are still coming up with a blank, you may get some inspiration when setting up the premise with the players. Otherwise, you can during the Premise Setup, simply ask the players a loaded question to get a feel for what they think could be an interesting scheme to thwart: dastardly kidnappings, evil mind control, rampaging menace, infectious evil.
 
