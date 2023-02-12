@@ -499,7 +499,7 @@ People around you can trust in you to protect them and help them out no matter w
 -   The event countdown
     
 
-# Villains
+## Villains
 
 Magical heroes will face off against all manner of dangerous foes. They can be complex masterminds or brutal monsters. Think how each episode of a show where a strange opponent shows up to ruin the day. These episodes can then be woven into an ongoing arc, revealing an even greater villain that has been pulling the strings all along.
 
@@ -594,7 +594,7 @@ If you don’t already have an idea of the goal, you can seek inspiration in its
 
 If you are still coming up with a blank, you may get some inspiration when setting up the premise with the players. Otherwise, you can during the Premise Setup, simply ask the players a loaded question to get a feel for what they think could be an interesting scheme to thwart: dastardly kidnappings, evil mind control, rampaging menace, infectious evil.
 
-Minions
+## Minions
 
 Some villains will have minions to do their bidding. They can be weaker versions of the villain, allies, or the villain’s servants. But ultimately, their actions will somehow further the villain’s dastardly plan.
 
@@ -660,7 +660,7 @@ There are ten minion types:
 
 Most minions will have some sort of supernatural power, but it is not a must. Some minions can be everyday folk with no special powers. You can roughly follow the same guidelines as for the mystical villain when creating their powers.
 
-Bystanders
+## Bystanders
 
 Bystanders are the mundane folk in the world. They can be victims, friends, witnesses, nosy school teachers, and anything in between. You should include at least one victim for the heroes to save and push them to action.
 
@@ -714,7 +714,7 @@ There are nine types of bystander:
 
 Consider what the bystander’s role could be within the story. Why they are here, why they could be part of the villain’s plan, and what drives them.
 
-Locations
+## Locations
 
 Locations are places that will most likely cause problems for the magical heroes or offer some opportunities to explore the world and story. They will contain the kinds of things you might see going wrong in many tv-shows. A phone not working, lights going out, confusing layout, etc.
 
@@ -789,7 +789,7 @@ Good locations to start with are:
 -   Places that a bystander will be
     
 
-Event Countdown
+## Event Countdown
 
 Each story has a countdown: a list of event sequences that will happen if the heroes don’t stop the villain. The countdown is there to help guide you on what could happen off-screen.
 
