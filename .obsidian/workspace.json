@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Spell Pieces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Spell Pieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Emotions Notes.md"
+                "file": "Spell Pieces.md"
               }
             }
           },
@@ -192,8 +191,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b64360fac590a373",
+  "active": "6c3e1ab1e62e646f",
   "lastOpenFiles": [
+    "Notes/Emotions Notes.md",
     "Notes/Other Games/Hearts of Harmony.md",
     "Notes/Other Games/Other Games.md",
     "Notes/2022/December.md",
@@ -202,7 +202,6 @@
     "Notes/2022/2022.md",
     "Notes/Other Games/Quest.md",
     "Realms/Primal/Time.md",
-    "Notes/2023/January.md",
-    "Notes/Abilities.md"
+    "Notes/2023/January.md"
   ]
 }
