@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Other Games/Quest.md",
+                "file": "Notes/Other Games/Hearts of Harmony.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Other Games/Quest.md",
+                "file": "Notes/Other Games/Hearts of Harmony.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Other Games/Quest.md",
+                "file": "Notes/Other Games/Hearts of Harmony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Other Games/Quest.md"
+                "file": "Notes/Other Games/Hearts of Harmony.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   "active": "31a27743a2c39818",
   "lastOpenFiles": [
     "Notes/Other Games/Other Games.md",
+    "Notes/Other Games/Hearts of Harmony.md",
     "Notes/Other Games/Quest.md",
     "Realms/Primal/Time.md",
     "Notes/2023/January.md",
@@ -182,7 +183,6 @@
     "Spell Pieces.md",
     "New Spell Pieces.md",
     "Realms/Emotional/Emotional.md",
-    "Realms/Primal/Spirits.md",
-    "Realms/Primal/Shadow.md"
+    "Realms/Primal/Spirits.md"
   ]
 }
