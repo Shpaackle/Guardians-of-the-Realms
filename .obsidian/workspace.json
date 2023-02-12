@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Spell Pieces.md",
+                "file": "Spell Pieces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31a27743a2c39818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Other Games/Quest.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Spell Pieces.md",
+                "file": "Notes/Other Games/Quest.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Spell Pieces.md",
+                "file": "Notes/Other Games/Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,12 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Spell Pieces.md"
+                "file": "Notes/Other Games/Quest.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,17 +172,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c3e1ab1e62e646f",
+  "active": "31a27743a2c39818",
   "lastOpenFiles": [
-    "Notes/2023/January.md",
-    "Realms/Emotional/Emotional.md",
-    "Spell Pieces.md",
+    "Notes/Other Games/Other Games.md",
+    "Notes/Other Games/Quest.md",
     "Realms/Primal/Time.md",
+    "Notes/2023/January.md",
+    "Notes/Abilities.md",
+    "Spell Pieces.md",
+    "New Spell Pieces.md",
+    "Realms/Emotional/Emotional.md",
     "Realms/Primal/Spirits.md",
-    "Realms/Primal/Shadow.md",
-    "Realms/Primal/Order.md",
-    "Realms/Primal/Radiance.md",
-    "Realms/Primal/Nightmares.md",
-    "Realms/Primal/Chaos.md"
+    "Realms/Primal/Shadow.md"
   ]
 }
