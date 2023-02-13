@@ -257,7 +257,7 @@
 ## Emotional Table
 | Mild emotion             | Mild opposite           | Basic emotion     | Basic opposite           | Intense emotion         | Intense opposite    |
 | ------------------------ | ----------------------- | ----------------- | ------------------------ | ----------------------- | ------------------- |
-| Serenity                 | Pensiveness, Gloominess | Joy, Cheerfulness | Sadness, Dejection       | Ecstasy, Elation        | Grief, Sorrow       |
+| [Serenity]()                 | Pensiveness, Gloominess | Joy, Cheerfulness | Sadness, Dejection       | Ecstasy, Elation        | Grief, Sorrow       |
 | Acceptance, Tolerance    | Boredom, Dislike        | Trust             | Disgust, Aversion        | Admiration, Adoration   | Loathing, Revulsion |
 | Apprehension, Dismay     | Annoyance, Irritation   | Fear, Fright      | Anger, Hostility         | Terror, Panic           | Rage, Fury          |
 | Distraction, Uncertainty | Interest, Attentiveness | Surprise          | Anticipation, Expectancy | Amazement, Astonishment | Vigilance                    |
@@ -272,4 +272,7 @@
 | Delight, Doom               | Joy + Surprise       | Pessimism                   | Sadness + Anticipation |
 | Submission, Modesty         | Trust + Fear         | Contempt, Scorn             | Disgust + Anger        |
 | Curiosity                   | Trust + Surprise     | Cynicism                    | Disgust + Anticipation |
-| Sentimentality, Resignation | Trust + Sadness      |                             |                        |
+| Sentimentality, Resignation | Trust + Sadness      | Morbidness, Derisiveness    | Disgust + Joy          |
+| Awe, Alarm                  | Fear + Surprise      | Aggressiveness, Vengeance   | Anger + Anticipation   |
+| Despari                     | Fear + Sadness       | Pride, Victory              | Anger + Joy            |
+| Shame, Prudishness          | Fear + Disgust       | Dominance                   | Anger + Trust          | 

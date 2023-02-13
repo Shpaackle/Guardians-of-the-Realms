@@ -1,22 +1,36 @@
 # 9
-- [[Anticipation]]
+- [9](Anticipation)
+	- Anticipation
 ***
 # 10
-- [[Anticipation]]
-- [[Joy]]
-- [[Sadness]]
-- [[Anger]]
-- [[Nightmares]]
-- [[Radiance]]
+- [10](Anticipation)
+	- Anticipation
+- [10](Joy)
+	- Joy
+- [10](Sadness)
+	- Sadness
+- [10](Anger)
+	- Anger
+- [10](Nightmares) 
+	- Nightmares
+- [10](Radiance)
+	- Radiance
 ***
 # 11
 - [[Anticipation]]
-- [[Joy]]
+	- Anticipation
+- [11](Joy)
+	- Joy
 - [[Sadness]]
+	- Sadness
 - [[Anger]]
+	- Anger
 - [[Abomination]]
+	- Abomination
 - [[Nightmares]]
+	- Nightmares
 - [[Radiance]]
+	- Radiance
 ***
 # A
 
@@ -26,7 +40,8 @@
 - Absurd 
 - Abundant
 - Acceptance 
-	- [[Trust]]
+	- [Acceptance](Trust) 
+		- Trust
 - Acid 
 	- [[Extractor]]
 	- [[Miasma]]
@@ -1242,6 +1257,7 @@
 - Spoken
 - Spore
 - Spreading
+	- [[Joy]]
 - Stagnant
 - Stars
 - Steaming 
