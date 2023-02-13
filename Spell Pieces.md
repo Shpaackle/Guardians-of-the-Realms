@@ -238,6 +238,8 @@
 	- [Mechanist](Guardians/Mechanist#Spell%20Pieces)
 - Cold
 - Comfort
+- Command
+- Commanding
 - Commerce
 - Community
 - Compassion

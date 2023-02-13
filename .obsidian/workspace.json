@@ -32,30 +32,19 @@
             }
           },
           {
-            "id": "b64360fac590a373",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Emotions Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0dd760e212b864f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Primal/Time.md",
+                "file": "Spell Pieces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Spell Pieces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Spell Pieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Emotions Notes.md"
+                "file": "Spell Pieces.md"
               }
             }
           },
@@ -174,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,17 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c3e1ab1e62e646f",
+  "active": "379a44caee229000",
   "lastOpenFiles": [
+    "Realms/Primal/Time.md",
+    "Notes/Other Games/Hearts of Harmony.md",
+    "Notes/Emotions Notes.md",
     "Notes/2023/January.md",
     "New Spell Pieces.md",
     "Spell Pieces.md",
-    "Notes/Emotions Notes.md",
-    "Notes/Other Games/Hearts of Harmony.md",
     "Notes/Other Games/Other Games.md",
     "Notes/2022/December.md",
     "Guardians/Mechanist.md",
-    "Notes/2022/August.md",
-    "Notes/2022/2022.md"
+    "Notes/2022/August.md"
   ]
 }
