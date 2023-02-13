@@ -288,41 +288,50 @@ You twirl your finger as if you are unwinding a spool of yarn. Starting with a s
 ***roll the die***
 #### Cost: 0 
 You must be holding a pointed object like a wand, staff, or sword to use this spell. You use it to shoot a shimmering missile of force in a straight line at a target you can see, dealing 2 damage.
-####2 
+#### Cost: 2 
 You overload the missile, increasing its damage to 4 and hitting the target automatically. You do not need to roll the die if you overload the spell.
 kindle
-0 You rub your hands together, causing a flammable object you can see nearby to ignite in flame. The spell can ignite textiles, wood, paper, and other combustible material.
+#### Cost: 0 
+You rub your hands together, causing a flammable object you can see nearby to ignite in flame. The spell can ignite textiles, wood, paper, and other combustible material.
 This spell cannot be used directly on creatures, but it can be used to ignite flammable things they are wearing or carrying. Igniting something on a creature deals 1 damage to them.
 
-familiar
-2 You summon a tiny spectral creature, like a bird, a lizard, a butterfly, or anything else of a comparable size. The familiar is the avatar of a random spirit creature from your world. It becomes your ally and will follow your instructions. The Guide chooses the creature's background and personality, and speaks for them. The familiar
+### familiar
+#### Cost: 2 
+You summon a tiny spectral creature, like a bird, a lizard, a butterfly, or anything else of a comparable size. The familiar is the avatar of a random spirit creature from your world. It becomes your ally and will follow your instructions. The Guide chooses the creature's background and personality, and speaks for them. The familiar
 may choose to leave you if they are mistreated.
 The familiar cannot move out of your sight. It can pick up and move objects no larger than a coin purse and no heavier than 10 pounds. It can't attack.
 Your familiar has 4 HP. It is invulnerable to non-magical harm. If it is reduced to 0 HP, it vanishes, and your bond is broken. You may only have one familiar at a time.
 
-blink
-1 You teleport to a location of your choice nearby. You vanish, leaving behind a gentle gust of wind and then instantaneously reappear nearby.
-gate
-1 bind. You bind yourself to the room you are currently in. It must belong to you or a member of the party. This is your Circle. You may only bind yourself to one at a time.
-3 gate. Snap your fingers. Any willing party members nearby are instantly teleported to your Circle.
-planeshifting
-blink — gate — portal — dark door — teleport
-portal
-3 You conjure a portal of any shape and orientation that is no larger than a door. It appears at a location of your choice nearby. The portal looks like
+### blink
+#### Cost: 1 
+You teleport to a location of your choice nearby. You vanish, leaving behind a gentle gust of wind and then instantaneously reappear nearby.
+
+### gate
+#### Cost: 1 bind. 
+You bind yourself to the room you are currently in. It must belong to you or a member of the party. This is your Circle. You may only bind yourself to one at a time.
+#### Cost: 3 gate. 
+Snap your fingers. Any willing party members nearby are instantly teleported to your Circle.
+
+### portal
+#### Cost: 3 
+You conjure a portal of any shape and orientation that is no larger than a door. It appears at a location of your choice nearby. The portal looks like
 a window to whatever is on the other side, and its edges crackle and spark with energy. When you cast the spell again, the new portal automatically connects to the previous one. The portals remain open until you choose to close them. Anyone that can fit may pass through them.
 dark door
-2 You knock on a door, making
+#### Cost: 2 
+You knock on a door, making
 it a temporary portal to a specific shadow plane. You must be aware of the shadow plane's existence to create a door to it. (For example, if you see
 a creature with a Cosmic Purse, you can open a door to the purse's shadow plane.) When you open the door, you can see inside the plane, and you and your allies may enter it. If the door is closed, the portal vanishes. (If the door closes behind you, you become trapped in the shadow plane and must escape with other means, like with Gate.)
-teleport
-roll the die
+
+### teleport
+***roll the die***
 Snap your fingers.
-5 You and any willing creatures nearby vanish instantly, leaving behind a small shockwave of air in your wake, and are teleported to any place you choose.
+#### Cost: 5 
+You and any willing creatures nearby vanish instantly, leaving behind a small shockwave of air in your wake, and are teleported to any place you choose.
 20: Everyone arrives safely. You recover the spell's full AP cost.
 11-19: You all arrive safely. Good for you.
-6-10: You all arrive. Choose one: you take 7 damage from turbulence, or a magic item you are carrying is destroyed.
-2-5: The party arrives safely, but nobody else does. You don't know where they went. You lose an item you are carrying.
-1: The spell fails. Party members are lacerated by an arcane explosion
+**6-10:** You all arrive. Choose one: you take 7 damage from turbulence, or a magic item you are carrying is destroyed.
+**2-5:** The party arrives safely, but nobody else does. You don't know where they went. You lose an item you are carrying.
+**1:** The spell fails. Party members are lacerated by an arcane explosion
 and are each hit for 5 HP. All other travelers are torn apart in a gruesome spectacle. (They die.)
 
 no
