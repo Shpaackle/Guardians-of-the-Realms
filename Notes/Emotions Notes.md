@@ -255,12 +255,14 @@
 - Zest
 
 ## Emotional Table
-| Mild emotion             | Mild opposite           | Basic emotion     | Basic opposite           | Intense emotion         | Intense opposite    |
-| ------------------------ | ----------------------- | ----------------- | ------------------------ | ----------------------- | ------------------- |
-| [Serenity]()                 | Pensiveness, Gloominess | Joy, Cheerfulness | Sadness, Dejection       | Ecstasy, Elation        | Grief, Sorrow       |
-| Acceptance, Tolerance    | Boredom, Dislike        | Trust             | Disgust, Aversion        | Admiration, Adoration   | Loathing, Revulsion |
-| Apprehension, Dismay     | Annoyance, Irritation   | Fear, Fright      | Anger, Hostility         | Terror, Panic           | Rage, Fury          |
-| Distraction, Uncertainty | Interest, Attentiveness | Surprise          | Anticipation, Expectancy | Amazement, Astonishment | Vigilance                    |
+| Mild emotion                         | Mild opposite                           | Basic emotion            | Basic opposite                           | Intense emotion                     | Intense opposite               |
+| ------------------------------------ | --------------------------------------- | ------------------------ | ---------------------------------------- | ----------------------------------- | ------------------------------ |
+| [Serenity](Joy)                      | [Pensiveness, Gloominess](Sadness)      | [Joy, Cheerfulness](Joy) | [Sadness, Dejection](Sadness)            | [Ecstasy, Elation](Joy)             | [Grief, Sorrow](Sadness)       |
+| [Acceptance, Tolerance](Trust)       | [Boredom, Dislike](Disgust)             | [Trust](Trust)           | [Disgust, Aversion](Disgust)             | [Admiration, Adoration](Trust)      | [Loathing, Revulsion](Disgust) |
+| [Apprehension, Dismay](Fear)         | [Annoyance, Irritation](Anger)          | [Fear, Fright](Fear)     | [Anger, Hostility](Anger)                | [Terror, Panic](Fear)               | [Rage, Fury](Anger)            |
+| [Distraction, Uncertainty](Surprise) | [Interest, Attentiveness](Anticipation) | [Surprise](Surprise)     | [Anticipation, Expectancy](Anticipation) | [Amazement, Astonishment](Surprise) | [Vigilance](Anticipation)                      |
+
+
 # Dyads (Combination)
 | Human feelings              | Emotions             | Opposite feelings           | Emotions               |
 | --------------------------- | -------------------- | --------------------------- | ---------------------- |

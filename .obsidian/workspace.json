@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Realms/Emotional/Anger.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Realms/Emotional/Anger.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Emotions Notes.md",
+                "file": "Realms/Emotional/Anger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Emotions Notes.md"
+                "file": "Realms/Emotional/Anger.md"
               }
             }
           },
@@ -192,11 +192,11 @@
   },
   "active": "6c3e1ab1e62e646f",
   "lastOpenFiles": [
+    "Notes/Emotions Notes.md",
     "Spell Pieces.md",
     "Realms/Emotional/Joy.md",
     "Realms/Primal/Time.md",
     "Notes/Other Games/Hearts of Harmony.md",
-    "Notes/Emotions Notes.md",
     "Notes/2023/January.md",
     "New Spell Pieces.md",
     "Notes/Other Games/Other Games.md",
