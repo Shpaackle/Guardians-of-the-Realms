@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Other Games/Hearts of Harmony.md",
+                "file": "Notes/Other Games/Quest.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0cbcf92dec5c09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Emotional/Joy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Emotional/Anger.md",
+                "file": "Notes/Other Games/Quest.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Emotional/Anger.md",
+                "file": "Notes/Other Games/Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Emotional/Anger.md"
+                "file": "Notes/Other Games/Quest.md"
               }
             }
           },
@@ -173,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,17 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c3e1ab1e62e646f",
+  "active": "31a27743a2c39818",
   "lastOpenFiles": [
+    "Notes/Other Games/Other Games.md",
+    "Notes/Other Games/Hearts of Harmony.md",
+    "Realms/Emotional/Anger.md",
     "Notes/Emotions Notes.md",
     "Spell Pieces.md",
     "Realms/Emotional/Joy.md",
     "Realms/Primal/Time.md",
-    "Notes/Other Games/Hearts of Harmony.md",
     "Notes/2023/January.md",
     "New Spell Pieces.md",
-    "Notes/Other Games/Other Games.md",
-    "Notes/2022/December.md",
-    "Guardians/Mechanist.md"
+    "Notes/2022/December.md"
   ]
 }
