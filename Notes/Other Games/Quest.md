@@ -327,62 +327,75 @@ a creature with a Cosmic Purse, you can open a door to the purse's shadow plane.
 Snap your fingers.
 #### Cost: 5 
 You and any willing creatures nearby vanish instantly, leaving behind a small shockwave of air in your wake, and are teleported to any place you choose.
-20: Everyone arrives safely. You recover the spell's full AP cost.
-11-19: You all arrive safely. Good for you.
+**20:** Everyone arrives safely. You recover the spell's full AP cost.
+**11-19:** You all arrive safely. Good for you.
 **6-10:** You all arrive. Choose one: you take 7 damage from turbulence, or a magic item you are carrying is destroyed.
 **2-5:** The party arrives safely, but nobody else does. You don't know where they went. You lose an item you are carrying.
 **1:** The spell fails. Party members are lacerated by an arcane explosion
 and are each hit for 5 HP. All other travelers are torn apart in a gruesome spectacle. (They die.)
 
-no
-roll the die
-2 By uttering the word "no," you attempt to neutralize a spell that you see an NPC casting nearby. You must declare you are using this ability before the Guide describes the consequences of the spell.
-20: The spell is violently canceled and its caster is hit for 1 HP.
-11-19: The spell is stopped before it's cast.
-6-10: The spell misses and hits another nearby creature or target.
-2-5: The spell takes effect normally.
-1: You accidentally amplify the spell. If it is a harmful spell, the damage is doubled.
+### no
+***roll the die***
+#### Cost: 2 
+By uttering the word "no," you attempt to neutralize a spell that you see an NPC casting nearby. You must declare you are using this ability before the Guide describes the consequences of the spell.
+**20:** The spell is violently canceled and its caster is hit for 1 HP.
+**11-19:** The spell is stopped before it's cast.
+**6-10:** The spell misses and hits another nearby creature or target.
+**2-5:** The spell takes effect normally.
+**1:** You accidentally amplify the spell. If it is a harmful spell, the damage is doubled.
 
-reflect
-roll the die
-
+### reflect
+***roll the die***
 You produce a counterspell, reflecting a spell that targets you. You must declare that you are reflecting the spell as soon as the Guide says that you are being targeted by a spell.
+**11-20:** The caster is hit by their own spell, instead of you.
+**6-10:** The spell reflects off of you but misses its caster.
+**1-5:** The spell reflects off of you but hits a nearby party member instead.
 
-11-20: The caster is hit by their own spell, instead of you.
-6-10: The spell reflects off of you but misses its caster.
-1-5: The spell reflects off of you but hits a nearby party member instead.
-enscroll
-2 You create a Spell Scroll (p. 145) that can be used to produce a spell that you know. You must add the AP cost of the spell you are inscribing to the cost of Enscroll. For example, if you create
+### enscroll
+#### Cost: 2 
+You create a Spell Scroll (p. 145) that can be used to produce a spell that you know. You must add the AP cost of the spell you are inscribing to the cost of Enscroll. For example, if you create
 a magic scroll that can produce your Teleport spell, you must spend 7 AP.
 You must spend a short time in a safe and quiet place to prepare the scroll. You decide what is written on it. The user of the scroll must read the words aloud to activate the spell it contains.
-spellsteal
-3 After you observe a creature nearby casting a spell, you may briefly enter their mind to glimpse its nature. You learn the spell and can produce it once.
+
+### spellsteal
+#### Cost: 3
+After you observe a creature nearby casting a spell, you may briefly enter their mind to glimpse its nature. You learn the spell and can produce it once.
 Your theft gives you the minimum know-how to produce the spell, but you have not mastered it. The Guide may not fully reveal the effects or potential consequences of some stolen spells.
 Once you cast or Enscroll the stolen spell, you forget the spell and cannot use it again.
 
-sense magic
-0 You get a gentle tingling feeling
+### sense magic
+#### Cost: 0
+You get a gentle tingling feeling
 in your bones whenever you are near a powerful source of magic. You're aware that magic is in the area, but not its location or nature.
-1 You discern the location of nearby magic and its general nature. For instance, the Guide may reveal that you sense a magic sword, a cursed door, or an illusion.
-2 You study the precise nature of nearby magic, learning its specific effects. If you use this ability to study a mysterious magic item, its name and effects are revealed.
+#### Cost: 1 
+You discern the location of nearby magic and its general nature. For instance, the Guide may reveal that you sense a magic sword, a cursed door, or an illusion.
+#### Cost: 2 
+You study the precise nature of nearby magic, learning its specific effects. If you use this ability to study a mysterious magic item, its name and effects are revealed.
 
-scry
-1 Once per game session, you may flash forward in time to glimpse your actions in the near future. For the next hour, you can avert failure by redoing a roll of the die. You must take the result of the new roll.
+### scry
+#### Cost: 1
+Once per game session, you may flash forward in time to glimpse your actions in the near future. For the next hour, you can avert failure by redoing a roll of the die. You must take the result of the new roll.
 Or you may ask the Guide to reveal a situation you are likely to encounter based on the current trajectory of your choices. You may ask the Guide questions about what you sense from this glimpse of the future, but the answers may be vague, as if you are trying to find detail in a watercolor painting.
 
-stretch
-2 Choose a nearby creature or object that is no smaller than an ant and no larger than a horse. You cause it to instantly enlarge or shrink. It can grow up to twice its size or shrink up to half of its size. The target's weight increases or decreases proportionally, but its
+### stretch
+#### Cost: 2 
+Choose a nearby creature or object that is no smaller than an ant and no larger than a horse. You cause it to instantly enlarge or shrink. It can grow up to twice its size or shrink up to half of its size. The target's weight increases or decreases proportionally, but its
 hit points do not change. You cannot enlarge something beyond the confines of the space it's in.
-4 You may stretch an object no smaller than an ant and no larger than an elephant.
-undo
+#### Cost: 4 
+You may stretch an object no smaller than an ant and no larger than an elephant.
+
+### undo
 You speak a word of power, reversing the fate of a nearby object. The spell cannot be used to affect living things.
 The thing you are undoing must be the discrete result of another creature's effort. For example, you might undo
 a creature's shoelaces, unthread a garment, cause a piece of furniture
 to fall apart, or revert a sculpture to a block of marble.
 Choose how much effort to undo each time you use this spell:
-1 Up to 1 minute of effort.
-2 Up to 1 day of effort.
-98
-     3 4
-Up to 1 week of effort. Any amount of effort.
+#### Cost: 1 
+Up to 1 minute of effort.
+#### Cost: 2 
+Up to 1 day of effort.
+#### Cost: 3 
+Up to 1 week of effort.
+#### Cost: 4
+Any amount of effort.
 
