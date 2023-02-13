@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Notes/Emotions Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Notes/Emotions Notes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Notes/Emotions Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell Pieces.md"
+                "file": "Notes/Emotions Notes.md"
               }
             }
           },
@@ -193,15 +193,15 @@
   },
   "active": "6c3e1ab1e62e646f",
   "lastOpenFiles": [
+    "Notes/2023/January.md",
+    "New Spell Pieces.md",
+    "Spell Pieces.md",
     "Notes/Emotions Notes.md",
     "Notes/Other Games/Hearts of Harmony.md",
     "Notes/Other Games/Other Games.md",
     "Notes/2022/December.md",
     "Guardians/Mechanist.md",
     "Notes/2022/August.md",
-    "Notes/2022/2022.md",
-    "Notes/Other Games/Quest.md",
-    "Realms/Primal/Time.md",
-    "Notes/2023/January.md"
+    "Notes/2022/2022.md"
   ]
 }
