@@ -52,9 +52,19 @@
                 "currentVersion": "1.1.15"
               }
             }
+          },
+          {
+            "id": "4816d0875523002a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a73031fc9d28fede",
+  "active": "4816d0875523002a",
   "lastOpenFiles": [
     "Notes/Other Games/Quest.md",
     "Spell Pieces.md",
