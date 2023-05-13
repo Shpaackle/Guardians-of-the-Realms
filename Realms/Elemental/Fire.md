@@ -10,3 +10,6 @@
 - *Volcanic*
 - *Ashes*
 - *11*
+- *12*
+
+#Fire #Elemental 

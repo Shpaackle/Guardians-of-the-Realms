@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Elemental/Elemental.md",
+                "file": "Realms/Elemental/Fire.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Elemental/Elemental.md",
+                "file": "Realms/Elemental/Fire.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Elemental/Elemental.md",
+                "file": "Realms/Elemental/Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Elemental/Elemental.md"
+                "file": "Realms/Elemental/Fire.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
-    "Realms/Elemental/Fire.md",
     "Realms/Elemental/Elemental.md",
+    "Realms/Elemental/Fire.md",
     "Notes/2023/January.md",
     "Notes/Other Games/Hearts of Harmony.md",
     "Realms/Emotional/Anger.md",
