@@ -62,9 +62,19 @@
                 "currentVersion": "1.1.16"
               }
             }
+          },
+          {
+            "id": "04c6aceb1fb22caa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,6 +117,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "597852730e21e916",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -200,7 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4816d0875523002a",
+  "active": "04c6aceb1fb22caa",
   "lastOpenFiles": [
     "Notes/Other Games/Quest.md",
     "Spell Pieces.md",
