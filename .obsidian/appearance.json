@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "interfaceFontFamily": "Verdana",
   "textFontFamily": "Rubik,Corbel,Operator Mono",
   "enabledCssSnippets": [
     "custom-admonitions.325610"
-  ]
+  ],
+  "theme": "obsidian"
 }
