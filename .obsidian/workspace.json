@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Other Games/Avatar.md",
+                "file": "Notes/Other Games/Fight Item Run.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Other Games/Avatar.md",
+                "file": "Notes/Other Games/Fight Item Run.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Other Games/Avatar.md",
+                "file": "Notes/Other Games/Fight Item Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Other Games/Avatar.md"
+                "file": "Notes/Other Games/Fight Item Run.md"
               }
             }
           },
@@ -244,6 +244,8 @@
   },
   "active": "33e57823dc9b638c",
   "lastOpenFiles": [
+    "Notes/Other Games/Other Games.md",
+    "Notes/Other Games/Fight Item Run.md",
     "Notes/Other Games/Avatar.md",
     "Realms/Elemental/Elemental.md",
     "Realms/Elemental/Fire.md",
@@ -252,7 +254,6 @@
     "Realms/Emotional/Anger.md",
     "Notes/Other Games/Quest.md",
     "Spell Pieces.md",
-    "Notes/Other Games/Other Games.md",
     "Notes/Emotions Notes.md",
     "Realms/Emotional/Joy.md",
     "Realms/Primal/Time.md",
