@@ -1,0 +1,19 @@
+- Use something like "Affinities" from *Fight, Item, Run* or "Team Moves" from *MASKS*. Reveal a deep secret, confide in ally, workshop this.
+	- [[Synergist]] needs to play on this hard
+	- maybe this can add 1 Success to a roll or clear a Condition
+- Change Level/Season to something like Rank/Tier
+- Change/Split [[Linesmith]] to Forger/Artificer/Crafter, Aethyr Forge/Smith, Fate Spinner, Fate Weaver
+- [[Conduit]] Ability - Once per Scene/Combat/Session a nearby ally can use one of your Spell Pieces instrad of the Local ones. You can still add one of yours to make it a Chord
+- Conduit is kinda like Warlock/Cleric, you Channel the power of something bigger greater. This gives the GM something to work with as well. Would mean rethinking Bond Pool and Downfall
+- What if...we borrowed "When the Team First Came Together" from *MASKS* and/or the "Inciting Indicent" from *Avatar*? 
+	- Use this as a way to give history to the characters from the get-go.
+	- Could combine this with some kind 0of relationship questions too, maybe there is a gerneral pool/list of questions and each class gets a specifgic one.
+- What if...take inspiration from *Fight, Item, Run* and use "Affinity Prompts" and maybe "Cutscenes" or things from different Classes.
+- What if...we used "Background Questions" from *Kids on Bikes* as inspiration.
+- Abilities
+	- **Furious Roar** - Once per Session you can let out a great cry filled with the power of [[Anger]]. Roll Danger, can spend MP (maybe HP) to add dice. Add Successes to your action.
+	- **Share Strength**
+	- **Cold Hands, Warm Heart** 
+		- [[Fire]] Ability
+		- Spend MP to remove Condition
+	- **From the Heartt**
