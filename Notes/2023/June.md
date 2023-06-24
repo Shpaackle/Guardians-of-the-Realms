@@ -16,4 +16,25 @@
 	- **Cold Hands, Warm Heart** 
 		- [[Fire]] Ability
 		- Spend MP to remove Condition
-	- **From the Heartt**
+	- **From the Heart**
+		- [[Synergist]] ability
+		- comforting words to remove Condition, Bond Pool ability maybe, or this could be the making a gift with assist pool instead of **I Made This For You**.
+- [[Linesmith]]
+	- **Create Coincidence/Alter Fate** 
+		- add dice to roll, after result seen. Upgrade free Reroll?
+- [[Mechanist]]
+	- Bond Pool - "Inventor", "Gadgets"
+		- Use a gadget to boost an ally's roll without using your action, later increase to off turn to help pay cost to avoid attack/effect/hit
+		- Make Gadget to give one of your Spell Pieces, this item has a pool to pull Successes from
+		- Alter machine/weapon/construct, either decreasing difficulty to avoid attack or advance a particular goal
+	- Robot Buddy
+	- Bond Pool Ability - "Upgrade"
+- [[Oathbound]]
+	- make Bond Pool Ability that creates a Pact with something, pick a Spell Piece and skill this helps with, or maybe that's the actual Pool itself. And then the Ability would be to either access those bonuses or to add have that summoned being help.
+	- maybe then the Downfall would be to lose that contract and have to create another to get it back or maybe Summon another.
+- [[Synergist]]
+	- mess with the bonds between people
+	- understands people's emotions/motives
+	- **Here, Use Mine** - give ally the ability to use your Facet or Skill instead of theirs to accomplish something, maybe allow them a reroll with yours.
+		- change name **I Can Help**, **Here let me**, something along those lines.
+	- **I Need to Borrow That** - use ally's Spell Piece, Facet, Ability once per Scene/Session.
