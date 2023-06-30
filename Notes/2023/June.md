@@ -38,3 +38,9 @@
 	- **Here, Use Mine** - give ally the ability to use your Facet or Skill instead of theirs to accomplish something, maybe allow them a reroll with yours.
 		- change name **I Can Help**, **Here let me**, something along those lines.
 	- **I Need to Borrow That** - use ally's Spell Piece, Facet, Ability once per Scene/Session.
+- What if...most common = Elemental (1,2,3); uncommon = Emotional (4,5); rare = Primal (6)
+- Each Elemental Realm offers at least 1 Background Question that fits thematically. (change to all Realms)
+- What if...Death and Fate/Luck are added to [[Primal]] category, would replace [[Abomination]] or [[Nightmares]]. Do I still have Dreams? If [[Spirits]] is still a thing, replace that?
+- What is...we use some kind of game mechanic to encourage Teamwork. Like checkboxes that get X when you help an ally or do some kind of bond forming or RP that is emotionally poignant/interesting and can spend to add Success to action for free. OR maybe it's a "Stat" that you roll to help with that many Dice, on Success you add to action, on Edge Success it costs 1 from the Pool, on Miss it costs 1 plus GM can make move or maybe get injury?
+- What if...during Random Generation you would get different tables for Class based on Category
+- What if...Magic/Special Items had a Tag, Skill, or Spell Piece attached to them, and a pool of 
