@@ -43,4 +43,18 @@
 - What if...Death and Fate/Luck are added to [[Primal]] category, would replace [[Abomination]] or [[Nightmares]]. Do I still have Dreams? If [[Spirits]] is still a thing, replace that?
 - What is...we use some kind of game mechanic to encourage Teamwork. Like checkboxes that get X when you help an ally or do some kind of bond forming or RP that is emotionally poignant/interesting and can spend to add Success to action for free. OR maybe it's a "Stat" that you roll to help with that many Dice, on Success you add to action, on Edge Success it costs 1 from the Pool, on Miss it costs 1 plus GM can make move or maybe get injury?
 - What if...during Random Generation you would get different tables for Class based on Category
-- What if...Magic/Special Items had a Tag, Skill, or Spell Piece attached to them, and a pool of 
+- What if...Magic/Special Items had a Tag, Skill, or Spell Piece attached to them, and a pool of Successes to pull from. This would treat items as if they were their own Bond Pool. This would fit well with Abilities from the Mechanist, Extractor, Synergist, maybe Linesmith or Wielder. Although I do like keeping them in distinct Classes to give them a sense of uniqueness or separateness or specialness.
+- I want...the feel of this game to be epic and over-the-top. Shonen & Magical Girl feels. I want this to be giving Exalted vibes. Especially with some of the Portals/Realms/Magics/Rifts.
+- I want...some of the Realms to include Light, Shadow, Life, Death, Storms, Plants/Wood/Life/Nature
+- What if...Portal/Realm gives another Assist Pool to use the words or abilities within. The first time this Pool empties in a Session/Scene you take an Injury.
+- What if...we changed stats to Zeal, Grit, Intuition, Bluster
+	- Daring = Zeal
+	- Understanding = Intuition
+	- Adaptability = Grit
+- What if...Unifier is why the Citadel was created. They tried to bring the Guilds together to bring peace & harmony to the world. but somewhere along the way they became Corrupted by the Aethyr or their mission. 
+	- Was originally thinking that they were Synergist but maybe they were an Oathbound or Wielder and either their Oath or Implement became Corrupted and warped their mission
+- What if...Unifier was the one who wanted to bring Aethyr to the masses and this is actually what caused the Cataclysm.
+- What is...we brought back the idea of a Corruption track? This fits with the current ideas & timeline floating in my head. Maybe one of the Injuries/Wounds consequences.
+- Everyone comes to The Citadel through their own Path/Journey. Along the way they discover their class? OR maybe they come to The Citadel to learn & train once they discover their Spark. Need to somehow work this into the new history. I've made where everyone gets access to Magic. Do we make it where certain people are born with a Spark or maybe everyone's Spark is dormant and some even then turns the Spark on. Maybe even some people are born with theirs already on but this is rare, just like those born with no Spark. Maybe if everyone is born with Spark then Skill/Power/Desire are what separates Guardians from everyone else?
+- Need to replace HP with some kind of mechanical effects.
+- What is...each Realm gave an Overcharge Ability that cost Corruption to use. Or maybe one use per Session and Corruption to use again.
