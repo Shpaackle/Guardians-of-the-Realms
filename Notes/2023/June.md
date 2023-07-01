@@ -66,5 +66,10 @@
 - [[Oathbound]]
 	- maybe think about giving this Class Rune powers, maybe to do traps or binding. Also this could flavor them as a summoner as well.
 	- maybe give them a later ability to bind monsters that are defeated
+	- thinking back to earlier iterations of this class, maybe give them a later ability in their Bond Pool that they can use any word on their character sheet as a Spell Piece
 - [[Mechanist]]
 	- maybe they are the only ones who can use magical vehicles?
+- What if Magic Specialty in Classes becomes their Plane/Rift/Magic Type
+	- make original Specialty for Synergist into an Ability, maybe at 2nd level or an Assist Pool Ability
+- Synergist
+	- since this is about the Power of Friendship and their Assist Pool is supposed to be about 
