@@ -70,14 +70,42 @@ Yes?
 ## Original 
 - Containing
 - Trick Shot
-- Grou
+- Group Combat
+- Outnumbered
+
+## Current
+
 
 # Where do players get their Personal Spell Pieces from?
+## Original 
+From their Emotional Plane and their connection to Magic Source
+
+## Current
+
 
 # Are you changing Key and Signature Spell at all?
+## Original
+Only the name? Probably not though
+
+## Current
+
 
 # Are you changing Lesson? If so, how do players communicate what they want their story to be about?
+## Original
+
+
+## Current
+
 
 # What are the Magic and Health resources in your game?
+## Original
+
+
+## Current
+
 
 # How much Health and Magic do the players have to start?
+## Original
+
+
+## Current
