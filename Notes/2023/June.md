@@ -57,4 +57,9 @@
 - What is...we brought back the idea of a Corruption track? This fits with the current ideas & timeline floating in my head. Maybe one of the Injuries/Wounds consequences.
 - Everyone comes to The Citadel through their own Path/Journey. Along the way they discover their class? OR maybe they come to The Citadel to learn & train once they discover their Spark. Need to somehow work this into the new history. I've made where everyone gets access to Magic. Do we make it where certain people are born with a Spark or maybe everyone's Spark is dormant and some even then turns the Spark on. Maybe even some people are born with theirs already on but this is rare, just like those born with no Spark. Maybe if everyone is born with Spark then Skill/Power/Desire are what separates Guardians from everyone else?
 - Need to replace HP with some kind of mechanical effects.
-- What is...each Realm gave an Overcharge Ability that cost Corruption to use. Or maybe one use per Session and Corruption to use again.
+- What if...each Realm gave an Overcharge Ability that cost Corruption to use. Or maybe one use per Session and Corruption to use again.
+- History
+	- Aethyr used to be one unified force when the Wanderer first arrived. 
+	- The Wanderer taught those who were able to learn, thereby creating the first Classes
+	- The Equalizer through trying to bring Aethyr to everyone split it into different types of magic or rifts
+	- 
