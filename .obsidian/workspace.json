@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023/June.md",
+                "file": "Ley Lines.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023/June.md",
+                "file": "Ley Lines.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023/June.md",
+                "file": "Ley Lines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023/June.md"
+                "file": "Ley Lines.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "33e57823dc9b638c",
   "lastOpenFiles": [
-    "Notes/General.md",
     "Notes/2023/June.md",
+    "Notes/General.md",
     "Notes/2023/January.md",
     "Notes/Other Games/Fight Item Run.md",
     "Notes/Other Games/Other Games.md",

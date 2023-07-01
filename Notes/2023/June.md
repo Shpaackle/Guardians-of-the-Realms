@@ -62,4 +62,9 @@
 	- Aethyr used to be one unified force when the Wanderer first arrived. 
 	- The Wanderer taught those who were able to learn, thereby creating the first Classes
 	- The Equalizer through trying to bring Aethyr to everyone split it into different types of magic or rifts
-	- 
+	- Unity discovers that the magic wants to bring itself back together
+- [[Oathbound]]
+	- maybe think about giving this Class Rune powers, maybe to do traps or binding. Also this could flavor them as a summoner as well.
+	- maybe give them a later ability to bind monsters that are defeated
+- [[Mechanist]]
+	- maybe they are the only ones who can use magical vehicles?
