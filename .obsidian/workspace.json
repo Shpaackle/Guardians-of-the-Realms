@@ -79,24 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Elemental/Fire.md",
+                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "33e57823dc9b638c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf"
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
+                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
+                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf"
+                "file": "Notes/Workbooks - Harmony Drive/The Basics.md"
               }
             }
           },
@@ -240,11 +230,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33e57823dc9b638c",
+  "active": "f862c4a966d11b9b",
   "lastOpenFiles": [
+    "Realms/Elemental/Fire.md",
+    "Notes/Workbooks - Harmony Drive/The Basics.md",
+    "Notes/Workbooks - Harmony Drive",
+    "Notes/Workbook.md",
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Challenges).pdf",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
     "Guardians/Conduit/Conduit.md",
     "Guardians/Conduit/Notes.md",
     "Guardians/Conduit/Conduit 1.md",
@@ -260,7 +254,6 @@
     "Notes/Other Games/Other Games.md",
     "Notes/Other Games/Avatar.md",
     "Realms/Elemental/Elemental.md",
-    "Realms/Elemental/Fire.md",
     "Notes/Other Games/Hearts of Harmony.md",
     "Realms/Emotional/Anger.md",
     "Notes/Other Games/Quest.md",
