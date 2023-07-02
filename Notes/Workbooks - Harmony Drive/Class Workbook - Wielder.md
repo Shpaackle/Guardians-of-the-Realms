@@ -88,7 +88,7 @@ Weapon/Implement
 ## Original
 - Implement gains abilities, speech, intelligence, etc.
 - HP increases
-- AP size increase
+- AP size increases
 
 ## Current
 

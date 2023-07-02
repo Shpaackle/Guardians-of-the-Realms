@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,16 +59,16 @@
         "currentTab": 3
       },
       {
-        "id": "e302bce64a552d88",
+        "id": "909ed3746bafd13e",
         "type": "tabs",
         "children": [
           {
-            "id": "4ff78613eb993cb7",
+            "id": "f685696c4d1f3ced",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Workbook (Class) - Wielder.pdf"
+                "file": "Workbook (Class) - Summoner.pdf"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md"
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md"
               }
             }
           },
@@ -219,14 +219,16 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
-    "Workbook (Class) - Wielder.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
-    "Notes/Other Games/Quest.md",
+    "Workbook (Class) - Summoner.pdf",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+    "Workbook (Class) - Synergist.pdf",
+    "Workbook (Class) - Wielder.pdf",
+    "Notes/Other Games/Quest.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Mechanist.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Linesmith.md",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Conduit.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook.md",
