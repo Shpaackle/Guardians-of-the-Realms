@@ -1,6 +1,13 @@
 # What kinds of encounters will be in your game?
 ## Original
+### Snarl/Tangle 
+Ley Lines get overrun with bad Magic, or leaks out to the world around it. Causes objects to animate and change.
 
+### Minion attacks
+
+
+### Corrupted Guardians
+Former MG that gave into, willingly or not, the seductive call of unlimited power.
 
 ## Current
 
