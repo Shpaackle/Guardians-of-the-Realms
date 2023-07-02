@@ -8,67 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c3e1ab1e62e646f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Realms/Emotional/Anger.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31a27743a2c39818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Other Games/Quest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd760e212b864f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spell Pieces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e88a04d98e4afbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "f57e07b3f0f41681",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "efc58b6ce0e39411",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf"
               }
             }
           }
@@ -130,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5,
-    "collapsed": true
+    "width": 441.5
   },
   "right": {
     "id": "845bc6ba3d93d830",
@@ -147,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md"
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md"
               }
             }
           },
@@ -204,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +165,17 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Mechanist.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Mechanist.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Linesmith.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Ley Reader.pdf",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
     "Workbook (Class) - Summoner.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
     "Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Wielder.pdf",
     "Notes/Other Games/Quest.md",
@@ -251,7 +197,6 @@
     "Guardians/Conduit/Class Description.md",
     "Guardians/Conduit/Bond Pool.md",
     "Notes/2023/June.md",
-    "Guardians/Workbooks/Conduit",
     "Ley Lines.md",
     "Notes/General.md",
     "Notes/2023/January.md",
