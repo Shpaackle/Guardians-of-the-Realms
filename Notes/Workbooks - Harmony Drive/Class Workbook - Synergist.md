@@ -3,7 +3,7 @@
 - Combiner
 
 ## Current
-
+[[Guardians/Synergist|Synergist]]
 
 # Where does this class get its power?
 ## Original

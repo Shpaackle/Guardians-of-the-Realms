@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+                "file": "Guardians/Conduit/Conduit.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+                "file": "Guardians/Conduit/Conduit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+                "file": "Guardians/Conduit/Conduit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md"
+                "file": "Guardians/Conduit/Conduit.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
+    "Guardians/Conduit/Bond Pool.md",
+    "Guardians/Conduit/Conduit.md",
+    "Guardians/Extractor.md",
+    "Guardians/Synergist.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
@@ -190,16 +194,12 @@
     "Notes/Workbook.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Challenges).pdf",
-    "Guardians/Conduit/Conduit.md",
     "Guardians/Conduit/Notes.md",
     "Guardians/Conduit/Conduit 1.md",
     "Guardians/Conduit/Class Description.md",
-    "Guardians/Conduit/Bond Pool.md",
     "Notes/2023/June.md",
     "Ley Lines.md",
     "Notes/General.md",
-    "Notes/2023/January.md",
-    "Notes/Other Games/Fight Item Run.md"
+    "Notes/2023/January.md"
   ]
 }
