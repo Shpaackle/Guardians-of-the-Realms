@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guardians/Conduit/Conduit.md",
+                "file": "Notes/2023/07 July.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guardians/Conduit/Conduit.md",
+                "file": "Notes/2023/07 July.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guardians/Conduit/Conduit.md",
+                "file": "Notes/2023/07 July.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guardians/Conduit/Conduit.md"
+                "file": "Notes/2023/07 July.md"
               }
             }
           },
@@ -165,8 +165,11 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
-    "Guardians/Conduit/Bond Pool.md",
+    "Notes/2023/01 January.md",
+    "Notes/2023/07 July.md",
+    "Notes/2023/06 June.md",
     "Guardians/Conduit/Conduit.md",
+    "Guardians/Conduit/Bond Pool.md",
     "Guardians/Extractor.md",
     "Guardians/Synergist.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
@@ -197,9 +200,6 @@
     "Guardians/Conduit/Notes.md",
     "Guardians/Conduit/Conduit 1.md",
     "Guardians/Conduit/Class Description.md",
-    "Notes/2023/June.md",
-    "Ley Lines.md",
-    "Notes/General.md",
-    "Notes/2023/January.md"
+    "Ley Lines.md"
   ]
 }

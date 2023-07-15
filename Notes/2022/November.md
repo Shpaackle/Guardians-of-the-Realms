@@ -55,7 +55,7 @@
 - Chance
 
 # 11-6
-- Change [~~Mechanical Buddy~~Clockwork Golem](Guardians/Mechanist#Assist%20Pool) to Great Invention? [See other notes](Notes/2023/January#1-4)
+- Change [~~Mechanical Buddy~~Clockwork Golem](Guardians/Mechanist#Assist%20Pool) to Great Invention? [See other notes](01%20January.md#1-4)
 
 # 11-13
 - Add *secret/hidden* and *meaning* to [[Oathbound]] spell pieces
