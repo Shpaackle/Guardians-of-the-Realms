@@ -1,0 +1,13 @@
+# 3-01
+- Still use Strain, but treat it like Scatter. The more magic someone uses, the more their Emotional connection becomes overwhelming. Just as every Guardian displays their Emotional connection, they display their Turmoil differently as well. Some become no more than their emotion, others display no emotion at all. Maybe have it be a state called Turmoil or something.
+- Give Conduit the ability to add X Successes to an action. Also give them an advancemnt that lets them Over-Scatter into their Bond Pool.
+- Reddit comment
+	- "Depends on why they are rolling, ie. what's the dramatic question that the roll is anwering? That could be:
+		- Can I pick the lock quickly?
+		- Can I pick this lock without breaking my tools?
+		- Can I pick this lock open without triggering the trap?
+		- Can I pick this lock at all?
+	- In each case the effect of a failed roll could be different:
+		- You take 1 minute but haven't opened it yet - do you want to spend another minute trying?
+		- You break a lockpick. You still have the tools to try, but you'll be at disadvantaage until you repair them.
+		- You trigger a trap, and s the lock opens, the"
