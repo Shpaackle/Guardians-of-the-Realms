@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Notes/Other Games/Quest.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Notes/Other Games/Quest.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Notes/Other Games/Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023/07 July.md"
+                "file": "Notes/Other Games/Quest.md"
               }
             }
           },
@@ -165,9 +165,14 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
+    "Notes/Other Games/Hearts of Harmony.md",
+    "Notes/Abilities.md",
+    "Notes/Emotions Notes.md",
+    "Notes/General.md",
+    "Notes/2023/02 February.md",
+    "Notes/2023/01 January.md",
     "Notes/2023/06 June.md",
     "Notes/2023/07 July.md",
-    "Notes/2023/01 January.md",
     "Guardians/Conduit/Conduit.md",
     "Guardians/Conduit/Bond Pool.md",
     "Guardians/Extractor.md",
@@ -194,12 +199,7 @@
     "Notes/Workbooks - Harmony Drive/The Basics.md",
     "Realms/Elemental/Fire.md",
     "Notes/Workbooks - Harmony Drive",
-    "Notes/Workbook.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf",
-    "Guardians/Conduit/Notes.md",
-    "Guardians/Conduit/Conduit 1.md",
-    "Guardians/Conduit/Class Description.md",
-    "Ley Lines.md"
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf"
   ]
 }

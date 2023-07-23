@@ -54,6 +54,12 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 - Look at Glitter Hearts (again?) and the fan update (again) for inspiration for Realm Abilities
 - Look at Savage Worlds again?? Especially since it seems I want to go down the take pieces and stick them together route. Maybe use things from that Superhero game I was obsessed with for a hot minute, Sentinels of City or something
 
+# 1-22
+- What if we make the abilities generic for the different Realms or Categories. This would allow someone to make something like a Wall of Silence or Fire or whatever.
+- Doing Something
+	- When you want your character to do something, describe what your character is doing. Remember to look at your Approaches to help with this.
+- Add mechanics of Hold to the game. Maybe used as consequence of Edge Successes. GM can then spend Hold to turn a player's Success into Edge, or maybe to use certain GM Moves. Think about using Clocks. Hold can be spent to make something more Challenging or to use an extra Ability off turn.
+
 # 1-24
 ## Quest Notes
 ### Abilities
