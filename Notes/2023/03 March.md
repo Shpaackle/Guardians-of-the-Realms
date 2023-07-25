@@ -10,4 +10,6 @@
 	- In each case the effect of a failed roll could be different:
 		- You take 1 minute but haven't opened it yet - do you want to spend another minute trying?
 		- You break a lockpick. You still have the tools to try, but you'll be at disadvantaage until you repair them.
-		- You trigger a trap, and s the lock opens, the"
+		- You trigger a trap, and s the lock opens, there is a sound of glass breaking and you see a piece of paper disintegrate, covered in acid (other treasure remains).
+		- You are unable to pick this lock, it's beyond your ability. How else might you go about this?
+	- In two of those cases above, you can retry the pick but there has been some consequence of the failure. In the other two cases, you cannot - in one case because there's nothing to retry, and in the final case because the DM took a 'can you/can't you' apporach to it, and while you can still attempt to open the lock, you'll need to take some different approach."

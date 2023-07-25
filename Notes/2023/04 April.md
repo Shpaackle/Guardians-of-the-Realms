@@ -1,0 +1,2 @@
+- Need to change "Ley Lines", they don't mean what I think they mean. Ley = Meadow, stems from theory of believing energy ran between stone features in Britain that ran through meadows
+- Make a class called Chosen? That's my outsider class that brings in an Isekai element

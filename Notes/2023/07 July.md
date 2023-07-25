@@ -17,3 +17,11 @@
 - Look at "Occult Adventures" from Pathfinder for ideas
 - Check out Kineticist as well, there is an Archetype in C07S that was mineable.
 - Look at that MASKS add-on that takes inspiration from Anime.
+
+# 7-22
+- Anger Ability
+	- Give aura or character alone that decreases the difficulty for Destroy.
+	- Or maybe lets another number be a Success, maybe even changeing Edge.
+	- Once per Session/Day, effects the whole Encounter or maybe as many Rounds/Turns as Strain expended.
+- Shape Element
+	- Ability for some/all of the Elemental Realms, maybe even some Primal (ie Light, Shadow)

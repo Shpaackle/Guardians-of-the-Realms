@@ -92,21 +92,29 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 	- someone summoned here or pulled here
 	- *Otherworld Expertise*
 		- this ability allows your knowledge of your world to add dice to a roll.
-- ## Spell Pieces
-	- Cinder
-	- Tinder
-	- Ash
-	- Flash
-	- Expand
-	- Extend
-	- Expanse
-	- Expansive
-	- Minion
-	- Growth
-	- Growing
-	- Alight
-	- Burn
-	- Burning
-	- Brand
-	- Vapor
-	- Chilling
+## Spell Pieces
+- Cinder
+- Tinder
+- Ash
+- Flash
+- Expand
+- Extend
+- Expanse
+- Expansive
+- Minion
+- Growth
+- Growing
+- Alight
+- Burn
+- Burning
+- Brand
+- Vapor
+- Chilling
+
+# 1-31
+## Spell Pieces
+- Flower
+- Flowering
+- Budding
+- Blossom
+- Blossoming
