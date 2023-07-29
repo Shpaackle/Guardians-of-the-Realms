@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Guardians/Synergist.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Guardians/Synergist.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023/07 July.md",
+                "file": "Guardians/Synergist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023/07 July.md"
+                "file": "Guardians/Synergist.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "e88a04d98e4afbd7",
   "lastOpenFiles": [
+    "Guardians/Mechanist.md",
+    "Guardians/Extractor.md",
+    "Notes/2023/07 July.md",
     "Notes/2023/01 January.md",
     "Notes/2023/04 April.md",
     "Notes/2023/03 March.md",
@@ -176,10 +179,8 @@
     "Notes/Other Games/Quest.md",
     "Notes/Other Games/Hearts of Harmony.md",
     "Notes/2023/06 June.md",
-    "Notes/2023/07 July.md",
     "Guardians/Conduit/Conduit.md",
     "Guardians/Conduit/Bond Pool.md",
-    "Guardians/Extractor.md",
     "Guardians/Synergist.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
@@ -197,7 +198,6 @@
     "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Conduit.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook.md",
-    "Notes/Workbooks - Harmony Drive/Challenges.md",
     "Notes/Workbooks - Harmony Drive",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf"
