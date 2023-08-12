@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38520d7b93260725",
+        "id": "004d5861bf58cc40",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc38aa0f0d622bb",
+            "id": "9d2fa29dfe04432b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
+                "file": "Worldbuilding/History.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "right": {
     "id": "845bc6ba3d93d830",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
+                "file": "Worldbuilding/History.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/The Basics.md",
+                "file": "Worldbuilding/History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/The Basics.md"
+                "file": "Worldbuilding/History.md"
               }
             }
           },
@@ -150,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +165,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fc38aa0f0d622bb",
+  "active": "9d2fa29dfe04432b",
   "lastOpenFiles": [
+    "Worldbuilding/Untitled.canvas",
+    "Worldbuilding/History.md",
+    "Magical Guardians (original)/World Building/History.md",
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
+    "Magical Guardians (original)/World Building/Squall.md",
+    "Magical Guardians (original)/World Building/The Shattering.md",
+    "Notes/Workbooks - Harmony Drive/The Basics.md",
+    "Worldbuilding",
     "Realms/Elemental/Elemental.md",
     "Realms/Elemental/Earth.md",
     "Realms/Elemental/Fire.md",
@@ -174,7 +184,6 @@
     "Notes/2023/03 March.md",
     "Notes/2023/04 April.md",
     "Notes/2023/06 June.md",
-    "Notes/Workbooks - Harmony Drive/The Basics.md",
     "Notes/Workbooks - Harmony Drive/Lore.md",
     "Notes/2022/December.md",
     "Notes/Workbooks - Harmony Drive/December^fbb5cf.md",
@@ -189,17 +198,10 @@
     "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Summoner.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
-    "Guardians/Extractor.md",
-    "Guardians/Oathbound.md",
-    "Guardians/Wielder.md",
-    "Guardians/Conduit/Conduit.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Mechanist.pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Ley Reader.pdf",
     "Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Wielder.pdf",
-    "Notes/Workbooks - Harmony Drive",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Basics).pdf",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Class).pdf"
+    "Notes/Workbooks - Harmony Drive"
   ]
 }
