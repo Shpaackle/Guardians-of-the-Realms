@@ -4,7 +4,7 @@
 - Think about trimming down # of Realms
 
 # 12-8
-- Give [[Mechanist]] ability to summon tools or create tools from Aethyr, maybe [[Linesmith]] instead to fit theme
+- Give [[Mechanist]] ability to summon tools or create tools from Aethyr, maybe [[Linesmith]] instead to fit theme ^fbb5cf
 - Add magic tattoos?
 
 # 12/11 
@@ -14,5 +14,5 @@
 - Add *shape* or *shaping* to Spell Pieces for [[Linesmith]]
 
 # 12/25
-- Add "Battle Trance" to [[Wielder]]
+- Add "Battle Trance" to [[Wielder]] ^d219ff
 - Add "Berserker" to either [[Wielder]] or maybe as [[Combat Advantage]]. Also think about adding it as an ability to Realms if we go down that route. 

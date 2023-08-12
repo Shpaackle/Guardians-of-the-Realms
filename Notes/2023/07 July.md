@@ -10,7 +10,7 @@
 - Oathbound 
 	- Go back to playing with words idea.
 	- Make it so they literally use words to attack?
-	- Maybe their Bond Pool turns into something like "Contract." Player describes how their Contract manifests. Use the words of the Contract, actual ink/letters/runes etc of how it manifests.
+	- Maybe their Bond Pool turns into something like "Contract." Player describes how their Contract manifests. Use the words of the Contract, actual ink/letters/runes of how it manifests.
 - Mechanist or Leysmith - look at Aethernaut from C07S (pg. 394) for inspiration.
 	- Devices
 	- Precision
@@ -21,7 +21,7 @@
 # 7-22
 - Anger Ability
 	- Give aura or character alone that decreases the difficulty for Destroy.
-	- Or maybe lets another number be a Success, maybe even changeing Edge.
+	- Or maybe lets another number be a Success, maybe even changing Edge.
 	- Once per Session/Day, effects the whole Encounter or maybe as many Rounds/Turns as Strain expended.
 - Shape Element
 	- Ability for some/all of the Elemental Realms, maybe even some Primal (ie Light, Shadow)

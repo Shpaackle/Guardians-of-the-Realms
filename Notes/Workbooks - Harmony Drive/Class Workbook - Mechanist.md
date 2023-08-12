@@ -92,4 +92,4 @@ Taps into Ley Lines through the use of technology
 
 ## Current
 
-
+![[December#^fbb5cf]]

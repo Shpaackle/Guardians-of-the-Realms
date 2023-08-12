@@ -92,4 +92,4 @@ Weapon/Implement
 
 ## Current
 
-
+![[December#^d219ff]]
