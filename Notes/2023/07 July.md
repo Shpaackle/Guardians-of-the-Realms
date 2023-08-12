@@ -25,3 +25,28 @@
 	- Once per Session/Day, effects the whole Encounter or maybe as many Rounds/Turns as Strain expended.
 - Shape Element
 	- Ability for some/all of the Elemental Realms, maybe even some Primal (ie Light, Shadow)
+
+# 7-30
+## [[Wielder]]
+- ![[02 February#Wielder]]
+- Tank/Striker split
+- Ability named Bulwark/Stalwart that allows you to take all attacks fro a round without taking damage. 
+	- Season 5 ability, maybe 4?
+
+## Conduit
+- ![[02 February#Conduit]]
+- Striker or Controller/Support split
+- **Form of Aethyr**
+	- your body becomes made of magic and allows you to ignore an injury.
+	- Maybe a Bond Pool ability
+
+## Synergist
+- ![[02 February#Synergist]]
+- Support/Healer/Controller
+## Realms
+- Had another thought about making Realm just another Assist Pool
+- Also had thoughts about choosing Spell Pieces
+	- You get a certain number of pieces to choose, and an be chosen however you want to split between your Class and Realm
+- What if I did bring all the Realms down to like 5 per category? Then I could add more as time goes on if I want to. This would help with some
+
+## Ultimate Combat
