@@ -50,3 +50,7 @@
 - What if I did bring all the Realms down to like 5 per category? Then I could add more as time goes on if I want to. This would help with some
 
 ## Ultimate Combat
+- *Shadow Clone (pg 15)*
+	- Make shadowy duplicates, like magic mirror
+- *Light Steps (pg 16)*
+	- Run across difficult terrain or water or lava as long as the movement ends on safe space.

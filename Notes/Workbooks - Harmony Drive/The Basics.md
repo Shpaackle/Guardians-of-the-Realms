@@ -31,6 +31,15 @@ Each MG has learned their own way to reconnect with the Aethyr but regardless of
 Adding Synergy Pulse - How in tune with the world around you and your team mates.
 
 ## Current
+### Daring
+- Zeal
+- Fervor
+### Understanding
+- Intuition
+### Adaptability
+- Grit
+### Sensitivity
+### Subtlety
 
 
 # What kind of Skills will your players need?
