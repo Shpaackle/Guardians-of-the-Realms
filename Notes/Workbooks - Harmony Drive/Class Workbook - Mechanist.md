@@ -86,7 +86,7 @@ Taps into Ley Lines through the use of technology
 
 # What kinds of abilities or specialties does this class have?
 ## Original
-- Ability to interface with or understand tech encountered
+- Ability to easily interface with or understand tech encountered
 - Improvised Tools
 - New abilities for Mech Buddy
 

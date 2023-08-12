@@ -4,33 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea5cecb7608d670",
+        "id": "2cdd64c2ae337ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "e88a04d98e4afbd7",
+            "id": "21f55977c18c09cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guardians/Extractor.md",
+                "file": "Notes/2022/December.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6b9e92a58a6378c1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "218b0c1b77cf2bbd",
+            "id": "48db716127abddf7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guardians/Extractor.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guardians/Extractor.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guardians/Extractor.md"
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md"
               }
             }
           },
@@ -157,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,8 +181,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "218b0c1b77cf2bbd",
+  "active": "48db716127abddf7",
   "lastOpenFiles": [
+    "Notes/2022/December.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
+    "Notes/2022/August.md",
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Conduit.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Invoker.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Linesmith.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Mechanist.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
+    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
+    "Workbook (Class) - Summoner.pdf",
+    "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
+    "Guardians/Extractor.md",
     "Guardians/Oathbound.md",
     "Guardians/Wielder.md",
     "Guardians/Conduit/Conduit.md",
@@ -184,7 +205,6 @@
     "Guardians/Conduit/Untitled.md",
     "Guardians/Synergist.md",
     "Guardians/Mechanist.md",
-    "Guardians/Extractor.md",
     "Notes/2023/07 July.md",
     "Notes/2023/01 January.md",
     "Notes/2023/04 April.md",
@@ -192,21 +212,8 @@
     "Notes/2023/02 February.md",
     "Notes/Abilities.md",
     "Notes/Emotions Notes.md",
-    "Notes/General.md",
-    "Notes/Personality Tests.md",
-    "Notes/Other Games/Quest.md",
-    "Notes/Other Games/Hearts of Harmony.md",
-    "Notes/2023/06 June.md",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Synergist.md",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Wielder.md",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Oathbound.md",
-    "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Mechanist.pdf",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Mechanist.md",
-    "Notes/Workbooks - Harmony Drive/Class Workbook - Linesmith.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Ley Reader.pdf",
-    "Workbook (Class) - Summoner.pdf",
     "Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Wielder.pdf",
     "Notes/Workbooks - Harmony Drive",
