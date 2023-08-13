@@ -55,7 +55,7 @@
 - Affliction
 - Agony 
 - Agriculture
-- Air 
+- [[Air]] 
 - Alchemy
 - Alight
 - Aloof 
