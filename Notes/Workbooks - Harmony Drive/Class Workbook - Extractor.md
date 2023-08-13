@@ -3,7 +3,7 @@
 
 
 ## Current
-
+[[Extractor]]
 
 # Where does this class get its power?
 ## Original
