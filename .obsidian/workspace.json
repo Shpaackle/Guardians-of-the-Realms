@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook.md",
+                "file": "Realms/Primal/Chaos.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook.md",
+                "file": "Realms/Primal/Chaos.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook.md",
+                "file": "Realms/Primal/Chaos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Workbooks - Harmony Drive/Class Workbook.md"
+                "file": "Realms/Primal/Chaos.md"
               }
             }
           },
@@ -189,6 +189,10 @@
   },
   "active": "daccd8b8f71ca282",
   "lastOpenFiles": [
+    "Realms/Primal/Edge Success.md",
+    "Realms/Primal/Chaos.md",
+    "Realms/Elemental/Elemental.md",
+    "Notes/Workbooks - Harmony Drive/Class Workbook.md",
     "Spell Pieces.md",
     "Guardians/Manifestation.md",
     "Magical Guardians (original)/Current Draft/Classes/Invoker.md",
@@ -206,7 +210,6 @@
     "Magical Guardians (original)/World Building/The Shattering.md",
     "Notes/Workbooks - Harmony Drive/The Basics.md",
     "Worldbuilding",
-    "Realms/Elemental/Elemental.md",
     "Realms/Elemental/Earth.md",
     "Realms/Elemental/Fire.md",
     "Notes/2023/02 February.md",
@@ -215,9 +218,6 @@
     "Notes/2023/03 March.md",
     "Notes/2023/04 April.md",
     "Notes/2023/06 June.md",
-    "Notes/Workbooks - Harmony Drive/Lore.md",
-    "Notes/2022/December.md",
-    "Notes/Workbooks - Harmony Drive/December^fbb5cf.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Summoner.pdf",
