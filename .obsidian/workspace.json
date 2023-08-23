@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Realms/Primal/Chaos.md",
+                "file": "Realms/Elemental/Fire.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Primal/Chaos.md",
+                "file": "Realms/Elemental/Fire.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Primal/Chaos.md",
+                "file": "Realms/Elemental/Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Primal/Chaos.md"
+                "file": "Realms/Elemental/Fire.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "daccd8b8f71ca282",
   "lastOpenFiles": [
-    "Realms/Primal/Edge Success.md",
     "Realms/Primal/Chaos.md",
+    "Realms/Primal/Edge Success.md",
     "Realms/Elemental/Elemental.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook.md",
     "Spell Pieces.md",
