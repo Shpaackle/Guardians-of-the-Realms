@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Emotional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2023/09 September.md",
+                "file": "Spell Pieces.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2023/09 September.md",
+                "file": "Spell Pieces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2023/09 September.md"
+                "file": "Spell Pieces.md"
               }
             }
           },
@@ -182,12 +182,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,10 +200,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "02b389e440c88304",
+  "active": "1a69f5af9a0ad8f7",
   "lastOpenFiles": [
-    "Notes/2023/08 August.md",
+    "Notes/2023/01 January.md",
+    "Spell Pieces.md",
+    "Magical Guardians (original)/Old draft/Classes/Old Layout/Wielder_old.md",
+    "Magical Guardians (original)/Spell Pieces.md",
+    "Realms/Emotional/Anticipation.md",
     "Notes/2023/09 September.md",
+    "Notes/2023/08 August.md",
     "Notes/2023/07 July.md",
     "Realms/Elemental/Fire.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
@@ -211,10 +216,8 @@
     "Realms/Primal/Edge Success.md",
     "Realms/Elemental/Elemental.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook.md",
-    "Spell Pieces.md",
     "Guardians/Manifestation.md",
     "Magical Guardians (original)/Current Draft/Classes/Invoker.md",
-    "Magical Guardians (original)/Spell Pieces.md",
     "Magical Guardians (original)/Old draft/Classes/New Layout/Oathbound.md",
     "Realms/Elemental/Air.md",
     "Notes/Workbooks - Harmony Drive/Class Workbook - Conduit.md",
@@ -228,9 +231,6 @@
     "Notes/Workbooks - Harmony Drive/The Basics.md",
     "Worldbuilding",
     "Realms/Elemental/Earth.md",
-    "Notes/2023/02 February.md",
-    "Notes/2023/03 March.md",
-    "Notes/2023/04 April.md",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Bonded.pdf",
     "Magical Guardians (original)/Workbook PDFs/Workbook (Class) - Synergist.pdf",
     "Workbook (Class) - Summoner.pdf",

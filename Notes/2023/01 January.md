@@ -112,7 +112,7 @@ Give [[Wielder]] ability to combine a spell and weapon attack together. Maybe as
 - Chilling
 
 # 1-31
-## Spell Pieces
+## [[Spell Pieces]]
 - Flower
 - Flowering
 - Budding

@@ -17,19 +17,19 @@
 	- Radiance
 ***
 # 11
-- [[Anticipation]]
+- [11](Anticipation)
 	- Anticipation
 - [11](Joy)
 	- Joy
-- [[Sadness]]
+- [11](Sadness)
 	- Sadness
-- [[Anger]]
+- [11](Anger)
 	- Anger
-- [[Abomination]]
+- [11](Abomination)
 	- Abomination
-- [[Nightmares]]
+- [11](Nightmares)
 	- Nightmares
-- [[Radiance]]
+- [(Radiance)
 	- Radiance
 ***
 # A
