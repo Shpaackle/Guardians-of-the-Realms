@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spell Pieces.md",
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spell Pieces.md"
+                "file": "Notes/Workbooks - Harmony Drive/Class Workbook - Extractor.md"
               }
             }
           },
@@ -200,10 +200,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a69f5af9a0ad8f7",
+  "active": "7df8cbbf23bb38b5",
   "lastOpenFiles": [
-    "Notes/2023/01 January.md",
     "Spell Pieces.md",
+    "Notes/2023/01 January.md",
     "Magical Guardians (original)/Old draft/Classes/Old Layout/Wielder_old.md",
     "Magical Guardians (original)/Spell Pieces.md",
     "Realms/Emotional/Anticipation.md",
