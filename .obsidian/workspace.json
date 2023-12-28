@@ -52,6 +52,16 @@
             }
           },
           {
+            "id": "238cb15011127dab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "280b3027c37d90fd",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 441.5,
+    "collapsed": true
   },
   "right": {
     "id": "845bc6ba3d93d830",
@@ -218,7 +229,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -240,7 +253,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e46fb0c4937ca605",
+  "active": "238cb15011127dab",
   "lastOpenFiles": [
     "Spell Pieces.md",
     "Notes/2023/01 January.md",
